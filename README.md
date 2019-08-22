@@ -5,7 +5,7 @@ The result is stored in the [html](/html) folder. View it [here](https://jhu-cs3
 
 
 ## Usage
-Copy the [Doxygen](Doxygen) file to your pintos source root. Then execute `doxygen` 
+Copy the [Doxyfile](Doxyfile) file to your pintos source root. Then execute `doxygen` 
 in the source root.
 
 Note that the original comments in pintos codebase does not conform to the Doxygen
