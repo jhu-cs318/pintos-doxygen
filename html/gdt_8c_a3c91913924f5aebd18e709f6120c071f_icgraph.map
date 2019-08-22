@@ -1,0 +1,8 @@
+<map id="make_seg_desc" name="make_seg_desc">
+<area shape="rect" id="node1" title="Returns a segment descriptor with the given 32&#45;bit BASE and 20&#45;bit LIMIT (whose interpretation depend..." alt="" coords="421,55,539,80"/>
+<area shape="rect" id="node2" href="$gdt_8c.html#ae9a9122dd568c14bd49d9a8a91cafeac" title="GDT helpers." alt="" coords="247,5,373,31"/>
+<area shape="rect" id="node5" href="$gdt_8c.html#a14b9cb9d5d2ccfb0bae59d6935cca494" title="Returns a descriptor for a writable data segment with base at 0, a limit of 4 GB, and the given DPL." alt="" coords="249,55,371,80"/>
+<area shape="rect" id="node6" href="$gdt_8c.html#afef5fe81aa82bdb17f6ef1e20a041bbe" title="Returns a descriptor for an &quot;available&quot; 32&#45;bit Task&#45;State Segment with its base at the given linear a..." alt="" coords="253,104,367,129"/>
+<area shape="rect" id="node3" href="$gdt_8h.html#ad2acd7bce259a1a32213503c6fa18f14" title="userprog/gdt.h" alt="" coords="135,55,199,80"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,55,87,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="make_gdtr_operand" name="make_gdtr_operand">
+<area shape="rect" id="node1" title="Returns a descriptor that yields the given LIMIT and BASE when used as an operand for the LGDT instru..." alt="" coords="247,5,388,31"/>
+<area shape="rect" id="node2" href="$gdt_8h.html#ad2acd7bce259a1a32213503c6fa18f14" title="userprog/gdt.h" alt="" coords="135,5,199,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

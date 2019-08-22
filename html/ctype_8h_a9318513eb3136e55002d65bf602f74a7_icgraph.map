@@ -1,0 +1,12 @@
+<map id="isspace" name="isspace">
+<area shape="rect" id="node1" title=" " alt="" coords="676,56,742,81"/>
+<area shape="rect" id="node2" href="$stdlib_8h.html#a4e157d18591ba54c92e4da99a3d1ccae" title="Standard functions." alt="" coords="528,56,571,81"/>
+<area shape="rect" id="node7" href="$ide_8c.html#a6a992ae2a2f8f5e9dbaa54b2200a5e44" title="Disk detection and identification." alt="" coords="471,131,628,156"/>
+<area shape="rect" id="node10" href="$ctype_8h.html#aba67c74e5652a4544dbb92a46704cca3" title=" " alt="" coords="518,7,581,32"/>
+<area shape="rect" id="node3" href="$insult_8c.html#a6a4e1d1b146e74290b5991c19c12543e" title=" " alt="" coords="323,5,388,31"/>
+<area shape="rect" id="node4" href="$insult_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="162,31,212,56"/>
+<area shape="rect" id="node5" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="135,107,240,132"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,132,87,157"/>
+<area shape="rect" id="node8" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="288,157,423,183"/>
+<area shape="rect" id="node9" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="155,156,219,181"/>
+</map>

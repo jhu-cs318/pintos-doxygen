@@ -1,0 +1,4 @@
+<map id="smod64" name="smod64">
+<area shape="rect" id="node1" title="Divides signed 64&#45;bit N by signed 64&#45;bit D and returns the remainder." alt="" coords="133,5,202,31"/>
+<area shape="rect" id="node2" href="$arithmetic_8c.html#a5e4468d125f1ce0bae0a8e70e9a24328" title="Signed 64&#45;bit remainder." alt="" coords="5,5,85,31"/>
+</map>

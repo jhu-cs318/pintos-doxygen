@@ -1,0 +1,52 @@
+<map id="bitmap_set_multiple" name="bitmap_set_multiple">
+<area shape="rect" id="node1" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="1432,1175,1572,1200"/>
+<area shape="rect" id="node2" href="$bitmap_8h.html#a32ae992557d4a7187279c794a2745439" title="Finds the first group of CNT consecutive bits in B at or after START that are all set to VALUE,..." alt="" coords="1233,1124,1384,1149"/>
+<area shape="rect" id="node3" href="$free-map_8h.html#a711d601d292232031ea43c8c3408d85d" title="Allocates CNT consecutive sectors from the free map and stores the first into *SECTORP." alt="" coords="857,1175,988,1200"/>
+<area shape="rect" id="node36" href="$bitmap_8h.html#ad902676da525b9054efea0e69835aea6" title="Setting and testing multiple bits." alt="" coords="1255,497,1363,523"/>
+<area shape="rect" id="node39" href="$free-map_8h.html#a446ac8a6da612ce4f474647dfed414f0" title="filesys/free&#45;map.h" alt="" coords="672,1415,801,1440"/>
+<area shape="rect" id="node43" href="$palloc_8h.html#aa0c41db589ec1c86bd67271a85f07f2b" title="threads/palloc.h" alt="" coords="1041,1225,1181,1251"/>
+<area shape="rect" id="node9" href="$palloc_8h.html#a07c7ebed75f9af9c7cb7ba907ea28d75" title="Obtains and returns a group of PAGE_CNT contiguous free pages." alt="" coords="1043,1073,1178,1099"/>
+<area shape="rect" id="node4" href="$filesys_8h.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="168,1285,271,1311"/>
+<area shape="rect" id="node6" href="$inode_8h.html#a4445b24665d139b5f387bbc6428c9f81" title="Initializes an inode with LENGTH bytes of data and writes the new inode to sector SECTOR on the file ..." alt="" coords="342,859,441,884"/>
+<area shape="rect" id="node5" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="5,1011,102,1036"/>
+<area shape="rect" id="node7" href="$directory_8h.html#ab3951213f266ce0e0404203a35fefe8f" title="Opening and closing directories." alt="" coords="179,859,259,884"/>
+<area shape="rect" id="node8" href="$free-map_8h.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="158,611,280,636"/>
+<area shape="rect" id="node10" href="$malloc_8h.html#a8c1f926a188baad8ec94b5de439379c8" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="707,460,767,485"/>
+<area shape="rect" id="node29" href="$palloc_8h.html#a732c32fe6203de114cef5aa91d574a7a" title="Obtains a single free page and returns its kernel virtual address." alt="" coords="863,1125,982,1151"/>
+<area shape="rect" id="node11" href="$bitmap_8h.html#a8cf39272ab5d44e368dc21a166e3a236" title="Bitmap abstract data type." alt="" coords="502,308,608,333"/>
+<area shape="rect" id="node13" href="$block_8h.html#ab23e50178419646d6627f02eaaf76b4c" title="devices/block.h" alt="" coords="503,156,607,181"/>
+<area shape="rect" id="node14" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="337,181,446,207"/>
+<area shape="rect" id="node15" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="150,181,289,207"/>
+<area shape="rect" id="node16" href="$malloc_8h.html#a5e2c81a62eb095b4e07604260eebea77" title="Allocates and return A times B bytes initialized to zeroes." alt="" coords="528,611,583,636"/>
+<area shape="rect" id="node19" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="169,1011,269,1036"/>
+<area shape="rect" id="node20" href="$hash_8h.html#a814d3cdfd3e96d126b66ac892d28ba8b" title="Basic life cycle." alt="" coords="518,5,593,31"/>
+<area shape="rect" id="node21" href="$inode_8h.html#ab09e048387b074433767ae90e888d774" title="Reads an inode from SECTOR and returns a ‘struct inode’ that contains it." alt="" coords="510,460,601,485"/>
+<area shape="rect" id="node23" href="$inode_8h.html#aeb6be4a6658d5e2746fb704da3d929aa" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="502,660,609,685"/>
+<area shape="rect" id="node24" href="$inode_8h.html#ad6ee4ad6d1d9ecedb64ec631546f6a9e" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="501,509,609,535"/>
+<area shape="rect" id="node25" href="$malloc_8h.html#afa148085b6fa9594b4c35e100d94a183" title="Attempts to resize OLD_BLOCK to NEW_SIZE bytes, possibly moving it in the process." alt="" coords="525,759,586,784"/>
+<area shape="rect" id="node26" href="$hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0" title="Changes the number of buckets in hash table H to match the ideal." alt="" coords="524,808,586,833"/>
+<area shape="rect" id="node27" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="498,107,613,132"/>
+<area shape="rect" id="node28" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="514,709,596,735"/>
+<area shape="rect" id="node12" href="$free-map_8h.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="340,308,443,333"/>
+<area shape="rect" id="node17" href="$directory_8h.html#a5b00e2da83ce54480d49a91405cb625c" title="Opens and returns the directory for the given INODE, of which it takes ownership." alt="" coords="355,1211,428,1236"/>
+<area shape="rect" id="node18" href="$file_8h.html#a47788113ec3770733f6cc63f00cc5bb3" title="Opening and closing files." alt="" coords="354,611,429,636"/>
+<area shape="rect" id="node22" href="$directory_8h.html#a90c0b9ebb330de50b9d9ad5fde4d1676" title="Removes any entry for NAME in DIR." alt="" coords="347,511,435,536"/>
+<area shape="rect" id="node30" href="$fsutil_8h.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="182,1464,256,1489"/>
+<area shape="rect" id="node31" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="684,1464,789,1489"/>
+<area shape="rect" id="node32" href="$pagedir_8c.html#ae3b869fae614fc12be572c9e9a779565" title="Returns the address of the page table entry for virtual address VADDR in page directory PD." alt="" coords="688,759,785,784"/>
+<area shape="rect" id="node33" href="$pagedir_8h.html#a9f39029d88ceb005fc142ddb85febfc6" title="Creates a new page directory that has mappings for kernel virtual addresses, but none for user virtua..." alt="" coords="681,808,792,833"/>
+<area shape="rect" id="node34" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="494,1565,616,1591"/>
+<area shape="rect" id="node35" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="690,1365,783,1391"/>
+<area shape="rect" id="node37" href="$bitmap_8c.html#ad812c9d34d0b57984bfd95de5926dda8" title="Creates and returns a bitmap with BIT_CNT bits in the BLOCK_SIZE bytes of storage preallocated at BLO..." alt="" coords="1036,497,1185,523"/>
+<area shape="rect" id="node38" href="$palloc_8c.html#ae93da2ef876a9e957a6245fa2bd68a1f" title="Initializes pool P as starting at START and ending at END, naming it NAME for debugging purposes." alt="" coords="887,497,958,523"/>
+<area shape="rect" id="node40" href="$inode_8h.html#a17768b42e21fcfe0e84cfc3532f297d9" title="Closes INODE and writes it to disk." alt="" coords="509,1211,602,1236"/>
+<area shape="rect" id="node41" href="$directory_8h.html#a972c4f1aef505b8bf976063d2229676a" title="Destroys DIR and frees associated resources." alt="" coords="354,1285,429,1311"/>
+<area shape="rect" id="node42" href="$file_8h.html#a11e71f5d8bdfe65c54a1ae9b83c5d67a" title="Closes FILE." alt="" coords="353,1061,430,1087"/>
+<area shape="rect" id="node44" href="$malloc_8h.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="threads/malloc.h" alt="" coords="714,960,759,985"/>
+<area shape="rect" id="node47" href="$palloc_8h.html#ac9bfa0b2b7f497afaf152fea6a18cac2" title="Frees the page at PAGE." alt="" coords="860,1515,984,1540"/>
+<area shape="rect" id="node45" href="$bitmap_8h.html#a408b7516cc90e607cda3038009e1550d" title="Destroys bitmap B, freeing its storage." alt="" coords="499,1112,612,1137"/>
+<area shape="rect" id="node46" href="$hash_8h.html#a55e281aba358527422ae72c3f5910971" title="Destroys hash table H." alt="" coords="505,1161,606,1187"/>
+<area shape="rect" id="node48" href="$pagedir_8h.html#ab1919f57e1ba60ed2c2f46b4410e9799" title="Destroys page directory PD, freeing all the pages it references." alt="" coords="678,1664,795,1689"/>
+<area shape="rect" id="node49" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="686,1565,787,1591"/>
+<area shape="rect" id="node50" href="$thread_8c.html#acbbd25908c41e62d44a179cfbc3962e2" title="Completes a thread switch by activating the new thread&#39;s page tables, and, if the previous thread is ..." alt="" coords="664,1615,809,1640"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,283,56,308"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a5bbe56a416af8f77723b652362f742f7" title=" " alt="" coords="135,5,187,31"/>
+<area shape="rect" id="node3" href="$squish-unix_8c.html#adb2afcb6681c6ffb5b94b5236ef526a7" title="Prints MSG, formatting as with printf(), plus an error message based on errno, and exits." alt="" coords="447,183,503,208"/>
+<area shape="rect" id="node6" href="$squish-unix_8c.html#affc068d8a12b6a8f314c54afd607d26f" title="Make FD non&#45;blocking if NONBLOCKING is true, or blocking if NONBLOCKING is false." alt="" coords="266,107,399,132"/>
+<area shape="rect" id="node7" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="298,507,367,532"/>
+<area shape="rect" id="node8" href="$squish-unix_8c.html#abb67c86fbcd2791aaa7ae3004f414542" title="Copies data from stdin to SOCK and from SOCK to stdout until no more data can be read or written." alt="" coords="136,257,186,283"/>
+<area shape="rect" id="node14" href="$squish-unix_8c.html#a8314751b1a39e4c68eb4906d1b60efbc" title=" " alt="" coords="104,359,218,384"/>
+<area shape="rect" id="node15" href="$intq_8c.html#addd2664c1fa7444e1467b99e41e7192b" title=" " alt="" coords="133,408,189,433"/>
+<area shape="rect" id="node16" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="134,457,188,483"/>
+<area shape="rect" id="node4" href="$lib_2user_2syscall_8c.html#a55e99c539cf7723ec15e856b7e0a8cee" title=" " alt="" coords="553,257,595,283"/>
+<area shape="rect" id="node5" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="551,183,598,208"/>
+<area shape="rect" id="node9" href="$squish-unix_8c.html#a52d537a6832e2f129e0acf48eca1254e" title="Handle a read or write on *FD, which is the socket if FD_IS_SOCK is true, that returned end&#45;of&#45;file o..." alt="" coords="284,208,381,233"/>
+<area shape="rect" id="node10" href="$squish-unix_8c.html#a9c6840d01c1eb569b40c50c3c915e010" title="If FD is a terminal, configures it for noncanonical input mode with VMIN and VTIME set as indicated." alt="" coords="273,257,393,283"/>
+<area shape="rect" id="node11" href="$string_8c.html#a0af8a99685feb8d49d933589d20268fd" title="Copies SIZE bytes from SRC to DST, which are allowed to overlap." alt="" coords="291,359,374,384"/>
+<area shape="rect" id="node12" href="$lib_2user_2syscall_8c.html#ab0f9f22d375a9229b3c77859cf2035a0" title=" " alt="" coords="309,408,357,433"/>
+<area shape="rect" id="node13" href="$lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d" title=" " alt="" coords="308,457,357,483"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="strip_antisocial_prefixes" name="strip_antisocial_prefixes">
+<area shape="rect" id="node1" title="Drop possibly dangerous prefixes from FILE_NAME and return the stripped name." alt="" coords="945,116,1109,141"/>
+<area shape="rect" id="node2" href="$ustar_8h.html#a8d5a55c582d91f5c1cbd895f54b7a92c" title="Composes HEADER as a USTAR_HEADER_SIZE (512)&#45;byte archive header in ustar format for a SIZE&#45;byte file..." alt="" coords="757,91,897,116"/>
+<area shape="rect" id="node12" href="$ustar_8h.html#a39152fb20627ddb6bf2decba97472a6b" title="lib/ustar.h" alt="" coords="757,140,897,165"/>
+<area shape="rect" id="node3" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="608,91,709,116"/>
+<area shape="rect" id="node6" href="$tar_8c.html#aeae922065d4290e3c877a5f3a5d7a824" title=" " alt="" coords="609,41,708,67"/>
+<area shape="rect" id="node4" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="443,128,533,153"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="283,128,364,153"/>
+<area shape="rect" id="node7" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="426,55,549,80"/>
+<area shape="rect" id="node11" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="416,5,560,31"/>
+<area shape="rect" id="node8" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="279,55,368,80"/>
+<area shape="rect" id="node9" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="104,55,231,80"/>
+<area shape="rect" id="node10" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,55,56,80"/>
+<area shape="rect" id="node13" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="610,140,706,165"/>
+</map>

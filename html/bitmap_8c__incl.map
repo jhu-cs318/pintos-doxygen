@@ -1,0 +1,13 @@
+<map id="src/lib/kernel/bitmap.c" name="src/lib/kernel/bitmap.c">
+<area shape="rect" id="node1" title=" " alt="" coords="341,5,492,31"/>
+<area shape="rect" id="node2" href="$bitmap_8h.html" title=" " alt="" coords="101,79,174,104"/>
+<area shape="rect" id="node7" href="$debug_8h.html" title=" " alt="" coords="444,152,514,177"/>
+<area shape="rect" id="node8" href="$limits_8h.html" title=" " alt="" coords="341,79,404,104"/>
+<area shape="rect" id="node9" href="$round_8h.html" title=" " alt="" coords="428,79,495,104"/>
+<area shape="rect" id="node10" href="$kernel_2stdio_8h.html" title=" " alt="" coords="519,79,580,104"/>
+<area shape="rect" id="node11" href="$malloc_8h.html" title=" " alt="" coords="198,79,317,104"/>
+<area shape="rect" id="node3" href="$stdbool_8h.html" title=" " alt="" coords="5,152,81,177"/>
+<area shape="rect" id="node4" href="$stddef_8h.html" title=" " alt="" coords="218,152,287,177"/>
+<area shape="rect" id="node5" href="$inttypes_8h.html" title=" " alt="" coords="105,152,184,177"/>
+<area shape="rect" id="node6" href="$stdint_8h.html" title=" " alt="" coords="112,225,177,251"/>
+</map>

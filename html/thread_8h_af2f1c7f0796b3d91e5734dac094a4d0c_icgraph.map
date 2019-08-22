@@ -1,0 +1,7 @@
+<map id="thread_get_load_avg" name="thread_get_load_avg">
+<area shape="rect" id="node1" title="threads/thread.h" alt="" coords="197,80,344,105"/>
+<area shape="rect" id="node2" href="$mlfqs-load-1_8c.html#a4c5f62aa39a429a8ae1ef32f9fc9238d" title="Verifies that a single busy thread raises the load average to 0.5 in 38 to 45 seconds." alt="" coords="12,5,142,31"/>
+<area shape="rect" id="node3" href="$mlfqs-load-60_8c.html#a6f61ecba11d019e745c87eba5e4a74a3" title=" " alt="" coords="9,55,146,80"/>
+<area shape="rect" id="node4" href="$mlfqs-load-avg_8c.html#abf1ef79ad820ac65df92b26c8f1a351d" title=" " alt="" coords="5,104,149,129"/>
+<area shape="rect" id="node5" href="$mlfqs-recent-1_8c.html#afc46332e59acfbdd49260bd5fdca1798" title="Checks that recent_cpu is calculated properly for the case of a single ready process." alt="" coords="6,153,148,179"/>
+</map>

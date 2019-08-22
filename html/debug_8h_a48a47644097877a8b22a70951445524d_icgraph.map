@@ -1,0 +1,4 @@
+<map id="debug_backtrace" name="debug_backtrace">
+<area shape="rect" id="node1" title="Prints the call stack, that is, a list of addresses, one in each of the functions we are nested withi..." alt="" coords="151,5,275,31"/>
+<area shape="rect" id="node2" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="5,5,103,31"/>
+</map>

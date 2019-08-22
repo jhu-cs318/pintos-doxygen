@@ -1,0 +1,52 @@
+<map id="list_empty" name="list_empty">
+<area shape="rect" id="node1" title="Returns true if LIST is empty, false otherwise." alt="" coords="1432,619,1514,645"/>
+<area shape="rect" id="node2" href="$synch_8h.html#ac57d5a18fec898d7b999310198b25032" title="Wakes up all threads, if any, waiting on COND (protected by LOCK)." alt="" coords="554,18,670,43"/>
+<area shape="rect" id="node3" href="$synch_8c.html#a4534660eba2b75a5e5e34590d743f685" title="If any threads are waiting on COND (protected by LOCK), then this function signals one of them to wak..." alt="" coords="776,43,868,69"/>
+<area shape="rect" id="node5" href="$hash_8h.html#af80af715fc17fe60fe925fe1b9aa2ccf" title="Removes all the elements from H." alt="" coords="984,594,1071,619"/>
+<area shape="rect" id="node8" href="$list_8h.html#a92cf390080befe3715498548c81f6679" title="Returns the back element in LIST." alt="" coords="1303,845,1376,870"/>
+<area shape="rect" id="node10" href="$list_8h.html#acfa7d1528fc9908783da027b5768a37e" title="List elements." alt="" coords="1304,543,1375,569"/>
+<area shape="rect" id="node12" href="$malloc_8h.html#a8c1f926a188baad8ec94b5de439379c8" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="582,493,642,518"/>
+<area shape="rect" id="node35" href="$thread_8c.html#ace7a46dcf0f5c9c4cbb8f47a5b3c76f5" title="Chooses and returns the next thread to be scheduled." alt="" coords="959,645,1096,670"/>
+<area shape="rect" id="node37" href="$synch_8h.html#a6fa6d9aace6254bc14d95fddd0bd4535" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="989,318,1066,343"/>
+<area shape="rect" id="node48" href="$list_8h.html#ade160bc03c0ee9d0395df7429d1aaa81" title="Miscellaneous." alt="" coords="1295,746,1384,771"/>
+<area shape="rect" id="node50" href="$list_8h.html#aa4bcafb4f57a70eff7a6a7a609603108" title="Iterates through LIST and removes all but the first in each set of adjacent elements that are equal a..." alt="" coords="1297,795,1382,821"/>
+<area shape="rect" id="node4" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="539,117,685,142"/>
+<area shape="rect" id="node6" href="$hash_8h.html#a55e281aba358527422ae72c3f5910971" title="Destroys hash table H." alt="" coords="771,645,872,670"/>
+<area shape="rect" id="node7" href="$hash_8h.html#a814d3cdfd3e96d126b66ac892d28ba8b" title="Basic life cycle." alt="" coords="396,813,471,838"/>
+<area shape="rect" id="node9" href="$list_8h.html#a5543990d47da5252148576ae85f2ec4a" title="Removes the back element from LIST and returns it." alt="" coords="1144,845,1247,870"/>
+<area shape="rect" id="node11" href="$list_8h.html#ae7218c25abd0d7aa8278fd00be5f79b4" title="Removes the front element from LIST and returns it." alt="" coords="1145,543,1246,569"/>
+<area shape="rect" id="node13" href="$bitmap_8h.html#a8cf39272ab5d44e368dc21a166e3a236" title="Bitmap abstract data type." alt="" coords="381,142,487,167"/>
+<area shape="rect" id="node15" href="$block_8h.html#ab23e50178419646d6627f02eaaf76b4c" title="devices/block.h" alt="" coords="382,294,486,319"/>
+<area shape="rect" id="node16" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="206,243,315,269"/>
+<area shape="rect" id="node17" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="5,218,145,243"/>
+<area shape="rect" id="node19" href="$malloc_8h.html#a5e2c81a62eb095b4e07604260eebea77" title="Allocates and return A times B bytes initialized to zeroes." alt="" coords="406,418,461,443"/>
+<area shape="rect" id="node24" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="383,517,484,542"/>
+<area shape="rect" id="node26" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="386,467,482,493"/>
+<area shape="rect" id="node27" href="$inode_8h.html#ab09e048387b074433767ae90e888d774" title="Reads an inode from SECTOR and returns a ‘struct inode’ that contains it." alt="" coords="388,369,479,394"/>
+<area shape="rect" id="node29" href="$inode_8h.html#aeb6be4a6658d5e2746fb704da3d929aa" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="380,566,487,591"/>
+<area shape="rect" id="node30" href="$inode_8h.html#ad6ee4ad6d1d9ecedb64ec631546f6a9e" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="380,615,488,641"/>
+<area shape="rect" id="node31" href="$malloc_8h.html#afa148085b6fa9594b4c35e100d94a183" title="Attempts to resize OLD_BLOCK to NEW_SIZE bytes, possibly moving it in the process." alt="" coords="403,665,464,690"/>
+<area shape="rect" id="node32" href="$hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0" title="Changes the number of buckets in hash table H to match the ideal." alt="" coords="403,714,465,739"/>
+<area shape="rect" id="node33" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="376,763,491,789"/>
+<area shape="rect" id="node34" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="393,93,475,118"/>
+<area shape="rect" id="node14" href="$free-map_8h.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="209,142,311,167"/>
+<area shape="rect" id="node18" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="193,293,328,318"/>
+<area shape="rect" id="node20" href="$directory_8h.html#a5b00e2da83ce54480d49a91405cb625c" title="Opens and returns the directory for the given INODE, of which it takes ownership." alt="" coords="224,493,297,518"/>
+<area shape="rect" id="node22" href="$file_8h.html#a47788113ec3770733f6cc63f00cc5bb3" title="Opening and closing files." alt="" coords="223,542,298,567"/>
+<area shape="rect" id="node23" href="$inode_8h.html#a4445b24665d139b5f387bbc6428c9f81" title="Initializes an inode with LENGTH bytes of data and writes the new inode to sector SECTOR on the file ..." alt="" coords="211,443,309,469"/>
+<area shape="rect" id="node21" href="$directory_8h.html#a360de0f3a61721d83b1d6f3f435779de" title="Opens the root directory and returns a directory for it." alt="" coords="23,418,127,443"/>
+<area shape="rect" id="node25" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="215,591,305,617"/>
+<area shape="rect" id="node28" href="$directory_8h.html#af57fd81b479847465ef2f4848fe0f428" title="Reading and writing." alt="" coords="219,394,302,419"/>
+<area shape="rect" id="node36" href="$thread_8c.html#a63e3ec45b7bf0028e55f2b9ab1603306" title="Schedules a new process." alt="" coords="784,694,859,719"/>
+<area shape="rect" id="node38" href="$alarm-priority_8c.html#a3a8636bb8f03b8450f18ef9dbd774a0c" title=" " alt="" coords="748,443,895,469"/>
+<area shape="rect" id="node39" href="$priority-donate-sema_8c.html#a85675782bf8084df44707dfcfd2d7ae8" title=" " alt="" coords="559,418,665,443"/>
+<area shape="rect" id="node40" href="$thread_8c.html#a6fbc1c29ff118d92ee1449a1072a00ce" title="Idle thread." alt="" coords="801,142,843,167"/>
+<area shape="rect" id="node41" href="$ide_8c.html#a968e89e258918c93a81618744b6c0e35" title="ATA interrupt handler." alt="" coords="761,191,883,217"/>
+<area shape="rect" id="node42" href="$synch_8h.html#a274b80eabc07688288f898535054ba26" title="Releases LOCK, which must be owned by the current thread." alt="" coords="774,493,870,518"/>
+<area shape="rect" id="node44" href="$synch_8h.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="557,205,668,230"/>
+<area shape="rect" id="node45" href="$synch_8c.html#a57b7a9021b4a9c32f00065da020e96cd" title="Thread function used by sema_self_test()." alt="" coords="758,93,885,118"/>
+<area shape="rect" id="node46" href="$priority-donate-sema_8c.html#a7a1a80cc4988dcc442c2dd018e5eb6c8" title=" " alt="" coords="733,293,911,318"/>
+<area shape="rect" id="node47" href="$priority-sema_8c.html#a1da07739ff87a7ef9fb1ff2ffc56c921" title=" " alt="" coords="757,342,887,367"/>
+<area shape="rect" id="node43" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="571,543,653,569"/>
+<area shape="rect" id="node49" href="$tests_2internal_2list_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f" title="Test the linked list implementation." alt="" coords="1174,795,1217,821"/>
+</map>

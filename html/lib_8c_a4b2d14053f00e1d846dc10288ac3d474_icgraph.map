@@ -1,0 +1,11 @@
+<map id="compare_bytes" name="compare_bytes">
+<area shape="rect" id="node1" title="test/lib.h" alt="" coords="564,103,677,128"/>
+<area shape="rect" id="node2" href="$lib_8h.html#aa0ad2e95360b59ee24361677637ed609" title=" " alt="" coords="388,53,516,79"/>
+<area shape="rect" id="node8" href="$child-syn-read_8c.html#ac0f2228420376f4db7e1274f2b41667c" title=" " alt="" coords="427,103,477,128"/>
+<area shape="rect" id="node9" href="$syn-remove_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="413,152,492,177"/>
+<area shape="rect" id="node3" href="$lib_8h.html#a63f613d854aaeef7dbdcf873febdab48" title=" " alt="" coords="260,29,340,55"/>
+<area shape="rect" id="node7" href="$multi-child-fd_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Opens a file and then runs a subprocess that tries to close the file." alt="" coords="260,79,339,104"/>
+<area shape="rect" id="node4" href="$seq-test_8h.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="136,5,208,31"/>
+<area shape="rect" id="node6" href="$grow-sparse_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="132,55,212,80"/>
+<area shape="rect" id="node5" href="$grow-file-size_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="5,5,84,31"/>
+</map>

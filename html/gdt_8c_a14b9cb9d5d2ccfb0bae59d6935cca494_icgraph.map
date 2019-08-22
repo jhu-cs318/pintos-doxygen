@@ -1,0 +1,5 @@
+<map id="make_data_desc" name="make_data_desc">
+<area shape="rect" id="node1" title="Returns a descriptor for a writable data segment with base at 0, a limit of 4 GB, and the given DPL." alt="" coords="247,5,370,31"/>
+<area shape="rect" id="node2" href="$gdt_8h.html#ad2acd7bce259a1a32213503c6fa18f14" title="userprog/gdt.h" alt="" coords="135,5,199,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

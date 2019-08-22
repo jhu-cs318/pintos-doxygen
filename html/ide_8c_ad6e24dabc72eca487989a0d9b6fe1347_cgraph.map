@@ -1,0 +1,4 @@
+<map id="input_sector" name="input_sector">
+<area shape="rect" id="node1" title="Reads a sector from channel C&#39;s data register in PIO mode into SECTOR, which must have room for BLOCK..." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="node2" href="$io_8h.html#a796ec08686cf1380808556b31cabc730" title="Reads CNT 16&#45;bit (halfword) units from PORT, one after another, and stores them into the buffer start..." alt="" coords="147,5,195,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pte_get_page" name="pte_get_page">
+<area shape="rect" id="node1" title="Returns a pointer to the page that page table entry PTE points to." alt="" coords="5,5,108,31"/>
+<area shape="rect" id="node2" href="$vaddr_8h.html#a4887c2b8a39b091ef5b3eb7465bcc8f7" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="156,5,203,31"/>
+</map>

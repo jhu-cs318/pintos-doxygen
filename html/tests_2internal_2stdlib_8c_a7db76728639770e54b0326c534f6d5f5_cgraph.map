@@ -1,0 +1,7 @@
+<map id="verify_bsearch" name="verify_bsearch">
+<area shape="rect" id="node1" title="Checks that bsearch() works properly in ARRAY." alt="" coords="5,55,113,80"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#a87025cd55704197ef70901d9b51cb395" title="Searches ARRAY, which contains CNT elements of SIZE bytes each, for the given KEY." alt="" coords="178,29,246,55"/>
+<area shape="rect" id="node5" href="$tests_2internal_2stdlib_8c.html#af8213d1172c266997c4d2a729bb7b54e" title="Returns 1 if *A is greater than *B, 0 if *A equals *B, &#45;1 if *A is less than *B." alt="" coords="161,79,263,104"/>
+<area shape="rect" id="node3" href="$lib_2stdlib_8c.html#ad161648b13e7c1f08c9d6bd812b6411b" title="Searches ARRAY, which contains CNT elements of SIZE bytes each, for the given KEY." alt="" coords="315,5,420,31"/>
+<area shape="rect" id="node4" href="$lib_2stdlib_8c.html#aa2266c071c588f926a78b8f4b45bdb24" title="Compares A and B by calling the AUX function." alt="" coords="311,55,424,80"/>
+</map>

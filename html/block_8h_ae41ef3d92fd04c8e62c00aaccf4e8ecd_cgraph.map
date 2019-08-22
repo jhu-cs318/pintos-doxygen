@@ -1,0 +1,6 @@
+<map id="block_first" name="block_first">
+<area shape="rect" id="node1" title="Returns the first block device in kernel probe order, or a null pointer if no block devices are regis..." alt="" coords="5,31,87,56"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="161,5,239,31"/>
+<area shape="rect" id="node3" href="$block_8c.html#a9dab72b1a888ba36ece50287da87c919" title="Returns the block device corresponding to LIST_ELEM, or a null pointer if LIST_ELEM is the list end o..." alt="" coords="135,55,266,80"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="314,55,381,80"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="make_noncanon" name="make_noncanon">
+<area shape="rect" id="node1" title="If FD is a terminal, configures it for noncanonical input mode with VMIN and VTIME set as indicated." alt="" coords="5,31,125,56"/>
+<area shape="rect" id="node2" href="$squish-pty_8c.html#adb2afcb6681c6ffb5b94b5236ef526a7" title="Prints MSG, formatting as with printf(), plus an error message based on errno, and exits." alt="" coords="173,31,229,56"/>
+<area shape="rect" id="node3" href="$lib_2user_2syscall_8c.html#a55e99c539cf7723ec15e856b7e0a8cee" title=" " alt="" coords="280,5,322,31"/>
+<area shape="rect" id="node4" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="277,55,324,80"/>
+</map>

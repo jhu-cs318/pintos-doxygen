@@ -1,0 +1,5 @@
+<map id="udiv64" name="udiv64">
+<area shape="rect" id="node1" title="Divides unsigned 64&#45;bit N by unsigned 64&#45;bit D and returns the quotient." alt="" coords="5,31,66,56"/>
+<area shape="rect" id="node2" href="$arithmetic_8c.html#ac754351db970052cb41e93179a71d14f" title="On x86, division of one 64&#45;bit integer by another cannot be done with a single instruction or a short..." alt="" coords="114,5,155,31"/>
+<area shape="rect" id="node3" href="$arithmetic_8c.html#acb100fbecaa9c28f45ddff0fab3d008a" title="Returns the number of leading zero bits in X, which must be nonzero." alt="" coords="115,55,154,80"/>
+</map>

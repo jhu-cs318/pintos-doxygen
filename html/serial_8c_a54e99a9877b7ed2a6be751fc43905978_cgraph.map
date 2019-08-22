@@ -1,0 +1,25 @@
+<map id="serial_init_queue" name="serial_init_queue">
+<area shape="rect" id="node1" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="5,307,127,332"/>
+<area shape="rect" id="node2" href="$serial_8c.html#aa1fb82a5be4690023966ea841c88a624" title="Initializes the serial port device for polling mode." alt="" coords="201,80,267,105"/>
+<area shape="rect" id="node9" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="354,481,444,507"/>
+<area shape="rect" id="node11" href="$interrupt_8c.html#a38cd217e72ddb3f58db591a061c99691" title="Registers external interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="175,232,292,257"/>
+<area shape="rect" id="node16" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="184,431,284,456"/>
+<area shape="rect" id="node19" href="$serial_8c.html#ac89212325aed0ffe38beb0b4bde0bf30" title="Update interrupt enable register." alt="" coords="198,307,270,332"/>
+<area shape="rect" id="node3" href="$intq_8c.html#a74912dc0f8bf3b5cfeecab5630ed3f89" title="Initializes interrupt queue Q." alt="" coords="366,5,433,31"/>
+<area shape="rect" id="node7" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="541,81,589,107"/>
+<area shape="rect" id="node8" href="$serial_8c.html#aedccb1dc6702ff87426404495a2a05ea" title="Configures the serial port for BPS bits per second." alt="" coords="360,55,438,80"/>
+<area shape="rect" id="node4" href="$synch_8c.html#aa760472aa4916bba476b2165ea25b411" title="Initializes LOCK." alt="" coords="530,5,600,31"/>
+<area shape="rect" id="node5" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="683,5,761,31"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="820,5,883,31"/>
+<area shape="rect" id="node10" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="672,356,772,381"/>
+<area shape="rect" id="node12" href="$interrupt_8c.html#a7e7d2edfe1ec7f51b54704080de2f4ca" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="340,207,458,232"/>
+<area shape="rect" id="node13" href="$interrupt_8c.html#a75ac431d18ce7aff146bef22379c1dcd" title="Interrupt Descriptor Table helpers." alt="" coords="508,131,622,156"/>
+<area shape="rect" id="node15" href="$interrupt_8c.html#a79e99b0236c49a7a12d52a2ec74fefa5" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="506,180,624,205"/>
+<area shape="rect" id="node14" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="678,156,766,181"/>
+<area shape="rect" id="node17" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="356,432,443,457"/>
+<area shape="rect" id="node18" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="520,432,610,457"/>
+<area shape="rect" id="node20" href="$input_8c.html#a60ec5bbf4a98fbdb4fae3124870ef055" title="Returns true if the input buffer is full, false otherwise." alt="" coords="362,280,437,305"/>
+<area shape="rect" id="node23" href="$intq_8c.html#a34e623157a6c4f53ae29eda5d65b7395" title="Returns true if Q is empty, false otherwise." alt="" coords="522,331,608,356"/>
+<area shape="rect" id="node21" href="$intq_8c.html#aff4db6a96c4a1fb6898f26451a1049c2" title="Returns true if Q is full, false otherwise." alt="" coords="531,229,599,255"/>
+<area shape="rect" id="node22" href="$intq_8c.html#ac473f50d2829cba1321d34a57c425042" title="Returns the position after POS within an intq." alt="" coords="699,229,745,255"/>
+</map>

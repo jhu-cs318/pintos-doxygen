@@ -1,0 +1,52 @@
+<map id="intr_context" name="intr_context">
+<area shape="rect" id="node1" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1435,1075,1526,1100"/>
+<area shape="rect" id="node2" href="$kernel_2console_8c.html#a69b6a57a329ae666df343a081a51e7a5" title="Acquires the console lock." alt="" coords="127,1000,245,1025"/>
+<area shape="rect" id="node7" href="$synch_8c.html#a4534660eba2b75a5e5e34590d743f685" title="If any threads are waiting on COND (protected by LOCK), then this function signals one of them to wak..." alt="" coords="1272,1201,1364,1227"/>
+<area shape="rect" id="node10" href="$synch_8h.html#a59dfd1580b23b1255cfb560b11919ac7" title="Atomically releases LOCK and waits for COND to be signaled by some other piece of code." alt="" coords="544,53,626,79"/>
+<area shape="rect" id="node12" href="$kernel_2console_8c.html#ac9311ca129f215c0c8c07cd095a72f2f" title="Returns true if the current thread has the console lock, false otherwise." alt="" coords="852,1455,1036,1493"/>
+<area shape="rect" id="node14" href="$intq_8h.html#acf9b843460de765860649da2155ba284" title="Removes a byte from Q and returns it." alt="" coords="547,999,623,1024"/>
+<area shape="rect" id="node19" href="$intq_8h.html#aff67272fad0c553848ea1069816c18e9" title="devices/intq.h" alt="" coords="547,1100,623,1125"/>
+<area shape="rect" id="node21" href="$interrupt_8h.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="1274,900,1361,925"/>
+<area shape="rect" id="node23" href="$synch_8h.html#a820fd6f74859d4fc6998344c087b4b09" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="898,796,991,821"/>
+<area shape="rect" id="node27" href="$synch_8h.html#a8fe0fb31e8bca153ef40eea50217e9ef" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="708,599,804,624"/>
+<area shape="rect" id="node41" href="$thread_8h.html#aaa9229e0f462f60bb9550919fa3d7699" title="Yields the CPU." alt="" coords="897,1353,991,1379"/>
+<area shape="rect" id="node42" href="$interrupt_8c.html#ad2ddb6c69915597ee636e732afa5795a" title="Interrupt handlers." alt="" coords="710,1379,802,1404"/>
+<area shape="rect" id="node45" href="$interrupt_8h.html#a55213985fa8103301b86b15509d78243" title="During processing of an external interrupt, directs the interrupt handler to yield to a new process j..." alt="" coords="1248,1505,1387,1531"/>
+<area shape="rect" id="node47" href="$kernel_2console_8c.html#ace2f2e53045fdaa51273a6e45cc63044" title="Releases the console lock." alt="" coords="127,1099,245,1124"/>
+<area shape="rect" id="node48" href="$thread_8h.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="1269,999,1367,1024"/>
+<area shape="rect" id="node49" href="$intq_8c.html#ac7faf9c8b94faf0aa76ed2b23659a3e0" title="WAITER must be the address of Q&#39;s not_empty or not_full member." alt="" coords="1120,1049,1165,1075"/>
+<area shape="rect" id="node50" href="$thread_8h.html#af6872a0cbd6ec029f08cfe10bce5834e" title="Deschedules the current thread and destroys it." alt="" coords="1274,949,1361,975"/>
+<area shape="rect" id="node3" href="$kernel_2stdio_8h.html#abc310f2a04745562be1a5b1d2a64a5f8" title="lib/kernel/stdio.h" alt="" coords="9,1148,67,1173"/>
+<area shape="rect" id="node4" href="$stdio_8h.html#a5383753051468b122b02cfab90f262a9" title="Writes C to the vga display and serial port." alt="" coords="5,1049,71,1075"/>
+<area shape="rect" id="node5" href="$stdio_8h.html#ad6eb8da5b318991f44cdd98e20939b7d" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="15,1099,62,1124"/>
+<area shape="rect" id="node6" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="9,1000,67,1025"/>
+<area shape="rect" id="node8" href="$synch_8h.html#ac57d5a18fec898d7b999310198b25032" title="Wakes up all threads, if any, waiting on COND (protected by LOCK)." alt="" coords="1084,1252,1200,1277"/>
+<area shape="rect" id="node9" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="512,1149,658,1175"/>
+<area shape="rect" id="node11" href="$priority-condvar_8c.html#a0a388ce73d55720aac505642bc72ce37" title=" " alt="" coords="300,79,462,104"/>
+<area shape="rect" id="node13" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="119,1148,252,1173"/>
+<area shape="rect" id="node15" href="$input_8h.html#a07e161b7f0ec81e4d4d4990e0b5e6a27" title="Retrieves a key from the input buffer." alt="" coords="340,948,423,973"/>
+<area shape="rect" id="node16" href="$serial_8h.html#a04858117b8541474fe79c45a044b59cc" title="Flushes anything in the serial buffer out the port in polling mode." alt="" coords="337,1049,425,1075"/>
+<area shape="rect" id="node17" href="$serial_8c.html#a2d769aaa2d2ff184e5e70fcf4b9d2354" title="Serial interrupt handler." alt="" coords="131,1049,241,1075"/>
+<area shape="rect" id="node18" href="$serial_8h.html#aaff273496ffaa454bd47b00c1f6803cc" title="Sends BYTE to the serial port." alt="" coords="338,1148,424,1173"/>
+<area shape="rect" id="node20" href="$input_8h.html#a44192b72f43870829e562e6c088ef08c" title="Adds a key to the input buffer." alt="" coords="340,1099,423,1124"/>
+<area shape="rect" id="node22" href="$interrupt_8h.html#a18378b94952725a40ee7859231109e99" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="1092,951,1192,976"/>
+<area shape="rect" id="node40" href="$thread_8h.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="710,897,802,923"/>
+<area shape="rect" id="node43" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="1091,1000,1194,1025"/>
+<area shape="rect" id="node44" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="1100,799,1184,824"/>
+<area shape="rect" id="node24" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="548,848,622,873"/>
+<area shape="rect" id="node25" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="548,897,622,923"/>
+<area shape="rect" id="node26" href="$priority-donate-sema_8c.html#aeb0f97fa3c6d25534de6a11bf3532aa3" title=" " alt="" coords="534,799,636,824"/>
+<area shape="rect" id="node28" href="$priority-donate-multiple_8c.html#a56379b758fb21b5a67de1a87d2a74672" title=" " alt="" coords="532,155,638,180"/>
+<area shape="rect" id="node29" href="$priority-donate-one_8c.html#adbcd765439b4d960f0db9ba4a47d421f" title=" " alt="" coords="510,204,660,229"/>
+<area shape="rect" id="node30" href="$priority-donate-one_8c.html#aae18eed8351e7789ef848517a96284a5" title=" " alt="" coords="510,253,660,279"/>
+<area shape="rect" id="node31" href="$priority-donate-lower_8c.html#ab955dabdbbfc7a7a188317e70b95ef04" title=" " alt="" coords="514,303,656,328"/>
+<area shape="rect" id="node32" href="$thread_8c.html#a382e72d5d2fb4cfe2b5034eb62a887c8" title="Returns a tid to use for a new thread." alt="" coords="541,352,629,377"/>
+<area shape="rect" id="node33" href="$priority-donate-multiple_8c.html#af257d61c4fea017f52981dbe2a40534b" title=" " alt="" coords="532,401,638,427"/>
+<area shape="rect" id="node34" href="$mlfqs-block_8c.html#afae0754a3b814ae247351cc6ee14276c" title="Checks that recent_cpu and priorities are updated for blocked threads." alt="" coords="536,451,634,476"/>
+<area shape="rect" id="node35" href="$priority-donate-chain_8c.html#af3ea65daade3a57b9afbfaf87d187dfd" title=" " alt="" coords="518,500,652,525"/>
+<area shape="rect" id="node36" href="$malloc_8h.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="threads/malloc.h" alt="" coords="563,549,607,575"/>
+<area shape="rect" id="node37" href="$priority-donate-sema_8c.html#a85675782bf8084df44707dfcfd2d7ae8" title=" " alt="" coords="532,599,638,624"/>
+<area shape="rect" id="node38" href="$priority-donate-nest_8c.html#acc1e53225c07946f00921d331e5736c5" title=" " alt="" coords="523,648,647,673"/>
+<area shape="rect" id="node39" href="$malloc_8h.html#a8c1f926a188baad8ec94b5de439379c8" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="555,749,615,775"/>
+<area shape="rect" id="node46" href="$thread_8h.html#a99b55ae8059d7834cc113334a3fd0c3c" title="Called by the timer interrupt handler at each timer tick." alt="" coords="1099,1505,1185,1531"/>
+</map>

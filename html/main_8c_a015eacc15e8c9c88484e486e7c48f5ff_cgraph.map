@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,56,80"/>
+<area shape="rect" id="node2" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="126,5,172,31"/>
+<area shape="rect" id="node3" href="$random_8c.html#af2a054338d7e0424f8cf6363610cd21b" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="104,55,195,80"/>
+<area shape="rect" id="node5" href="$syn-read_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="109,104,189,129"/>
+<area shape="rect" id="node4" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="243,55,328,80"/>
+</map>

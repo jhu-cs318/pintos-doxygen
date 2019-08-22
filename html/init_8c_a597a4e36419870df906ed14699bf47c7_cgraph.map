@@ -1,0 +1,52 @@
+<map id="pintos_init" name="pintos_init">
+<area shape="rect" id="node1" title="Pintos main entry point." alt="" coords="5,1064,87,1089"/>
+<area shape="rect" id="node2" href="$init_8c.html#a8f963c17b25bed3823c8ec7bce650f70" title="Clear the &quot;BSS&quot;, a segment that should be initialized to zeros." alt="" coords="163,9,229,35"/>
+<area shape="rect" id="node4" href="$kernel_2console_8c.html#acadd2a5d99d952e55a4580dbc8f8739d" title="Enable console locking." alt="" coords="329,156,421,181"/>
+<area shape="rect" id="node7" href="$exception_8c.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="144,851,247,876"/>
+<area shape="rect" id="node10" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="702,687,753,712"/>
+<area shape="rect" id="node11" href="$thread_8c.html#a87c2438941819bb3cc31658aa9eb66fe" title="Deschedules the current thread and destroys it." alt="" coords="684,997,771,1023"/>
+<area shape="rect" id="node13" href="$filesys_8c.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="154,1013,237,1039"/>
+<area shape="rect" id="node19" href="$gdt_8c.html#ad2acd7bce259a1a32213503c6fa18f14" title="Sets up a proper GDT." alt="" coords="164,1263,228,1288"/>
+<area shape="rect" id="node25" href="$ide_8c.html#a5e8e1409e0675bdd93040403c52dd660" title="Initialize the disk subsystem and detect disks." alt="" coords="164,459,228,484"/>
+<area shape="rect" id="node32" href="$input_8c.html#a002df33f6298c53d5ab3892e473bcbde" title="Initializes the input buffer." alt="" coords="158,63,233,88"/>
+<area shape="rect" id="node34" href="$interrupt_8c.html#ab3e596a633d94203771c1a2b10211d90" title="Initializes the interrupt system." alt="" coords="164,1312,228,1337"/>
+<area shape="rect" id="node36" href="$kbd_8c.html#a2d4a794658f2ee47f466766d89c6e8e8" title="Initializes the keyboard." alt="" coords="162,1213,229,1239"/>
+<area shape="rect" id="node37" href="$malloc_8c.html#a1be0594bb47cfcf2e4616c3baa3b9e13" title="Initializes the malloc() descriptors." alt="" coords="154,119,238,144"/>
+<area shape="rect" id="node38" href="$init_8c.html#a83a23df197d45e3798aaa46d01d06af7" title="Populates the base page directory and page table with the kernel virtual mapping, and then sets up th..." alt="" coords="153,1361,239,1387"/>
+<area shape="rect" id="node39" href="$palloc_8c.html#acc2c206763e5de4e4414fda821ca6db8" title="Initializes the page allocator." alt="" coords="155,1411,236,1436"/>
+<area shape="rect" id="node40" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="143,1460,248,1485"/>
+<area shape="rect" id="node41" href="$init_8c.html#ae58b8c3dee90e04a151d5f9ee45799c5" title="Breaks the kernel command line into words and returns them as an argv&#45;like array." alt="" coords="494,611,636,636"/>
+<area shape="rect" id="node42" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="151,1509,241,1535"/>
+<area shape="rect" id="node43" href="$serial_8c.html#a54e99a9877b7ed2a6be751fc43905978" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="135,1115,257,1140"/>
+<area shape="rect" id="node44" href="$shutdown_8c.html#a1c9d5e29ad8899afe0c34571ddee18f9" title="Shuts down the machine in the way configured by shutdown_configure()." alt="" coords="157,1559,235,1584"/>
+<area shape="rect" id="node45" href="$userprog_2syscall_8c.html#a797876702ac4b3a53fa69839f02642f4" title="userprog/syscall.h" alt="" coords="153,776,239,801"/>
+<area shape="rect" id="node46" href="$thread_8h.html#a49195f6222c3d1a030613be485f26086" title=" " alt="" coords="154,1608,238,1633"/>
+<area shape="rect" id="node47" href="$thread_8c.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="518,257,611,283"/>
+<area shape="rect" id="node48" href="$timer_8c.html#a8a4e243d361cd252de04175b1b53c419" title="Calibrates loops_per_tick, used to implement brief delays." alt="" coords="510,661,619,687"/>
+<area shape="rect" id="node49" href="$timer_8c.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="158,1164,233,1189"/>
+<area shape="rect" id="node50" href="$tss_8c.html#a2d8be34791bc1936d4b91b0567ec6d34" title="Initializes the kernel TSS." alt="" coords="164,1657,227,1683"/>
+<area shape="rect" id="node3" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="341,5,410,31"/>
+<area shape="rect" id="node5" href="$synch_8c.html#aa760472aa4916bba476b2165ea25b411" title="Initializes LOCK." alt="" coords="530,156,599,181"/>
+<area shape="rect" id="node6" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="688,257,767,283"/>
+<area shape="rect" id="node8" href="$interrupt_8c.html#a30707611d4360096acf72b3215bdea62" title="Registers internal interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="319,763,432,788"/>
+<area shape="rect" id="node9" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="545,832,584,857"/>
+<area shape="rect" id="node12" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="333,812,417,837"/>
+<area shape="rect" id="node14" href="$block_8c.html#a7cd2dd12c0797e95bea756667c4f5768" title="Returns the block device fulfilling the given ROLE, or a null pointer if no block device has been ass..." alt="" coords="321,964,429,989"/>
+<area shape="rect" id="node15" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="524,907,605,932"/>
+<area shape="rect" id="node16" href="$free-map_8c.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="324,1013,426,1039"/>
+<area shape="rect" id="node17" href="$free-map_8c.html#a82ae69d4b7534829d5c1672231c62370" title="Opens the free map file and reads it from disk." alt="" coords="318,1063,433,1088"/>
+<area shape="rect" id="node18" href="$inode_8c.html#ad89ce20702802203535257a453c0290b" title="Initializes the inode module." alt="" coords="336,1112,414,1137"/>
+<area shape="rect" id="node20" href="$gdt_8c.html#ae9a9122dd568c14bd49d9a8a91cafeac" title="GDT helpers." alt="" coords="312,1361,438,1387"/>
+<area shape="rect" id="node21" href="$gdt_8c.html#a14b9cb9d5d2ccfb0bae59d6935cca494" title="Returns a descriptor for a writable data segment with base at 0, a limit of 4 GB, and the given DPL." alt="" coords="314,1411,437,1436"/>
+<area shape="rect" id="node22" href="$gdt_8c.html#a110e80c32c1b2c808d2bf93350b11bcb" title="Returns a descriptor that yields the given LIMIT and BASE when used as an operand for the LGDT instru..." alt="" coords="305,1460,446,1485"/>
+<area shape="rect" id="node23" href="$gdt_8c.html#afef5fe81aa82bdb17f6ef1e20a041bbe" title="Returns a descriptor for an &quot;available&quot; 32&#45;bit Task&#45;State Segment with its base at the given linear a..." alt="" coords="318,1263,432,1288"/>
+<area shape="rect" id="node24" href="$tss_8c.html#a71eea700b08412dc2f1b4d5fe965069c" title="Returns the kernel TSS." alt="" coords="343,1312,407,1337"/>
+<area shape="rect" id="node26" href="$ide_8c.html#afb1b543e585d7b5757bf9406b8705349" title="Checks whether device D is an ATA disk and sets D&#39;s is_ata member appropriately." alt="" coords="308,408,443,433"/>
+<area shape="rect" id="node27" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="307,509,443,535"/>
+<area shape="rect" id="node28" href="$lib_2stdio_8c.html#a913035b9a30cd1b34c5e587dfbf26f92" title="Like printf(), except that output is stored into BUFFER, which must have space for BUF_SIZE character..." alt="" coords="532,459,597,484"/>
+<area shape="rect" id="node29" href="$ide_8c.html#a968e89e258918c93a81618744b6c0e35" title="ATA interrupt handler." alt="" coords="504,560,626,585"/>
+<area shape="rect" id="node30" href="$interrupt_8c.html#a38cd217e72ddb3f58db591a061c99691" title="Registers external interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="317,1213,434,1239"/>
+<area shape="rect" id="node31" href="$ide_8c.html#a03eb0d9954faefcc1634f76a286f78f5" title="Resets an ATA channel and waits for any devices present on it to finish the reset." alt="" coords="323,359,428,384"/>
+<area shape="rect" id="node33" href="$intq_8c.html#a74912dc0f8bf3b5cfeecab5630ed3f89" title="Initializes interrupt queue Q." alt="" coords="342,55,409,80"/>
+<area shape="rect" id="node35" href="$interrupt_8c.html#afb694fad923f4942cd9de0bd38172b4e" title="Returns a descriptor that yields the given LIMIT and BASE when used as an operand for the LIDT instru..." alt="" coords="307,1509,443,1535"/>
+</map>

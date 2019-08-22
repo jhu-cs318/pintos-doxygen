@@ -1,0 +1,12 @@
+<map id="exec" name="exec">
+<area shape="rect" id="node1" title=" " alt="" coords="382,104,432,129"/>
+<area shape="rect" id="node2" href="$lib_8h.html#af3644d5e9c28c2289678d548d13396f7" title=" " alt="" coords="231,5,334,31"/>
+<area shape="rect" id="node5" href="$recursor_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="257,55,308,80"/>
+<area shape="rect" id="node6" href="$page-merge-seq_8c.html#a44e97d47c126cfbe7372e4b0269720b4" title="Sort each chunk of buf1 using a subprocess." alt="" coords="236,104,329,129"/>
+<area shape="rect" id="node8" href="$multi-oom_8c.html#ad17b60e252b62e84f7a6e86e7bd0388d" title="Spawn a recursive copy of ourselves, passing along instructions for the child." alt="" coords="235,153,330,179"/>
+<area shape="rect" id="node10" href="$exec-arg_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Tests argument passing to child processes." alt="" coords="243,203,322,228"/>
+<area shape="rect" id="node3" href="$main_8h.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="104,5,183,31"/>
+<area shape="rect" id="node4" href="$main_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="5,5,56,31"/>
+<area shape="rect" id="node7" href="$page-merge-seq_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="104,104,183,129"/>
+<area shape="rect" id="node9" href="$multi-oom_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="The first copy is invoked without command line arguments." alt="" coords="118,153,168,179"/>
+</map>

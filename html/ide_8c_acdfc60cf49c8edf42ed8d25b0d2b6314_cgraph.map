@@ -1,0 +1,5 @@
+<map id="issue_pio_command" name="issue_pio_command">
+<area shape="rect" id="node1" title="Writes COMMAND to channel C and prepares for receiving a completion interrupt." alt="" coords="5,31,149,56"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="197,5,298,31"/>
+<area shape="rect" id="node3" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="224,55,271,80"/>
+</map>

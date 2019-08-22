@@ -1,0 +1,52 @@
+<map id="test_mlfqs_fair" name="test_mlfqs_fair">
+<area shape="rect" id="node1" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="5,302,113,327"/>
+<area shape="rect" id="node2" href="$mlfqs-fair_8c.html#ac167cc111091b60761c3bb6d1e63371e" title=" " alt="" coords="167,251,259,277"/>
+<area shape="rect" id="node3" href="$thread_8c.html#ab732fcf33c6ea951e0c0d0f9d2e5d6e9" title="Sets the current thread&#39;s nice value to NICE." alt="" coords="314,150,431,175"/>
+<area shape="rect" id="node4" href="$timer_8c.html#a58f1f79abf9bc0515a305ba89c58b9fa" title="Returns the number of timer ticks elapsed since THEN, which should be a value once returned by timer_..." alt="" coords="495,301,600,326"/>
+<area shape="rect" id="node5" href="$timer_8c.html#a2b50be77101b38176d21b52cc425cf3e" title="Returns the number of timer ticks since the OS booted." alt="" coords="697,149,782,174"/>
+<area shape="rect" id="node11" href="$timer_8c.html#aa24fbc19fb550d9efd5cabd97489a399" title="Sleeps for approximately TICKS timer ticks." alt="" coords="327,199,418,225"/>
+<area shape="rect" id="node19" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="190,553,236,578"/>
+<area shape="rect" id="node20" href="$lib_2stdio_8c.html#a913035b9a30cd1b34c5e587dfbf26f92" title="Like printf(), except that output is stored into BUFFER, which must have space for BUF_SIZE character..." alt="" coords="181,833,246,858"/>
+<area shape="rect" id="node29" href="$thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="161,503,265,529"/>
+<area shape="rect" id="node6" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="1361,295,1450,321"/>
+<area shape="rect" id="node8" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="1208,246,1308,271"/>
+<area shape="rect" id="node7" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="1498,271,1599,297"/>
+<area shape="rect" id="node9" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="1362,246,1449,271"/>
+<area shape="rect" id="node10" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1503,499,1593,525"/>
+<area shape="rect" id="node12" href="$thread_8c.html#aaa9229e0f462f60bb9550919fa3d7699" title="Yields the CPU." alt="" coords="1034,447,1128,473"/>
+<area shape="rect" id="node13" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="1203,601,1313,626"/>
+<area shape="rect" id="node16" href="$thread_8c.html#a63e3ec45b7bf0028e55f2b9ab1603306" title="Schedules a new process." alt="" coords="1220,702,1295,727"/>
+<area shape="rect" id="node18" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="1204,751,1312,777"/>
+<area shape="rect" id="node14" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="1372,558,1439,583"/>
+<area shape="rect" id="node15" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="1366,607,1444,633"/>
+<area shape="rect" id="node17" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1367,745,1443,770"/>
+<area shape="rect" id="node21" href="$lib_2stdio_8c.html#a1286c6b071007938f54e9b859109f89d" title="Like vprintf(), except that output is stored into BUFFER, which must have space for BUF_SIZE characte..." alt="" coords="337,1063,408,1089"/>
+<area shape="rect" id="node22" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="512,1063,584,1089"/>
+<area shape="rect" id="node28" href="$lib_2stdio_8c.html#acdff2b19969329b7777564346ac98c5d" title="Helper function for vsnprintf()." alt="" coords="490,1113,606,1138"/>
+<area shape="rect" id="node23" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="706,1063,772,1089"/>
+<area shape="rect" id="node24" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="686,1113,793,1138"/>
+<area shape="rect" id="node25" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="690,1162,789,1187"/>
+<area shape="rect" id="node26" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="676,965,802,990"/>
+<area shape="rect" id="node27" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="709,1014,770,1039"/>
+<area shape="rect" id="node30" href="$thread_8c.html#a907260c0438a0be4e75e300396d3e30e" title="Allocates a SIZE&#45;byte frame at the top of thread T&#39;s stack and returns a pointer to the frame&#39;s base." alt="" coords="866,914,956,939"/>
+<area shape="rect" id="node31" href="$thread_8c.html#a382e72d5d2fb4cfe2b5034eb62a887c8" title="Returns a tid to use for a new thread." alt="" coords="504,554,592,579"/>
+<area shape="rect" id="node37" href="$thread_8c.html#a0cd30c260607aec4597c5b613c5e013f" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="1025,347,1137,373"/>
+<area shape="rect" id="node38" href="$thread_8c.html#a34a9d4a5ab1bf577041f4c3f1b8f6c89" title="Does basic initialization of T as a blocked thread named NAME." alt="" coords="1039,497,1123,522"/>
+<area shape="rect" id="node43" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="688,453,791,478"/>
+<area shape="rect" id="node47" href="$palloc_8c.html#aa8cccdccaa05d4023e3e65c15ed486af" title="Obtains a single free page and returns its kernel virtual address." alt="" coords="313,630,432,655"/>
+<area shape="rect" id="node50" href="$switch_8h.html#a77fa63aafbf21cce19006cb6bfcd3fa6" title=" " alt="" coords="325,965,420,990"/>
+<area shape="rect" id="node32" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="863,607,959,633"/>
+<area shape="rect" id="node35" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="691,554,787,579"/>
+<area shape="rect" id="node33" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="1007,546,1155,585"/>
+<area shape="rect" id="node34" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="1034,398,1128,423"/>
+<area shape="rect" id="node36" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="873,250,949,275"/>
+<area shape="rect" id="node39" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="1223,1039,1292,1065"/>
+<area shape="rect" id="node40" href="$string_8c.html#a4637af6f79bac4043e1064f0837d0ddc" title="Copies string SRC to DST." alt="" coords="1228,990,1288,1015"/>
+<area shape="rect" id="node41" href="$string_8c.html#ac81277697db3331c21cac338b661817a" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="1369,1039,1441,1065"/>
+<area shape="rect" id="node42" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="1378,990,1432,1015"/>
+<area shape="rect" id="node44" href="$thread_8c.html#a87c2438941819bb3cc31658aa9eb66fe" title="Deschedules the current thread and destroys it." alt="" coords="867,762,954,787"/>
+<area shape="rect" id="node45" href="$lib_2kernel_2list_8c.html#a9574755a392b556ddb650b8672f9f4af" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="1036,762,1126,787"/>
+<area shape="rect" id="node46" href="$process_8c.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="1033,863,1129,889"/>
+<area shape="rect" id="node48" href="$palloc_8c.html#a135bc426d035b41313b4542adfd2c05f" title="Obtains and returns a group of PAGE_CNT contiguous free pages." alt="" coords="480,655,616,681"/>
+<area shape="rect" id="node49" href="$bitmap_8c.html#a9ba55f2ff408378a1127282264353651" title="Finds the first group of CNT consecutive bits in B at or after START that are all set to VALUE,..." alt="" coords="664,655,815,681"/>
+</map>

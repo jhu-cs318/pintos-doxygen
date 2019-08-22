@@ -1,0 +1,52 @@
+<map id="sema_down" name="sema_down">
+<area shape="rect" id="node1" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="956,318,1049,343"/>
+<area shape="rect" id="node2" href="$synch_8h.html#a59dfd1580b23b1255cfb560b11919ac7" title="Atomically releases LOCK and waits for COND to be signaled by some other piece of code." alt="" coords="598,339,679,365"/>
+<area shape="rect" id="node4" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="602,191,675,217"/>
+<area shape="rect" id="node5" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="601,241,676,266"/>
+<area shape="rect" id="node6" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="767,1794,903,1819"/>
+<area shape="rect" id="node9" href="$priority-donate-sema_8c.html#aeb0f97fa3c6d25534de6a11bf3532aa3" title=" " alt="" coords="587,290,689,315"/>
+<area shape="rect" id="node10" href="$synch_8h.html#a8fe0fb31e8bca153ef40eea50217e9ef" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="787,967,883,993"/>
+<area shape="rect" id="node22" href="$synch_8h.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="165,90,276,115"/>
+<area shape="rect" id="node23" href="$alarm-priority_8c.html#a53b172b430d8daeaf8067f086d620415" title=" " alt="" coords="155,262,286,287"/>
+<area shape="rect" id="node32" href="$thread_8h.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="174,1743,266,1769"/>
+<area shape="rect" id="node48" href="$priority-donate-sema_8c.html#a4dc51b1476966c227801513da4bd6b84" title=" " alt="" coords="780,1843,890,1869"/>
+<area shape="rect" id="node49" href="$priority-sema_8c.html#a256435362d935640e9ba8007e76794d0" title=" " alt="" coords="761,1893,908,1918"/>
+<area shape="rect" id="node50" href="$synch_8c.html#a57b7a9021b4a9c32f00065da020e96cd" title="Thread function used by sema_self_test()." alt="" coords="771,90,898,115"/>
+<area shape="rect" id="node3" href="$priority-condvar_8c.html#a0a388ce73d55720aac505642bc72ce37" title=" " alt="" coords="354,365,515,390"/>
+<area shape="rect" id="node7" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="403,1894,466,1919"/>
+<area shape="rect" id="node8" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,1818,87,1843"/>
+<area shape="rect" id="node11" href="$priority-donate-multiple_8c.html#a56379b758fb21b5a67de1a87d2a74672" title=" " alt="" coords="585,1190,692,1215"/>
+<area shape="rect" id="node12" href="$priority-donate-one_8c.html#adbcd765439b4d960f0db9ba4a47d421f" title=" " alt="" coords="563,1239,713,1265"/>
+<area shape="rect" id="node13" href="$priority-donate-one_8c.html#aae18eed8351e7789ef848517a96284a5" title=" " alt="" coords="563,1289,713,1314"/>
+<area shape="rect" id="node14" href="$kernel_2console_8c.html#a69b6a57a329ae666df343a081a51e7a5" title="Acquires the console lock." alt="" coords="579,1141,698,1166"/>
+<area shape="rect" id="node19" href="$priority-donate-lower_8c.html#ab955dabdbbfc7a7a188317e70b95ef04" title=" " alt="" coords="567,1541,710,1566"/>
+<area shape="rect" id="node20" href="$thread_8c.html#a382e72d5d2fb4cfe2b5034eb62a887c8" title="Returns a tid to use for a new thread." alt="" coords="594,643,683,669"/>
+<area shape="rect" id="node24" href="$mlfqs-block_8c.html#a167c6f1bad03f552911dfd10bc4c8f41" title=" " alt="" coords="160,1591,281,1617"/>
+<area shape="rect" id="node25" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="148,1231,293,1257"/>
+<area shape="rect" id="node26" href="$priority-donate-chain_8c.html#af1fd53d71b908bf20677eb175aad8bdf" title=" " alt="" coords="151,435,289,474"/>
+<area shape="rect" id="node27" href="$priority-donate-lower_8c.html#ab24220b5ecad35ef2cf9e2b05078af50" title=" " alt="" coords="151,499,289,538"/>
+<area shape="rect" id="node28" href="$priority-donate-multiple_8c.html#a2412faccbfee40a597671658f0baf8ee" title=" " alt="" coords="151,566,289,605"/>
+<area shape="rect" id="node29" href="$priority-donate-multiple2_8c.html#af31ed8792a942a8853e5a862a084cd21" title=" " alt="" coords="151,635,289,674"/>
+<area shape="rect" id="node30" href="$priority-donate-nest_8c.html#aaca7cce483622d0cc70f6ac334a2aed6" title=" " alt="" coords="135,725,306,750"/>
+<area shape="rect" id="node31" href="$priority-donate-one_8c.html#a1c49f5f073f516c9f958be6ea9b89179" title=" " alt="" coords="136,829,304,854"/>
+<area shape="rect" id="node33" href="$priority-donate-multiple_8c.html#af257d61c4fea017f52981dbe2a40534b" title=" " alt="" coords="585,693,692,718"/>
+<area shape="rect" id="node34" href="$mlfqs-block_8c.html#afae0754a3b814ae247351cc6ee14276c" title="Checks that recent_cpu and priorities are updated for blocked threads." alt="" coords="386,1642,483,1667"/>
+<area shape="rect" id="node35" href="$priority-donate-chain_8c.html#af3ea65daade3a57b9afbfaf87d187dfd" title=" " alt="" coords="572,742,705,767"/>
+<area shape="rect" id="node36" href="$malloc_8h.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="threads/malloc.h" alt="" coords="412,1843,457,1869"/>
+<area shape="rect" id="node38" href="$priority-donate-sema_8c.html#a85675782bf8084df44707dfcfd2d7ae8" title=" " alt="" coords="585,894,692,919"/>
+<area shape="rect" id="node39" href="$priority-donate-nest_8c.html#acc1e53225c07946f00921d331e5736c5" title=" " alt="" coords="576,943,701,969"/>
+<area shape="rect" id="node40" href="$intq_8h.html#acf9b843460de765860649da2155ba284" title="Removes a byte from Q and returns it." alt="" coords="601,993,676,1018"/>
+<area shape="rect" id="node41" href="$intq_8h.html#aff67272fad0c553848ea1069816c18e9" title="devices/intq.h" alt="" coords="601,1042,676,1067"/>
+<area shape="rect" id="node42" href="$malloc_8h.html#a8c1f926a188baad8ec94b5de439379c8" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="405,1794,464,1819"/>
+<area shape="rect" id="node43" href="$priority-donate-nest_8c.html#ada3ddea14ea0cb3220f0a00cfa7929dc" title=" " alt="" coords="565,1091,712,1117"/>
+<area shape="rect" id="node44" href="$palloc_8h.html#a07c7ebed75f9af9c7cb7ba907ea28d75" title="Obtains and returns a group of PAGE_CNT contiguous free pages." alt="" coords="571,1794,706,1819"/>
+<area shape="rect" id="node45" href="$priority-fifo_8c.html#a09afbb5707a2af609420fccb0795b96c" title=" " alt="" coords="569,1390,707,1415"/>
+<area shape="rect" id="node46" href="$alarm-wait_8c.html#a208a74d5680b1bc8dab4e3978fc23d98" title="Sleeper thread." alt="" coords="606,1439,671,1465"/>
+<area shape="rect" id="node47" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="393,1390,476,1415"/>
+<area shape="rect" id="node15" href="$kernel_2stdio_8h.html#abc310f2a04745562be1a5b1d2a64a5f8" title="lib/kernel/stdio.h" alt="" coords="405,1066,464,1091"/>
+<area shape="rect" id="node16" href="$stdio_8h.html#a5383753051468b122b02cfab90f262a9" title="Writes C to the vga display and serial port." alt="" coords="402,1115,467,1141"/>
+<area shape="rect" id="node17" href="$stdio_8h.html#ad6eb8da5b318991f44cdd98e20939b7d" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="411,1165,458,1190"/>
+<area shape="rect" id="node18" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="406,1214,463,1239"/>
+<area shape="rect" id="node21" href="$thread_8h.html#abe39692126640752981104658c67ecdc" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="383,643,486,669"/>
+<area shape="rect" id="node37" href="$bitmap_8h.html#a8cf39272ab5d44e368dc21a166e3a236" title="Bitmap abstract data type." alt="" coords="167,1818,273,1843"/>
+</map>

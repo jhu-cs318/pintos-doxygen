@@ -1,0 +1,7 @@
+<map id="serial_notify" name="serial_notify">
+<area shape="rect" id="node1" title="devices/serial.h" alt="" coords="317,31,409,56"/>
+<area shape="rect" id="node2" href="$input_8h.html#a07e161b7f0ec81e4d4d4990e0b5e6a27" title="Retrieves a key from the input buffer." alt="" coords="186,5,269,31"/>
+<area shape="rect" id="node3" href="$input_8h.html#a44192b72f43870829e562e6c088ef08c" title="Adds a key to the input buffer." alt="" coords="186,55,269,80"/>
+<area shape="rect" id="node4" href="$kbd_8c.html#a342c6a1eb911b8e2a65a5dfba072492b" title=" " alt="" coords="5,29,138,55"/>
+<area shape="rect" id="node5" href="$serial_8c.html#a2d769aaa2d2ff184e5e70fcf4b9d2354" title="Serial interrupt handler." alt="" coords="17,79,126,104"/>
+</map>

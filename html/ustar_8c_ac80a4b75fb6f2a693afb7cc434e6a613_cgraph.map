@@ -1,0 +1,10 @@
+<map id="ustar_parse_header" name="ustar_parse_header">
+<area shape="rect" id="node1" title="Parses HEADER as a ustar&#45;format archive header for a regular file or directory." alt="" coords="5,105,146,131"/>
+<area shape="rect" id="node2" href="$ustar_8c.html#a4abd06a3432f80c53d46dfa9fdf6204a" title="Returns the checksum for the given ustar format HEADER." alt="" coords="212,5,339,31"/>
+<area shape="rect" id="node3" href="$ustar_8c.html#ad27c5df357f5aeffc66d0e0438588635" title="Returns true if the CNT bytes starting at BLOCK are all zero, false otherwise." alt="" coords="230,55,322,80"/>
+<area shape="rect" id="node4" href="$string_8c.html#a19c6163b9e87b586f4ddb7773faf9172" title="Find the first differing byte in the two blocks of SIZE bytes at A and B." alt="" coords="406,119,482,144"/>
+<area shape="rect" id="node5" href="$ustar_8c.html#a6409757818f6a37c3786e76df25fc925" title="Parses a SIZE&#45;byte octal field in S in the format used by ustar format." alt="" coords="215,156,337,181"/>
+<area shape="rect" id="node6" href="$ustar_8c.html#ae29bd8874ee5cbfa8768535d1ff25f7f" title="Drop possibly dangerous prefixes from FILE_NAME and return the stripped name." alt="" coords="194,205,358,231"/>
+<area shape="rect" id="node7" href="$string_8c.html#a7dc39cb18df6441ab248648041ad4f9d" title="Finds and returns the first occurrence of C in STRING, or a null pointer if C does not appear in STRI..." alt="" coords="416,180,471,205"/>
+<area shape="rect" id="node8" href="$string_8c.html#ae99b71772ffcf066739c8568013425e3" title="Finds the first differing characters in strings A and B." alt="" coords="413,229,474,255"/>
+</map>

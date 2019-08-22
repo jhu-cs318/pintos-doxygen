@@ -1,0 +1,15 @@
+<map id="timer_init" name="timer_init">
+<area shape="rect" id="node1" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="5,105,81,131"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a38cd217e72ddb3f58db591a061c99691" title="Registers external interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="146,67,263,92"/>
+<area shape="rect" id="node7" href="$pit_8c.html#a7dd39bb359cbd638f9134488ab47db4c" title="Configure the given CHANNEL in the PIT." alt="" coords="129,129,281,155"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a7e7d2edfe1ec7f51b54704080de2f4ca" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="329,53,446,79"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#a75ac431d18ce7aff146bef22379c1dcd" title="Interrupt Descriptor Table helpers." alt="" coords="496,5,610,31"/>
+<area shape="rect" id="node6" href="$interrupt_8c.html#a79e99b0236c49a7a12d52a2ec74fefa5" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="494,55,612,80"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="667,32,754,57"/>
+<area shape="rect" id="node8" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="508,105,598,131"/>
+<area shape="rect" id="node10" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="337,155,437,180"/>
+<area shape="rect" id="node13" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="364,204,411,229"/>
+<area shape="rect" id="node9" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="660,105,761,131"/>
+<area shape="rect" id="node11" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="509,155,597,180"/>
+<area shape="rect" id="node12" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="665,155,755,180"/>
+</map>

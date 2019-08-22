@@ -1,0 +1,10 @@
+<map id="inplace_merge" name="inplace_merge">
+<area shape="rect" id="node1" title="Merges A0 through A1B0 (exclusive) with A1B0 through B1 (exclusive) to form a combined range also end..." alt="" coords="5,49,114,74"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a419971d863c1973e42834e24c6af70c6" title="Our doubly linked lists have two header elements: the &quot;head&quot; just before the first element and the &quot;t..." alt="" coords="164,23,239,49"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#afb3307f0f8fb717f84cf74110d59196a" title="Returns the element after ELEM in its list." alt="" coords="290,23,360,49"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#a85f6e9def62332c1073959a9e7e6b4de" title="Returns the element before ELEM in its list." alt="" coords="289,73,360,98"/>
+<area shape="rect" id="node8" href="$lib_2kernel_2list_8c.html#a657de6bdaacc5a7dad3ffa5ccb31cf6f" title="Removes elements FIRST though LAST (exclusive) from their current list, then inserts them just before..." alt="" coords="162,125,241,150"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="414,23,482,49"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="408,73,487,98"/>
+<area shape="rect" id="node7" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="420,147,476,173"/>
+</map>

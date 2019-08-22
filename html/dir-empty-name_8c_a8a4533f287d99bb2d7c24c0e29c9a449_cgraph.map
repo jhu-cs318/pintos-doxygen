@@ -1,0 +1,4 @@
+<map id="test_main" name="test_main">
+<area shape="rect" id="node1" title="Tries to create a directory named as the empty string, which must return failure." alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#ae7d9ebc226866a8c70b31c6d03316b6e" title=" " alt="" coords="132,5,186,31"/>
+</map>

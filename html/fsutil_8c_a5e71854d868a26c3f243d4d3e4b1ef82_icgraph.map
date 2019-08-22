@@ -1,0 +1,5 @@
+<map id="fsutil_append" name="fsutil_append">
+<area shape="rect" id="node1" title="Copies file FILE_NAME from the file system to the scratch device, in ustar format." alt="" coords="273,5,374,31"/>
+<area shape="rect" id="node2" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,5,225,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

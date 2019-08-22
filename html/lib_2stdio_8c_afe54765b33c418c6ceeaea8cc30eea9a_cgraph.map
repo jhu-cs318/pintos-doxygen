@@ -1,0 +1,4 @@
+<map id="format_integer" name="format_integer">
+<area shape="rect" id="node1" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="5,5,113,31"/>
+<area shape="rect" id="node2" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="161,5,249,31"/>
+</map>

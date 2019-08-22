@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['random_5fbytes_2465',['random_bytes',['../random_8c.html#a9273f69f7fecbc77cca0204baaaf175a',1,'random_bytes(void *buf_, size_t size):&#160;random.c'],['../random_8h.html#a9169e6881d70a34595ddaf77d5ce396b',1,'random_bytes(void *, size_t):&#160;random.c']]],
+  ['random_5finit_2466',['random_init',['../random_8c.html#af2a054338d7e0424f8cf6363610cd21b',1,'random_init(unsigned seed):&#160;random.c'],['../random_8h.html#af2a054338d7e0424f8cf6363610cd21b',1,'random_init(unsigned seed):&#160;random.c']]],
+  ['random_5fulong_2467',['random_ulong',['../random_8c.html#a17f74993b2b5314bf3479f2b47090991',1,'random_ulong(void):&#160;random.c'],['../random_8h.html#a17f74993b2b5314bf3479f2b47090991',1,'random_ulong(void):&#160;random.c']]],
+  ['read_2468',['read',['../lib_2user_2syscall_8c.html#ab0f9f22d375a9229b3c77859cf2035a0',1,'read(int fd, void *buffer, unsigned size):&#160;syscall.c'],['../lib_2user_2syscall_8h.html#a01914c480b52c44ef292c4285bf985ff',1,'read(int fd, void *buffer, unsigned length):&#160;syscall.c']]],
+  ['read_5fcommand_5fline_2469',['read_command_line',['../init_8c.html#ae58b8c3dee90e04a151d5f9ee45799c5',1,'init.c']]],
+  ['read_5fline_2470',['read_line',['../shell_8c.html#ae50f2386b53b64d6827fe6e35958898a',1,'shell.c']]],
+  ['read_5fpartition_5ftable_2471',['read_partition_table',['../partition_8c.html#a5723d235ee99ff5ebd79a4db49236237',1,'partition.c']]],
+  ['readdir_2472',['readdir',['../lib_2user_2syscall_8c.html#a0aa847a91eaead434f068da636ec821f',1,'readdir(int fd, char name[READDIR_MAX_LEN+1]):&#160;syscall.c'],['../lib_2user_2syscall_8h.html#a0aa847a91eaead434f068da636ec821f',1,'readdir(int fd, char name[READDIR_MAX_LEN+1]):&#160;syscall.c']]],
+  ['real_5ftime_5fdelay_2473',['real_time_delay',['../timer_8c.html#a28553fa387ff127de26e330dfcfe9fa1',1,'timer.c']]],
+  ['real_5ftime_5fsleep_2474',['real_time_sleep',['../timer_8c.html#a9bd10eb80561359273e022f4c80b483f',1,'timer.c']]],
+  ['realloc_2475',['realloc',['../malloc_8c.html#a58a9a83a1db5ab001a751280701922f9',1,'realloc(void *old_block, size_t new_size):&#160;malloc.c'],['../malloc_8h.html#afa148085b6fa9594b4c35e100d94a183',1,'realloc(void *, size_t):&#160;malloc.c']]],
+  ['register_5fhandler_2476',['register_handler',['../interrupt_8c.html#a7e7d2edfe1ec7f51b54704080de2f4ca',1,'interrupt.c']]],
+  ['rehash_2477',['rehash',['../hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0',1,'hash.c']]],
+  ['relay_2478',['relay',['../squish-pty_8c.html#a85b966702ccfe9626963ca230aa75c74',1,'relay(int pty, int dead_child_fd):&#160;squish-pty.c'],['../squish-unix_8c.html#abb67c86fbcd2791aaa7ae3004f414542',1,'relay(int sock):&#160;squish-unix.c']]],
+  ['release_5fconsole_2479',['release_console',['../kernel_2console_8c.html#ace2f2e53045fdaa51273a6e45cc63044',1,'console.c']]],
+  ['remove_2480',['remove',['../lib_2user_2syscall_8c.html#a7a5f4b007384216b3290a57447198e93',1,'remove(const char *file):&#160;syscall.c'],['../lib_2user_2syscall_8h.html#a7a5f4b007384216b3290a57447198e93',1,'remove(const char *file):&#160;syscall.c']]],
+  ['remove_5felem_2481',['remove_elem',['../hash_8c.html#a5139629656e1aafad97597454d31826f',1,'hash.c']]],
+  ['remove_5ftree_2482',['remove_tree',['../dir-rm-tree_8c.html#a943528adc527073e98cbfcd35e58055b',1,'dir-rm-tree.c']]],
+  ['reset_5fchannel_2483',['reset_channel',['../ide_8c.html#a03eb0d9954faefcc1634f76a286f78f5',1,'ide.c']]],
+  ['return_5fblock_5fsize_2484',['return_block_size',['../grow-file-size_8c.html#afc6f65e7205611dfe4548032493e1b15',1,'return_block_size(void):&#160;grow-file-size.c'],['../grow-tell_8c.html#afc6f65e7205611dfe4548032493e1b15',1,'return_block_size(void):&#160;grow-tell.c']]],
+  ['rtc_5fget_5ftime_2485',['rtc_get_time',['../rtc_8c.html#a651ca69a3f0a7511a211e647f75531b3',1,'rtc_get_time(void):&#160;rtc.c'],['../rtc_8h.html#a651ca69a3f0a7511a211e647f75531b3',1,'rtc_get_time(void):&#160;rtc.c']]],
+  ['run_5factions_2486',['run_actions',['../init_8c.html#a119afb30b477e7978c504b34450be746',1,'init.c']]],
+  ['run_5ftask_2487',['run_task',['../init_8c.html#aff4f7abdb534106a4f1e2c2581713271',1,'init.c']]],
+  ['run_5ftest_2488',['run_test',['../tests_8c.html#a31e43c3ff7a147fd2a262e4f78ea07b4',1,'run_test(const char *name):&#160;tests.c'],['../tests_8h.html#a81252bca9c5649cd9bfe7801959c1c2e',1,'run_test(const char *):&#160;tests.c']]],
+  ['running_5fthread_2489',['running_thread',['../thread_8c.html#a42e628208d70ba10d79c26d902b60650',1,'thread.c']]]
+];

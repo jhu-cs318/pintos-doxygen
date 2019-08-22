@@ -1,0 +1,9 @@
+<map id="src/devices/intq.h" name="src/devices/intq.h">
+<area shape="rect" id="node1" title=" " alt="" coords="59,5,183,31"/>
+<area shape="rect" id="node2" href="$interrupt_8h.html" title=" " alt="" coords="5,152,135,177"/>
+<area shape="rect" id="node5" href="$synch_8h.html" title=" " alt="" coords="115,79,231,104"/>
+<area shape="rect" id="node3" href="$stdbool_8h.html" title=" " alt="" coords="67,225,142,251"/>
+<area shape="rect" id="node4" href="$stdint_8h.html" title=" " alt="" coords="166,225,230,251"/>
+<area shape="rect" id="node6" href="$list_8h.html" title=" " alt="" coords="210,152,258,177"/>
+<area shape="rect" id="node7" href="$stddef_8h.html" title=" " alt="" coords="254,225,323,251"/>
+</map>

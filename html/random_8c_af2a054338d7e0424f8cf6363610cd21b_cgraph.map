@@ -1,0 +1,4 @@
+<map id="random_init" name="random_init">
+<area shape="rect" id="node1" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="5,5,96,31"/>
+<area shape="rect" id="node2" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="144,5,229,31"/>
+</map>

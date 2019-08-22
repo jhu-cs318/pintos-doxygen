@@ -1,0 +1,5 @@
+<map id="lock_init" name="lock_init">
+<area shape="rect" id="node1" title="Initializes LOCK." alt="" coords="5,5,75,31"/>
+<area shape="rect" id="node2" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="123,5,201,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="249,5,311,31"/>
+</map>

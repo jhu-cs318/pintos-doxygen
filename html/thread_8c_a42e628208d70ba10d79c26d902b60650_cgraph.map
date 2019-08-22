@@ -1,0 +1,4 @@
+<map id="running_thread" name="running_thread">
+<area shape="rect" id="node1" title="Returns the running thread." alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node2" href="$vaddr_8h.html#a5a07aa5a4d70694db19884626f4b0fa3" title="Round down to nearest page boundary." alt="" coords="164,5,281,31"/>
+</map>

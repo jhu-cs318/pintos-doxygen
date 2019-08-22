@@ -1,0 +1,8 @@
+<map id="timer_ticks" name="timer_ticks">
+<area shape="rect" id="node1" title="Returns the number of timer ticks since the OS booted." alt="" coords="5,29,90,55"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="286,5,376,31"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="138,55,238,80"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="424,5,524,31"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="287,55,375,80"/>
+<area shape="rect" id="node6" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="429,55,519,80"/>
+</map>

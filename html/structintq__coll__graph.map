@@ -1,0 +1,8 @@
+<map id="intq" name="intq">
+<area shape="rect" id="node1" title="A circular queue of bytes." alt="" coords="153,369,196,395"/>
+<area shape="rect" id="node2" href="$structlock.html" title="Lock." alt="" coords="116,282,161,307"/>
+<area shape="rect" id="node3" href="$structsemaphore.html" title="A counting semaphore." alt="" coords="5,195,93,220"/>
+<area shape="rect" id="node4" href="$structlist.html" title="List." alt="" coords="51,107,90,133"/>
+<area shape="rect" id="node5" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="72,6,146,31"/>
+<area shape="rect" id="node6" href="$structthread.html" title="A kernel thread or user process." alt="" coords="118,195,178,220"/>
+</map>

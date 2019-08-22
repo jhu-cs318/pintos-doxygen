@@ -1,0 +1,8 @@
+<map id="block_next" name="block_next">
+<area shape="rect" id="node1" title="Returns the block device following BLOCK in kernel probe order, or a null pointer if BLOCK is the las..." alt="" coords="5,31,90,56"/>
+<area shape="rect" id="node2" href="$block_8c.html#a9dab72b1a888ba36ece50287da87c919" title="Returns the block device corresponding to LIST_ELEM, or a null pointer if LIST_ELEM is the list end o..." alt="" coords="138,5,269,31"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#afb3307f0f8fb717f84cf74110d59196a" title="Returns the element after ELEM in its list." alt="" coords="169,55,239,80"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="323,5,391,31"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="323,55,391,80"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="317,104,397,129"/>
+</map>

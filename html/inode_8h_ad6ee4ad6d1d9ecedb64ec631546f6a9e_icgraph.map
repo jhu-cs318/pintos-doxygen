@@ -1,0 +1,13 @@
+<map id="inode_write_at" name="inode_write_at">
+<area shape="rect" id="node1" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="716,80,824,105"/>
+<area shape="rect" id="node2" href="$directory_8h.html#ab1d7741cb8f50c04ee906af9edadba10" title="Adds a file named NAME to DIR, which must not already contain a file by that name." alt="" coords="589,55,655,80"/>
+<area shape="rect" id="node7" href="$directory_8h.html#a90c0b9ebb330de50b9d9ad5fde4d1676" title="Removes any entry for NAME in DIR." alt="" coords="578,104,666,129"/>
+<area shape="rect" id="node10" href="$file_8h.html#aa6b55a3ae90c9bc9718b3a2345d7666d" title="Writes SIZE bytes from BUFFER into FILE, starting at the file&#39;s current position." alt="" coords="435,5,509,31"/>
+<area shape="rect" id="node11" href="$file_8h.html#a706816874cad7e4ba737057c35fe253b" title="Writes SIZE bytes from BUFFER into FILE, starting at offset FILE_OFS in the file." alt="" coords="575,153,668,179"/>
+<area shape="rect" id="node3" href="$filesys_8h.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="421,55,524,80"/>
+<area shape="rect" id="node4" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="273,55,369,80"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,80,225,105"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,80,87,105"/>
+<area shape="rect" id="node8" href="$filesys_8h.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="filesys/filesys.h" alt="" coords="417,104,527,129"/>
+<area shape="rect" id="node9" href="$fsutil_8h.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="285,104,357,129"/>
+</map>

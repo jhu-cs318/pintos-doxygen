@@ -1,0 +1,4 @@
+<map id="malloc_init" name="malloc_init">
+<area shape="rect" id="node1" title="Initializes the malloc() descriptors." alt="" coords="135,5,219,31"/>
+<area shape="rect" id="node2" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="strchr" name="strchr">
+<area shape="rect" id="node1" title="Finds and returns the first occurrence of C in STRING, or a null pointer if C does not appear in STRI..." alt="" coords="1163,255,1218,280"/>
+<area shape="rect" id="node2" href="$init_8c.html#ae58b8c3dee90e04a151d5f9ee45799c5" title="Breaks the kernel command line into words and returns them as an argv&#45;like array." alt="" coords="761,179,903,204"/>
+<area shape="rect" id="node4" href="$string_8h.html#a4e8462eddc5a160451a246bc1bc22bb4" title="Returns the length of the initial substring of STRING that consists of characters that are not in STO..." alt="" coords="1001,280,1065,305"/>
+<area shape="rect" id="node5" href="$ustar_8c.html#ae29bd8874ee5cbfa8768535d1ff25f7f" title="Drop possibly dangerous prefixes from FILE_NAME and return the stripped name." alt="" coords="951,128,1115,153"/>
+<area shape="rect" id="node17" href="$string_8h.html#a20d6321febae7448d32252b300b7300a" title="Returns a pointer to the first character in STRING that is also in STOP." alt="" coords="1002,329,1064,355"/>
+<area shape="rect" id="node18" href="$string_8h.html#a417885431ec6bd9c35f34ca1d10ca48b" title="Returns the length of the initial substring of STRING that consists of characters in SKIP." alt="" coords="1004,379,1062,404"/>
+<area shape="rect" id="node19" href="$string_8h.html#a9c6b43fd17114c06a5b35d60e8b7727b" title="Breaks a string into tokens separated by DELIMITERS." alt="" coords="799,229,865,255"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="283,179,364,204"/>
+<area shape="rect" id="node6" href="$ustar_8h.html#a8d5a55c582d91f5c1cbd895f54b7a92c" title="Composes HEADER as a USTAR_HEADER_SIZE (512)&#45;byte archive header in ustar format for a SIZE&#45;byte file..." alt="" coords="762,79,902,104"/>
+<area shape="rect" id="node15" href="$ustar_8h.html#a39152fb20627ddb6bf2decba97472a6b" title="lib/ustar.h" alt="" coords="762,128,903,153"/>
+<area shape="rect" id="node7" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="610,79,711,104"/>
+<area shape="rect" id="node9" href="$tar_8c.html#aeae922065d4290e3c877a5f3a5d7a824" title=" " alt="" coords="611,29,710,55"/>
+<area shape="rect" id="node8" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="443,128,533,153"/>
+<area shape="rect" id="node10" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="426,55,549,80"/>
+<area shape="rect" id="node14" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="416,5,560,31"/>
+<area shape="rect" id="node11" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="279,55,368,80"/>
+<area shape="rect" id="node12" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="104,55,231,80"/>
+<area shape="rect" id="node13" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,55,56,80"/>
+<area shape="rect" id="node16" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="612,128,709,153"/>
+<area shape="rect" id="node20" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="608,229,713,255"/>
+</map>

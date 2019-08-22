@@ -1,0 +1,4 @@
+<map id="thread_get_recent_cpu" name="thread_get_recent_cpu">
+<area shape="rect" id="node1" title="Returns 100 times the current thread&#39;s recent_cpu value." alt="" coords="195,5,353,31"/>
+<area shape="rect" id="node2" href="$mlfqs-recent-1_8c.html#afc46332e59acfbdd49260bd5fdca1798" title="Checks that recent_cpu is calculated properly for the case of a single ready process." alt="" coords="5,5,147,31"/>
+</map>

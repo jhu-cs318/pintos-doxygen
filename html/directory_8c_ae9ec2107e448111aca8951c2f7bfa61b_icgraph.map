@@ -1,0 +1,6 @@
+<map id="dir_readdir" name="dir_readdir">
+<area shape="rect" id="node1" title="Reads the next directory entry in DIR and stores the name in NAME." alt="" coords="387,5,472,31"/>
+<area shape="rect" id="node2" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="273,5,339,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,5,225,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

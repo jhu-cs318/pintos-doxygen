@@ -1,0 +1,5 @@
+<map id="idle" name="idle">
+<area shape="rect" id="node1" title=" " alt="" coords="275,5,317,31"/>
+<area shape="rect" id="node2" href="$thread_8h.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="135,5,227,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="active_pd" name="active_pd">
+<area shape="rect" id="node1" title="Returns the currently active page directory." alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node2" href="$vaddr_8h.html#a4887c2b8a39b091ef5b3eb7465bcc8f7" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="132,5,178,31"/>
+</map>

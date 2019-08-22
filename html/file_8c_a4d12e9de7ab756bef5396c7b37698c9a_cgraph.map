@@ -1,0 +1,52 @@
+<map id="file_close" name="file_close">
+<area shape="rect" id="node1" title="Closes FILE." alt="" coords="5,309,82,334"/>
+<area shape="rect" id="node2" href="$file_8c.html#afe7d1da8b53f8b896fc5faf646468356" title="Re&#45;enables write operations on FILE&#39;s underlying inode." alt="" coords="130,258,242,283"/>
+<area shape="rect" id="node4" href="$malloc_8c.html#a9f850d0608418aea291e4c0fdab93826" title="Frees block P, which must have been previously allocated with malloc(), calloc(), or realloc()." alt="" coords="332,309,376,334"/>
+<area shape="rect" id="node48" href="$inode_8c.html#a74e1a19b5bcae248617541fe6f2f77c5" title="Closes INODE and writes it to disk." alt="" coords="140,359,232,385"/>
+<area shape="rect" id="node3" href="$inode_8c.html#af980635032a3d7215e955e3aa0e1c902" title="Re&#45;enables writes to INODE." alt="" coords="290,258,417,283"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#a9c2a4cff5e437e5be52e507be30eea49" title="Returns the (IDX &#45; 1)&#39;th block within arena A." alt="" coords="471,309,583,334"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#a5db3c69e2b5fc7fb13fa1f663df2bf03" title="Returns the arena that block B is inside." alt="" coords="651,207,763,233"/>
+<area shape="rect" id="node9" href="$lib_2kernel_2list_8c.html#a2b0911a5635312de560f8d2a744956ad" title="Inserts ELEM at the beginning of LIST, so that it becomes the front in LIST." alt="" coords="1026,310,1134,335"/>
+<area shape="rect" id="node14" href="$lib_2kernel_2list_8c.html#a9574755a392b556ddb650b8672f9f4af" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="1035,418,1125,443"/>
+<area shape="rect" id="node15" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="659,778,755,803"/>
+<area shape="rect" id="node30" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="479,613,575,638"/>
+<area shape="rect" id="node36" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="865,6,933,31"/>
+<area shape="rect" id="node37" href="$palloc_8c.html#af4c2af0e0bdc81d1ea21354c4234b20e" title="Frees the PAGE_CNT pages starting at PAGES." alt="" coords="637,133,777,158"/>
+<area shape="rect" id="node47" href="$palloc_8c.html#ad3fe56f7c611216596e7565fb8521409" title="Frees the page at PAGE." alt="" coords="465,106,589,131"/>
+<area shape="rect" id="node7" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="868,157,930,182"/>
+<area shape="rect" id="node8" href="$vaddr_8h.html#a5a07aa5a4d70694db19884626f4b0fa3" title="Round down to nearest page boundary." alt="" coords="1502,469,1619,494"/>
+<area shape="rect" id="node10" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="1360,518,1438,543"/>
+<area shape="rect" id="node11" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="1203,469,1280,494"/>
+<area shape="rect" id="node12" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="1359,418,1439,443"/>
+<area shape="rect" id="node13" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="1371,469,1427,494"/>
+<area shape="rect" id="node16" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1354,1050,1444,1075"/>
+<area shape="rect" id="node17" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="825,714,973,753"/>
+<area shape="rect" id="node18" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="1187,721,1295,746"/>
+<area shape="rect" id="node21" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="852,829,946,854"/>
+<area shape="rect" id="node19" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1361,697,1437,722"/>
+<area shape="rect" id="node20" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="1343,746,1454,771"/>
+<area shape="rect" id="node22" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="1197,923,1286,949"/>
+<area shape="rect" id="node24" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="1030,1025,1130,1050"/>
+<area shape="rect" id="node26" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="1025,569,1135,594"/>
+<area shape="rect" id="node28" href="$thread_8c.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="1031,822,1129,847"/>
+<area shape="rect" id="node23" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="1349,873,1449,898"/>
+<area shape="rect" id="node25" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="1198,1025,1285,1050"/>
+<area shape="rect" id="node27" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="1365,569,1433,594"/>
+<area shape="rect" id="node29" href="$thread_8c.html#a63e3ec45b7bf0028e55f2b9ab1603306" title="Schedules a new process." alt="" coords="1204,770,1279,795"/>
+<area shape="rect" id="node31" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="669,613,745,638"/>
+<area shape="rect" id="node32" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="1201,518,1282,543"/>
+<area shape="rect" id="node33" href="$lib_2kernel_2list_8c.html#afb61f0ab134a52505ed89bc2d1024165" title="Removes the front element from LIST and returns it." alt="" coords="848,511,950,537"/>
+<area shape="rect" id="node35" href="$thread_8c.html#a0cd30c260607aec4597c5b613c5e013f" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="843,613,955,638"/>
+<area shape="rect" id="node34" href="$lib_2kernel_2list_8c.html#a9b0ec9912b9a1a4d95b47984e0777e66" title="Returns the front element in LIST." alt="" coords="1044,467,1116,493"/>
+<area shape="rect" id="node38" href="$bitmap_8c.html#ab8910020ce78e389457c0607990d04d3" title="Returns true if every bit in B between START and START + CNT, exclusive, is set to true,..." alt="" coords="858,258,940,283"/>
+<area shape="rect" id="node41" href="$bitmap_8c.html#a7b2eaaf4ee3c0f7794b4e5293f3b9760" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="829,359,969,385"/>
+<area shape="rect" id="node44" href="$palloc_8c.html#a2adf802e51d008838946d621cb4e8fb2" title="Returns true if PAGE was allocated from POOL, false otherwise." alt="" coords="840,107,958,133"/>
+<area shape="rect" id="node46" href="$vaddr_8h.html#a1efae7b168a7e2234c0e4022d889bdc8" title="Virtual page number." alt="" coords="1051,57,1109,82"/>
+<area shape="rect" id="node39" href="$bitmap_8c.html#a90f5f9e5e7afbd943d0c6c33fc0d8557" title="Returns true if any bits in B between START and START + CNT, exclusive, are set to VALUE,..." alt="" coords="1021,258,1139,283"/>
+<area shape="rect" id="node40" href="$bitmap_8c.html#ab8d6660c5e30dab9cecef1240c7423d9" title="Returns the value of the bit numbered IDX in B." alt="" coords="1196,258,1287,283"/>
+<area shape="rect" id="node42" href="$bitmap_8c.html#a766a7941acc1371fb82ed4f70a1ecf37" title="Setting and testing single bits." alt="" coords="1037,359,1123,385"/>
+<area shape="rect" id="node43" href="$bitmap_8c.html#adb8912537854d4a2dcb1f35940a7134b" title="Atomically sets the bit numbered BIT_IDX in B to true." alt="" coords="1192,361,1291,386"/>
+<area shape="rect" id="node45" href="$bitmap_8c.html#a576f7d29f091eac024f70ae8d68997a9" title="Bitmap size." alt="" coords="1034,107,1126,133"/>
+<area shape="rect" id="node49" href="$inode_8c.html#af6294d594eab7d7afccf0d0cefd35a13" title="Returns the number of sectors to allocate for an inode SIZE bytes long." alt="" coords="293,410,415,435"/>
+<area shape="rect" id="node50" href="$free-map_8c.html#a65586c8713124a199b6db7397c1aba6f" title="Makes CNT sectors starting at SECTOR available for use." alt="" coords="643,359,771,385"/>
+</map>

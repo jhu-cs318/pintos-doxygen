@@ -1,0 +1,6 @@
+<map id="pass" name="pass">
+<area shape="rect" id="node1" title="Prints a message indicating the current test passed." alt="" coords="195,55,244,80"/>
+<area shape="rect" id="node2" href="$alarm-negative_8c.html#ad5c447572b60336bb1985430aae6261f" title="Tests timer_sleep(&#45;100)." alt="" coords="5,5,147,31"/>
+<area shape="rect" id="node3" href="$alarm-zero_8c.html#af827808f6e049e0ec389cc29dc0544f3" title="Tests timer_sleep(0), which should return immediately." alt="" coords="18,55,135,80"/>
+<area shape="rect" id="node4" href="$mlfqs-load-1_8c.html#a4c5f62aa39a429a8ae1ef32f9fc9238d" title="Verifies that a single busy thread raises the load average to 0.5 in 38 to 45 seconds." alt="" coords="11,104,141,129"/>
+</map>

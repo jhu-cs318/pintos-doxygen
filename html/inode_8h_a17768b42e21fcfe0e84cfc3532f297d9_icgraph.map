@@ -1,0 +1,36 @@
+<map id="inode_close" name="inode_close">
+<area shape="rect" id="node1" title="Closes INODE and writes it to disk." alt="" coords="1385,221,1478,246"/>
+<area shape="rect" id="node2" href="$directory_8h.html#a972c4f1aef505b8bf976063d2229676a" title="Destroys DIR and frees associated resources." alt="" coords="1112,71,1187,97"/>
+<area shape="rect" id="node17" href="$directory_8h.html#a5b00e2da83ce54480d49a91405cb625c" title="Opens and returns the directory for the given INODE, of which it takes ownership." alt="" coords="1257,170,1330,195"/>
+<area shape="rect" id="node20" href="$directory_8h.html#a90c0b9ebb330de50b9d9ad5fde4d1676" title="Removes any entry for NAME in DIR." alt="" coords="1249,221,1337,246"/>
+<area shape="rect" id="node21" href="$file_8h.html#a11e71f5d8bdfe65c54a1ae9b83c5d67a" title="Closes FILE." alt="" coords="956,221,1033,246"/>
+<area shape="rect" id="node31" href="$file_8h.html#a47788113ec3770733f6cc63f00cc5bb3" title="Opening and closing files." alt="" coords="1112,345,1187,370"/>
+<area shape="rect" id="node3" href="$filesys_8h.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="943,71,1046,97"/>
+<area shape="rect" id="node7" href="$filesys_8h.html#a6dd9e1e66d780ecd7580dabcf72559b4" title="Opens the file with the given NAME." alt="" coords="947,170,1042,195"/>
+<area shape="rect" id="node14" href="$filesys_8h.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="filesys/filesys.h" alt="" coords="939,121,1049,146"/>
+<area shape="rect" id="node16" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="961,22,1027,47"/>
+<area shape="rect" id="node4" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="782,95,878,121"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="142,145,232,170"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,270,87,295"/>
+<area shape="rect" id="node8" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="780,195,880,221"/>
+<area shape="rect" id="node9" href="$fsutil_8h.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="793,245,867,270"/>
+<area shape="rect" id="node10" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="807,146,853,171"/>
+<area shape="rect" id="node11" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="613,145,714,170"/>
+<area shape="rect" id="node12" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="425,145,547,170"/>
+<area shape="rect" id="node13" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="291,145,363,170"/>
+<area shape="rect" id="node15" href="$fsutil_8h.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="628,43,700,69"/>
+<area shape="rect" id="node18" href="$directory_8h.html#a360de0f3a61721d83b1d6f3f435779de" title="Opens the root directory and returns a directory for it." alt="" coords="1097,121,1201,146"/>
+<area shape="rect" id="node19" href="$directory_8h.html#a0a9521db17816e1e7b81f30c0e00e980" title="Opens and returns a new directory for the same inode as DIR." alt="" coords="1107,170,1192,195"/>
+<area shape="rect" id="node22" href="$free-map_8h.html#ac00d55315a3b01794bcdc6cc9d5ba5f5" title="Writes the free map to disk and closes the free map file." alt="" coords="772,295,888,321"/>
+<area shape="rect" id="node23" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="623,346,704,371"/>
+<area shape="rect" id="node25" href="$filesys_8h.html#aeb7068b9b8e7563972715862ca8106f5" title="Shuts down the file system module, writing any unwritten data to disk." alt="" coords="616,297,711,322"/>
+<area shape="rect" id="node24" href="$filesys_8h.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="445,395,528,421"/>
+<area shape="rect" id="node26" href="$shutdown_8h.html#a5a3f691cafea75080890d3c921840da7" title="devices/shutdown.h" alt="" coords="414,297,558,322"/>
+<area shape="rect" id="node27" href="$shutdown_8h.html#a1c9d5e29ad8899afe0c34571ddee18f9" title="Shuts down the machine in the way configured by shutdown_configure()." alt="" coords="288,346,366,371"/>
+<area shape="rect" id="node29" href="$init_8c.html#ad96d407a911fbb914fa8e4cfbf2faf0f" title="Prints a kernel command line help message and powers off the machine." alt="" coords="298,297,356,322"/>
+<area shape="rect" id="node28" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="138,346,236,371"/>
+<area shape="rect" id="node30" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="135,245,240,270"/>
+<area shape="rect" id="node32" href="$file_8h.html#a2f1e61c23b36a5ff6cdb36a674669001" title="Opens and returns a new file for the same inode as FILE." alt="" coords="951,446,1038,471"/>
+<area shape="rect" id="node33" href="$free-map_8h.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="769,345,891,370"/>
+<area shape="rect" id="node34" href="$free-map_8h.html#a82ae69d4b7534829d5c1672231c62370" title="Opens the free map file and reads it from disk." alt="" coords="606,395,721,421"/>
+</map>

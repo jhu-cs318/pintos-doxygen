@@ -1,0 +1,12 @@
+<map id="register_handler" name="register_handler">
+<area shape="rect" id="node1" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="470,153,587,179"/>
+<area shape="rect" id="node2" href="$interrupt_8h.html#a567ded3251d2fc80b5eeea7fa77598c0" title="Registers external interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="305,104,422,129"/>
+<area shape="rect" id="node8" href="$interrupt_8h.html#af0bcb45d9c71169fc050681d20d91b3e" title="Registers internal interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="307,203,420,228"/>
+<area shape="rect" id="node3" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="164,5,228,31"/>
+<area shape="rect" id="node5" href="$kbd_8h.html#a2d4a794658f2ee47f466766d89c6e8e8" title="Initializes the keyboard." alt="" coords="162,55,229,80"/>
+<area shape="rect" id="node6" href="$serial_8h.html#a54e99a9877b7ed2a6be751fc43905978" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="135,104,257,129"/>
+<area shape="rect" id="node7" href="$timer_8h.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="158,153,233,179"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,129,87,155"/>
+<area shape="rect" id="node9" href="$exception_8h.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="144,203,247,228"/>
+<area shape="rect" id="node10" href="$userprog_2syscall_8h.html#a797876702ac4b3a53fa69839f02642f4" title="userprog/syscall.h" alt="" coords="153,252,239,277"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="make_code_desc" name="make_code_desc">
+<area shape="rect" id="node1" title="GDT helpers." alt="" coords="247,5,373,31"/>
+<area shape="rect" id="node2" href="$gdt_8h.html#ad2acd7bce259a1a32213503c6fa18f14" title="userprog/gdt.h" alt="" coords="135,5,199,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

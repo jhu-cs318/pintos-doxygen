@@ -1,0 +1,8 @@
+<map id="intr_init" name="intr_init">
+<area shape="rect" id="node1" title="Initializes the interrupt system." alt="" coords="5,55,70,80"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#afb694fad923f4942cd9de0bd38172b4e" title="Returns a descriptor that yields the given LIMIT and BASE when used as an operand for the LIDT instru..." alt="" coords="118,5,254,31"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a75ac431d18ce7aff146bef22379c1dcd" title="Interrupt Descriptor Table helpers." alt="" coords="129,55,242,80"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#a69ce22b1b1b67b59d13ee72c00570274" title="Programmable Interrupt Controller helpers." alt="" coords="154,104,217,129"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="302,55,389,80"/>
+<area shape="rect" id="node6" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="322,104,369,129"/>
+</map>

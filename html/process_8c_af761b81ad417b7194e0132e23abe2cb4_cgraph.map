@@ -1,0 +1,52 @@
+<map id="load" name="load">
+<area shape="rect" id="node1" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="5,759,52,784"/>
+<area shape="rect" id="node2" href="$file_8c.html#a4d12e9de7ab756bef5396c7b37698c9a" title="Closes FILE." alt="" coords="427,104,504,129"/>
+<area shape="rect" id="node12" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="1076,911,1184,936"/>
+<area shape="rect" id="node22" href="$file_8c.html#a8866ac568cc804793c456ccb4af71957" title="Returns the size of FILE in bytes." alt="" coords="285,559,367,584"/>
+<area shape="rect" id="node24" href="$file_8c.html#aa970e0e3d037e457750745798328db97" title="Reads SIZE bytes from FILE into BUFFER, starting at the file&#39;s current position." alt="" coords="429,455,502,480"/>
+<area shape="rect" id="node31" href="$file_8c.html#a123a2f99235d86d6accb4dff5568680a" title="Sets the current position in FILE to NEW_POS bytes from the start of the file." alt="" coords="428,759,502,784"/>
+<area shape="rect" id="node32" href="$filesys_8c.html#a6dd9e1e66d780ecd7580dabcf72559b4" title="Opens the file with the given NAME." alt="" coords="115,304,211,329"/>
+<area shape="rect" id="node39" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="274,657,379,683"/>
+<area shape="rect" id="node41" href="$string_8c.html#a19c6163b9e87b586f4ddb7773faf9172" title="Find the first differing byte in the two blocks of SIZE bytes at A and B." alt="" coords="125,1012,201,1037"/>
+<area shape="rect" id="node42" href="$pagedir_8c.html#a9f39029d88ceb005fc142ddb85febfc6" title="Creates a new page directory that has mappings for kernel virtual addresses, but none for user virtua..." alt="" coords="552,759,663,784"/>
+<area shape="rect" id="node43" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="137,1061,188,1087"/>
+<area shape="rect" id="node45" href="$process_8c.html#a23823b283ef2815ecc5ae19e772dac24" title="Sets up the CPU for running user code in the current thread." alt="" coords="715,987,837,1012"/>
+<area shape="rect" id="node48" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="730,809,822,835"/>
+<area shape="rect" id="node49" href="$process_8c.html#a6791a2f8c763395aef1dff4c8409550b" title="Checks whether PHDR describes a valid, loadable segment in FILE and returns true if so,..." alt="" coords="100,609,226,635"/>
+<area shape="rect" id="node3" href="$file_8c.html#afe7d1da8b53f8b896fc5faf646468356" title="Re&#45;enables write operations on FILE&#39;s underlying inode." alt="" coords="552,31,663,56"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#a9f850d0608418aea291e4c0fdab93826" title="Frees block P, which must have been previously allocated with malloc(), calloc(), or realloc()." alt="" coords="754,307,798,332"/>
+<area shape="rect" id="node19" href="$inode_8c.html#a74e1a19b5bcae248617541fe6f2f77c5" title="Closes INODE and writes it to disk." alt="" coords="561,104,654,129"/>
+<area shape="rect" id="node4" href="$inode_8c.html#af980635032a3d7215e955e3aa0e1c902" title="Re&#45;enables writes to INODE." alt="" coords="712,5,840,31"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#a9c2a4cff5e437e5be52e507be30eea49" title="Returns the (IDX &#45; 1)&#39;th block within arena A." alt="" coords="894,457,1006,483"/>
+<area shape="rect" id="node7" href="$malloc_8c.html#a5db3c69e2b5fc7fb13fa1f663df2bf03" title="Returns the arena that block B is inside." alt="" coords="894,359,1006,384"/>
+<area shape="rect" id="node9" href="$lib_2kernel_2list_8c.html#a2b0911a5635312de560f8d2a744956ad" title="Inserts ELEM at the beginning of LIST, so that it becomes the front in LIST." alt="" coords="896,207,1004,232"/>
+<area shape="rect" id="node10" href="$lib_2kernel_2list_8c.html#a9574755a392b556ddb650b8672f9f4af" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="905,157,995,183"/>
+<area shape="rect" id="node11" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="902,507,998,532"/>
+<area shape="rect" id="node15" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="902,408,998,433"/>
+<area shape="rect" id="node16" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="1269,257,1338,283"/>
+<area shape="rect" id="node17" href="$palloc_8c.html#af4c2af0e0bdc81d1ea21354c4234b20e" title="Frees the PAGE_CNT pages starting at PAGES." alt="" coords="1060,308,1200,333"/>
+<area shape="rect" id="node18" href="$palloc_8c.html#ad3fe56f7c611216596e7565fb8521409" title="Frees the page at PAGE." alt="" coords="888,556,1012,581"/>
+<area shape="rect" id="node8" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="1273,359,1334,384"/>
+<area shape="rect" id="node13" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1265,885,1341,911"/>
+<area shape="rect" id="node14" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="1248,935,1359,960"/>
+<area shape="rect" id="node20" href="$inode_8c.html#af6294d594eab7d7afccf0d0cefd35a13" title="Returns the number of sectors to allocate for an inode SIZE bytes long." alt="" coords="715,55,837,80"/>
+<area shape="rect" id="node21" href="$free-map_8c.html#a65586c8713124a199b6db7397c1aba6f" title="Makes CNT sectors starting at SECTOR available for use." alt="" coords="711,104,840,129"/>
+<area shape="rect" id="node23" href="$inode_8c.html#a67214eb44fb24ef254fca76f9a63fd6d" title="Returns the length, in bytes, of INODE&#39;s data." alt="" coords="727,505,825,531"/>
+<area shape="rect" id="node25" href="$inode_8c.html#a31fcd756c686b818d56067b4460bfdb9" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="554,431,661,456"/>
+<area shape="rect" id="node26" href="$block_8c.html#a8c08b3ab03d5cdb52856bab0aafe7006" title="Reads sector SECTOR from BLOCK into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="733,407,819,432"/>
+<area shape="rect" id="node27" href="$inode_8c.html#a9b48abdaf996c82819f49d6d8fc4c224" title="Returns the block device sector that contains byte offset POS within INODE." alt="" coords="721,456,830,481"/>
+<area shape="rect" id="node28" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="746,357,806,383"/>
+<area shape="rect" id="node30" href="$string_8c.html#ac81277697db3331c21cac338b661817a" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="740,708,812,733"/>
+<area shape="rect" id="node29" href="$palloc_8c.html#aa8cccdccaa05d4023e3e65c15ed486af" title="Obtains a single free page and returns its kernel virtual address." alt="" coords="891,708,1010,733"/>
+<area shape="rect" id="node33" href="$directory_8c.html#a92d246b6a292843fdfd7e3e1d2b29701" title="Destroys DIR and frees associated resources." alt="" coords="428,153,503,179"/>
+<area shape="rect" id="node34" href="$directory_8c.html#a782062143b05a6f32d11457cfd6259f6" title="Searches DIR for a file with the given NAME and returns true if one exists, false otherwise." alt="" coords="285,355,368,380"/>
+<area shape="rect" id="node37" href="$directory_8c.html#a360de0f3a61721d83b1d6f3f435779de" title="Opens the root directory and returns a directory for it." alt="" coords="274,304,378,329"/>
+<area shape="rect" id="node38" href="$file_8c.html#ae9c6487eb7f772982a437b42483c6827" title="Opens a file for the given INODE, of which it takes ownership, and returns the new file." alt="" coords="428,203,503,228"/>
+<area shape="rect" id="node35" href="$inode_8c.html#a37507d1ac66a45c81677cbd83039af3a" title="Reads an inode from SECTOR and returns a ‘struct inode’ that contains it." alt="" coords="562,357,653,383"/>
+<area shape="rect" id="node36" href="$directory_8c.html#ab2c71a2a1a0ffa3c618792babf4fc8b9" title="Searches DIR for a file with the given NAME." alt="" coords="435,405,496,431"/>
+<area shape="rect" id="node40" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="904,860,996,885"/>
+<area shape="rect" id="node44" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="297,1061,355,1087"/>
+<area shape="rect" id="node46" href="$pagedir_8c.html#ac0a75950cc56724fef94d224df4b0cd0" title="Loads page directory PD into the CPU&#39;s page directory base register." alt="" coords="891,1063,1010,1088"/>
+<area shape="rect" id="node47" href="$tss_8c.html#a089f0d1278964a0cc36f92d47febd2d4" title="Sets the ring 0 stack pointer in the TSS to point to the end of the thread stack." alt="" coords="907,961,993,987"/>
+<area shape="rect" id="node50" href="$vaddr_8h.html#a702cb4149b88a734c4a30bdfaeeb10d0" title="Returns true if VADDR is a user virtual address." alt="" coords="274,608,379,633"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="intq_init" name="intq_init">
+<area shape="rect" id="node1" title="Initializes interrupt queue Q." alt="" coords="5,5,73,31"/>
+<area shape="rect" id="node2" href="$synch_8c.html#aa760472aa4916bba476b2165ea25b411" title="Initializes LOCK." alt="" coords="121,5,190,31"/>
+<area shape="rect" id="node3" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="238,5,317,31"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="365,5,427,31"/>
+</map>

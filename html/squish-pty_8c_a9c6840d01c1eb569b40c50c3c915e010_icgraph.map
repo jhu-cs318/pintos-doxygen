@@ -1,0 +1,5 @@
+<map id="make_noncanon" name="make_noncanon">
+<area shape="rect" id="node1" title="If FD is a terminal, configures it for noncanonical input mode with VMIN and VTIME set as indicated." alt="" coords="202,5,322,31"/>
+<area shape="rect" id="node2" href="$squish-pty_8c.html#a85b966702ccfe9626963ca230aa75c74" title="Copies data from stdin to PTY and from PTY to stdout until no more data can be read or written." alt="" coords="104,5,154,31"/>
+<area shape="rect" id="node3" href="$squish-pty_8c.html#aad96cfd5b985d826fb68b8b343e5a0c8" title=" " alt="" coords="5,5,56,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pde_get_pt" name="pde_get_pt">
+<area shape="rect" id="node1" title="Returns a pointer to the page table that page directory entry PDE, which must &quot;present&quot;,..." alt="" coords="5,5,93,31"/>
+<area shape="rect" id="node2" href="$vaddr_8h.html#a4887c2b8a39b091ef5b3eb7465bcc8f7" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="141,5,188,31"/>
+</map>

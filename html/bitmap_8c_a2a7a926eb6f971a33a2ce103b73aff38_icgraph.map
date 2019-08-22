@@ -1,0 +1,13 @@
+<map id="byte_cnt" name="byte_cnt">
+<area shape="rect" id="node1" title="Returns the number of bytes required for BIT_CNT bits." alt="" coords="780,132,851,157"/>
+<area shape="rect" id="node2" href="$bitmap_8h.html#a8192bb283d7342152e4740c3b528ff84" title="Returns the number of bytes required to accomodate a bitmap with BIT_CNT bits (for use with bitmap_cr..." alt="" coords="613,56,732,81"/>
+<area shape="rect" id="node7" href="$bitmap_8h.html#a8cf39272ab5d44e368dc21a166e3a236" title="Bitmap abstract data type." alt="" coords="438,107,543,132"/>
+<area shape="rect" id="node10" href="$bitmap_8h.html#adcc33e6064733b7e8daa74c5f6739e28" title="File input and output." alt="" coords="621,157,724,183"/>
+<area shape="rect" id="node11" href="$read-boundary_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Reads data spanning two pages in virtual address space, which must succeed." alt="" coords="633,207,712,232"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#ad812c9d34d0b57984bfd95de5926dda8" title="Creates and returns a bitmap with BIT_CNT bits in the BLOCK_SIZE bytes of storage preallocated at BLO..." alt="" coords="416,5,565,31"/>
+<area shape="rect" id="node4" href="$palloc_8c.html#ae93da2ef876a9e957a6245fa2bd68a1f" title="Initializes pool P as starting at START and ending at END, naming it NAME for debugging purposes." alt="" coords="281,56,352,81"/>
+<area shape="rect" id="node5" href="$palloc_8h.html#acc2c206763e5de4e4414fda821ca6db8" title="Initializes the page allocator." alt="" coords="136,56,216,81"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,81,87,107"/>
+<area shape="rect" id="node8" href="$free-map_8h.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="266,105,368,131"/>
+<area shape="rect" id="node9" href="$filesys_8h.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="135,105,218,131"/>
+</map>

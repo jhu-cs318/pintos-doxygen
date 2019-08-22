@@ -1,0 +1,12 @@
+<map id="src/devices/speaker.c" name="src/devices/speaker.c">
+<area shape="rect" id="node1" title=" " alt="" coords="246,5,394,31"/>
+<area shape="rect" id="node2" href="$speaker_8h.html" title=" " alt="" coords="5,79,133,104"/>
+<area shape="rect" id="node3" href="$pit_8h.html" title=" " alt="" coords="272,79,368,104"/>
+<area shape="rect" id="node5" href="$io_8h.html" title=" " alt="" coords="157,79,248,104"/>
+<area shape="rect" id="node7" href="$interrupt_8h.html" title=" " alt="" coords="391,79,521,104"/>
+<area shape="rect" id="node9" href="$timer_8h.html" title=" " alt="" coords="545,79,655,104"/>
+<area shape="rect" id="node4" href="$stdint_8h.html" title=" " alt="" coords="309,152,374,177"/>
+<area shape="rect" id="node6" href="$stddef_8h.html" title=" " alt="" coords="168,152,237,177"/>
+<area shape="rect" id="node8" href="$stdbool_8h.html" title=" " alt="" coords="418,152,494,177"/>
+<area shape="rect" id="node10" href="$round_8h.html" title=" " alt="" coords="567,152,633,177"/>
+</map>

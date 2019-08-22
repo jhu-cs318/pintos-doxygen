@@ -1,0 +1,9 @@
+<map id="gdt_init" name="gdt_init">
+<area shape="rect" id="node1" title="userprog/gdt.h" alt="" coords="5,104,70,129"/>
+<area shape="rect" id="node2" href="$gdt_8c.html#ae9a9122dd568c14bd49d9a8a91cafeac" title="GDT helpers." alt="" coords="125,5,251,31"/>
+<area shape="rect" id="node4" href="$gdt_8c.html#a14b9cb9d5d2ccfb0bae59d6935cca494" title="Returns a descriptor for a writable data segment with base at 0, a limit of 4 GB, and the given DPL." alt="" coords="127,55,249,80"/>
+<area shape="rect" id="node5" href="$gdt_8c.html#a110e80c32c1b2c808d2bf93350b11bcb" title="Returns a descriptor that yields the given LIMIT and BASE when used as an operand for the LGDT instru..." alt="" coords="118,104,258,129"/>
+<area shape="rect" id="node6" href="$gdt_8c.html#afef5fe81aa82bdb17f6ef1e20a041bbe" title="Returns a descriptor for an &quot;available&quot; 32&#45;bit Task&#45;State Segment with its base at the given linear a..." alt="" coords="131,153,245,179"/>
+<area shape="rect" id="node7" href="$tss_8c.html#a71eea700b08412dc2f1b4d5fe965069c" title="Returns the kernel TSS." alt="" coords="156,203,220,228"/>
+<area shape="rect" id="node3" href="$gdt_8c.html#a3c91913924f5aebd18e709f6120c071f" title="Returns a segment descriptor with the given 32&#45;bit BASE and 20&#45;bit LIMIT (whose interpretation depend..." alt="" coords="306,55,425,80"/>
+</map>

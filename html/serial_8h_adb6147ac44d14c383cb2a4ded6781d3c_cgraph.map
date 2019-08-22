@@ -1,0 +1,10 @@
+<map id="serial_notify" name="serial_notify">
+<area shape="rect" id="node1" title="devices/serial.h" alt="" coords="5,24,98,50"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="523,126,623,151"/>
+<area shape="rect" id="node3" href="$serial_8c.html#ac89212325aed0ffe38beb0b4bde0bf30" title="Update interrupt enable register." alt="" coords="146,75,218,100"/>
+<area shape="rect" id="node4" href="$input_8c.html#a60ec5bbf4a98fbdb4fae3124870ef055" title="Returns true if the input buffer is full, false otherwise." alt="" coords="266,176,340,202"/>
+<area shape="rect" id="node7" href="$intq_8c.html#a34e623157a6c4f53ae29eda5d65b7395" title="Returns true if Q is empty, false otherwise." alt="" coords="388,50,475,75"/>
+<area shape="rect" id="node8" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="279,75,327,100"/>
+<area shape="rect" id="node5" href="$intq_8c.html#aff4db6a96c4a1fb6898f26451a1049c2" title="Returns true if Q is full, false otherwise." alt="" coords="398,227,465,252"/>
+<area shape="rect" id="node6" href="$intq_8c.html#ac473f50d2829cba1321d34a57c425042" title="Returns the position after POS within an intq." alt="" coords="550,227,596,252"/>
+</map>

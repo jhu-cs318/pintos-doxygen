@@ -1,0 +1,9 @@
+<map id="timer_elapsed" name="timer_elapsed">
+<area shape="rect" id="node1" title="Returns the number of timer ticks elapsed since THEN, which should be a value once returned by timer_..." alt="" coords="5,29,110,55"/>
+<area shape="rect" id="node2" href="$timer_8c.html#a2b50be77101b38176d21b52cc425cf3e" title="Returns the number of timer ticks since the OS booted." alt="" coords="158,29,243,55"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="439,5,529,31"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="291,55,391,80"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="577,5,678,31"/>
+<area shape="rect" id="node6" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="440,55,528,80"/>
+<area shape="rect" id="node7" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="582,55,672,80"/>
+</map>

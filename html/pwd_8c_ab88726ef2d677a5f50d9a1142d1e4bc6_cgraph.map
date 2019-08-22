@@ -1,0 +1,13 @@
+<map id="getcwd" name="getcwd">
+<area shape="rect" id="node1" title="pwd.c" alt="" coords="5,163,69,189"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a5bbe56a416af8f77723b652362f742f7" title=" " alt="" coords="270,11,322,37"/>
+<area shape="rect" id="node3" href="$pwd_8c.html#af88ec6b85d296548f011f7411c91ec19" title="Stores the inode number for FILE_NAME in *INUM." alt="" coords="117,37,212,62"/>
+<area shape="rect" id="node4" href="$lib_2user_2syscall_8c.html#a7e7eb2098a672ca4e4bf2a95b11d1aee" title="lib/user/syscall.h" alt="" coords="261,74,331,99"/>
+<area shape="rect" id="node5" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="271,131,322,157"/>
+<area shape="rect" id="node6" href="$string_8c.html#a0af8a99685feb8d49d933589d20268fd" title="Copies SIZE bytes from SRC to DST, which are allowed to overlap." alt="" coords="123,189,206,214"/>
+<area shape="rect" id="node7" href="$pwd_8c.html#acbf799f8d71e42089e72a0261f44b5a4" title="Prepends PREFIX to the characters stored in the final *DST_LEN bytes of the DST_SIZE&#45;byte buffer that..." alt="" coords="130,238,200,263"/>
+<area shape="rect" id="node10" href="$lib_2user_2syscall_8c.html#a0aa847a91eaead434f068da636ec821f" title=" " alt="" coords="133,337,196,362"/>
+<area shape="rect" id="node11" href="$string_8c.html#a4637af6f79bac4043e1064f0837d0ddc" title="Copies string SRC to DST." alt="" coords="135,287,195,313"/>
+<area shape="rect" id="node8" href="$string_8c.html#ac81277697db3331c21cac338b661817a" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="260,287,332,313"/>
+<area shape="rect" id="node9" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="269,238,323,263"/>
+</map>

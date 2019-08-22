@@ -1,0 +1,5 @@
+<map id="check_device_type" name="check_device_type">
+<area shape="rect" id="node1" title="Checks whether device D is an ATA disk and sets D&#39;s is_ata member appropriately." alt="" coords="246,5,381,31"/>
+<area shape="rect" id="node2" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="135,5,198,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

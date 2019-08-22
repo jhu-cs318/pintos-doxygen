@@ -1,0 +1,52 @@
+<map id="putchar_have_lock" name="putchar_have_lock">
+<area shape="rect" id="node1" title="Writes C to the vga display and serial port." alt="" coords="5,839,139,865"/>
+<area shape="rect" id="node2" href="$kernel_2console_8c.html#ac9311ca129f215c0c8c07cd095a72f2f" title="Returns true if the current thread has the console lock, false otherwise." alt="" coords="474,30,658,69"/>
+<area shape="rect" id="node9" href="$serial_8c.html#a07c75f3160eed07281583bfaf8eddc1b" title="Sends BYTE to the serial port." alt="" coords="187,839,272,865"/>
+<area shape="rect" id="node35" href="$vga_8c.html#a39f191e69844ad1aca267e74223651bd" title="Writes C to the VGA text display, interpreting control characters in the conventional ways." alt="" coords="192,1749,267,1774"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1239,282,1329,307"/>
+<area shape="rect" id="node4" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="708,142,856,181"/>
+<area shape="rect" id="node5" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="906,206,1014,231"/>
+<area shape="rect" id="node6" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1081,206,1158,231"/>
+<area shape="rect" id="node7" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="1064,157,1175,182"/>
+<area shape="rect" id="node8" href="$vaddr_8h.html#a5a07aa5a4d70694db19884626f4b0fa3" title="Round down to nearest page boundary." alt="" coords="1225,157,1342,182"/>
+<area shape="rect" id="node10" href="$serial_8c.html#aa1fb82a5be4690023966ea841c88a624" title="Initializes the serial port device for polling mode." alt="" coords="533,1245,599,1270"/>
+<area shape="rect" id="node16" href="$intq_8c.html#aff4db6a96c4a1fb6898f26451a1049c2" title="Returns true if Q is full, false otherwise." alt="" coords="748,662,815,687"/>
+<area shape="rect" id="node19" href="$intq_8c.html#a45ba970f3357ff262d7fafecc50735c6" title="Removes a byte from Q and returns it." alt="" coords="336,310,411,335"/>
+<area shape="rect" id="node23" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="1075,991,1164,1017"/>
+<area shape="rect" id="node24" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="910,991,1010,1017"/>
+<area shape="rect" id="node30" href="$intq_8c.html#a6a440110d5417c12cedf1c2e86f445f8" title="Adds BYTE to the end of Q." alt="" coords="336,459,411,485"/>
+<area shape="rect" id="node31" href="$serial_8c.html#a15fd75cc421e6379650204e80853a68a" title="Polls the serial port until it&#39;s ready, and then transmits BYTE." alt="" coords="744,1622,819,1647"/>
+<area shape="rect" id="node33" href="$serial_8c.html#ac89212325aed0ffe38beb0b4bde0bf30" title="Update interrupt enable register." alt="" coords="337,814,409,839"/>
+<area shape="rect" id="node11" href="$intq_8c.html#a74912dc0f8bf3b5cfeecab5630ed3f89" title="Initializes interrupt queue Q." alt="" coords="748,1219,815,1245"/>
+<area shape="rect" id="node14" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="936,1331,983,1357"/>
+<area shape="rect" id="node15" href="$serial_8c.html#aedccb1dc6702ff87426404495a2a05ea" title="Configures the serial port for BPS bits per second." alt="" coords="743,1269,821,1294"/>
+<area shape="rect" id="node12" href="$synch_8c.html#aa760472aa4916bba476b2165ea25b411" title="Initializes LOCK." alt="" coords="925,1219,994,1245"/>
+<area shape="rect" id="node13" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="1080,1219,1159,1245"/>
+<area shape="rect" id="node17" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="1233,763,1334,789"/>
+<area shape="rect" id="node18" href="$intq_8c.html#ac473f50d2829cba1321d34a57c425042" title="Returns the position after POS within an intq." alt="" coords="936,611,983,637"/>
+<area shape="rect" id="node20" href="$intq_8c.html#a34e623157a6c4f53ae29eda5d65b7395" title="Returns true if Q is empty, false otherwise." alt="" coords="523,510,609,535"/>
+<area shape="rect" id="node21" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="518,158,614,183"/>
+<area shape="rect" id="node26" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="518,310,614,335"/>
+<area shape="rect" id="node28" href="$intq_8c.html#addd2664c1fa7444e1467b99e41e7192b" title=" " alt="" coords="538,359,594,385"/>
+<area shape="rect" id="node29" href="$intq_8c.html#a1690435c2169d69bc5a17af78d67eb5f" title=" " alt="" coords="544,409,589,434"/>
+<area shape="rect" id="node22" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="735,307,828,333"/>
+<area shape="rect" id="node25" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="1076,611,1163,637"/>
+<area shape="rect" id="node27" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="744,865,820,890"/>
+<area shape="rect" id="node32" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Reads and returns a byte from PORT." alt="" coords="940,1547,979,1573"/>
+<area shape="rect" id="node34" href="$input_8c.html#a60ec5bbf4a98fbdb4fae3124870ef055" title="Returns true if the input buffer is full, false otherwise." alt="" coords="529,763,603,789"/>
+<area shape="rect" id="node36" href="$vga_8c.html#a45d8235ab0187a7c0391d0c749317856" title="Clears the screen and moves the cursor to the upper left." alt="" coords="354,1922,393,1947"/>
+<area shape="rect" id="node38" href="$vga_8c.html#ac16dc5267953b78624e2ed568776a04b" title="Moves the hardware cursor to (cx,cy)." alt="" coords="517,1973,615,1998"/>
+<area shape="rect" id="node40" href="$vga_8c.html#a17fb021b480a1f220d2579807fa2e398" title="Initializes the VGA text display." alt="" coords="547,1723,585,1749"/>
+<area shape="rect" id="node43" href="$vga_8c.html#abc92c781510c5f99670802f3c65ebb01" title="Advances the cursor to the first column in the next line on the screen." alt="" coords="340,1873,407,1898"/>
+<area shape="rect" id="node45" href="$speaker_8c.html#a1326dce269503d1ba9fac4e40cdf453e" title="Briefly beep the PC speaker." alt="" coords="320,1723,426,1749"/>
+<area shape="rect" id="node37" href="$vga_8c.html#a45e9968eec2281219a9fdb355c77930e" title="Clears row Y to spaces." alt="" coords="527,1923,606,1949"/>
+<area shape="rect" id="node39" href="$io_8h.html#a1b48739bd493432acaca70a8d4e103cb" title="Writes the 16&#45;bit DATA to PORT." alt="" coords="757,1973,807,1998"/>
+<area shape="rect" id="node41" href="$vga_8c.html#a9b860c306805e85629292c4ab39f0b14" title="Reads the current hardware cursor position into (*X,*Y)." alt="" coords="738,1573,825,1598"/>
+<area shape="rect" id="node42" href="$vaddr_8h.html#a4887c2b8a39b091ef5b3eb7465bcc8f7" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="759,1723,805,1749"/>
+<area shape="rect" id="node44" href="$string_8c.html#a0af8a99685feb8d49d933589d20268fd" title="Copies SIZE bytes from SRC to DST, which are allowed to overlap." alt="" coords="524,1874,608,1899"/>
+<area shape="rect" id="node46" href="$speaker_8c.html#a073f7570ba87d9cbf510616817c60b41" title="Turn off the PC speaker, by disconnecting the timer channel&#39;s output from the speaker." alt="" coords="736,1421,827,1446"/>
+<area shape="rect" id="node47" href="$speaker_8c.html#a7ae6bbf92a40862ee9523cd43e69f925" title="Sets the PC speaker to emit a tone at the given FREQUENCY, in Hz." alt="" coords="521,1333,612,1358"/>
+<area shape="rect" id="node49" href="$timer_8c.html#a10cbeaa00e0ceb825ddd7a44724881c6" title="Sleeps for approximately MS milliseconds." alt="" coords="515,1773,617,1798"/>
+<area shape="rect" id="node48" href="$pit_8c.html#a7dd39bb359cbd638f9134488ab47db4c" title="Configure the given CHANNEL in the PIT." alt="" coords="706,1118,858,1143"/>
+<area shape="rect" id="node50" href="$timer_8c.html#a9bd10eb80561359273e022f4c80b483f" title="Sleep for approximately NUM/DENOM seconds." alt="" coords="1062,1774,1177,1799"/>
+</map>

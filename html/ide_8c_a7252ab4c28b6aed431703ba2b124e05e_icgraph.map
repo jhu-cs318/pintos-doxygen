@@ -1,0 +1,12 @@
+<map id="select_device" name="select_device">
+<area shape="rect" id="node1" title="Program D&#39;s channel so that D is now the selected disk." alt="" coords="622,56,724,81"/>
+<area shape="rect" id="node2" href="$ide_8c.html#afb1b543e585d7b5757bf9406b8705349" title="Checks whether device D is an ATA disk and sets D&#39;s is_ata member appropriately." alt="" coords="258,5,393,31"/>
+<area shape="rect" id="node5" href="$ide_8c.html#a03eb0d9954faefcc1634f76a286f78f5" title="Resets an ATA channel and waits for any devices present on it to finish the reset." alt="" coords="455,56,560,81"/>
+<area shape="rect" id="node6" href="$ide_8c.html#a5d8393ec752f120abb30d97b14a69600" title="Select disk D in its channel, as select_device(), but wait for the channel to become idle before and ..." alt="" coords="441,107,574,132"/>
+<area shape="rect" id="node3" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="140,56,204,81"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,56,87,81"/>
+<area shape="rect" id="node7" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="257,107,393,132"/>
+<area shape="rect" id="node8" href="$ide_8c.html#ad7c31783f9f455b20c35d43f46ee03d8" title="Selects device D, waiting for it to become ready, and then writes SEC_NO to the disk&#39;s sector selecti..." alt="" coords="275,156,375,181"/>
+<area shape="rect" id="node9" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="135,131,209,156"/>
+<area shape="rect" id="node10" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="135,180,209,205"/>
+</map>

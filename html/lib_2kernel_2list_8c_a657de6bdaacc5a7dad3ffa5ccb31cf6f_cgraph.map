@@ -1,0 +1,6 @@
+<map id="list_splice" name="list_splice">
+<area shape="rect" id="node1" title="Removes elements FIRST though LAST (exclusive) from their current list, then inserts them just before..." alt="" coords="5,29,84,55"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="251,5,331,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="263,55,319,80"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a85f6e9def62332c1073959a9e7e6b4de" title="Returns the element before ELEM in its list." alt="" coords="132,29,203,55"/>
+</map>

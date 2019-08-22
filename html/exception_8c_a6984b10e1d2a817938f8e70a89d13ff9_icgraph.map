@@ -1,0 +1,6 @@
+<map id="kill" name="kill">
+<area shape="rect" id="node1" title="Handler for an exception (probably) caused by a user process." alt="" coords="417,5,456,31"/>
+<area shape="rect" id="node2" href="$exception_8h.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="135,5,238,31"/>
+<area shape="rect" id="node4" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="286,31,369,56"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

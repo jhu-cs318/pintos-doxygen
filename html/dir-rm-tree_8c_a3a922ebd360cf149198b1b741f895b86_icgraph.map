@@ -1,0 +1,5 @@
+<map id="do_remove" name="do_remove">
+<area shape="rect" id="node1" title=" " alt="" coords="277,5,365,31"/>
+<area shape="rect" id="node2" href="$dir-rm-tree_8c.html#a943528adc527073e98cbfcd35e58055b" title="Creates directories /0/0/0 through /3/2/2 and files in the leaf directories, then removes them." alt="" coords="132,5,229,31"/>
+<area shape="rect" id="node3" href="$dir-rm-tree_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="5,5,84,31"/>
+</map>

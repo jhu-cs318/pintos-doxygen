@@ -1,0 +1,5 @@
+<map id="timer_mdelay" name="timer_mdelay">
+<area shape="rect" id="node1" title="Busy waits." alt="" coords="5,5,107,31"/>
+<area shape="rect" id="node2" href="$timer_8c.html#a28553fa387ff127de26e330dfcfe9fa1" title="Busy&#45;wait for approximately NUM/DENOM seconds." alt="" coords="155,5,270,31"/>
+<area shape="rect" id="node3" href="$timer_8c.html#a804190f8e66f39ac2ddb5891de3eec73" title="Iterates through a simple loop LOOPS times, for implementing brief delays." alt="" coords="318,5,399,31"/>
+</map>

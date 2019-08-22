@@ -1,0 +1,7 @@
+<map id="rtc_get_time" name="rtc_get_time">
+<area shape="rect" id="node1" title="Returns number of seconds since Unix epoch of January 1,." alt="" coords="5,31,100,56"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a0402d35c61c087608d0820ac11490840" title="Returns the integer value of the given BCD byte." alt="" coords="148,5,235,31"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a18994f2e4fbaf81c8457ec32f872092e" title="Reads a byte from the CMOS register with the given INDEX and returns the byte read." alt="" coords="148,55,235,80"/>
+<area shape="rect" id="node4" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Reads and returns a byte from PORT." alt="" coords="287,29,327,55"/>
+<area shape="rect" id="node5" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="283,79,331,104"/>
+</map>

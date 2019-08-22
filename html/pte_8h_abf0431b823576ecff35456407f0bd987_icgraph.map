@@ -1,0 +1,15 @@
+<map id="pte_create_kernel" name="pte_create_kernel">
+<area shape="rect" id="node1" title="Returns a PTE that points to PAGE." alt="" coords="1443,31,1571,56"/>
+<area shape="rect" id="node2" href="$init_8c.html#a83a23df197d45e3798aaa46d01d06af7" title="Populates the base page directory and page table with the kernel virtual mapping, and then sets up th..." alt="" coords="1122,5,1208,31"/>
+<area shape="rect" id="node4" href="$pte_8h.html#a0783b95ac9d016f2faf796a22751cc9c" title="Returns a PTE that points to PAGE." alt="" coords="1277,56,1395,81"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,31,87,56"/>
+<area shape="rect" id="node5" href="$pagedir_8h.html#ae1bd98eecbce4fae60769e3024611f8f" title="Adds a mapping in page directory PD from user virtual page UPAGE to the physical frame identified by ..." alt="" coords="1101,56,1229,81"/>
+<area shape="rect" id="node6" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="961,56,1053,81"/>
+<area shape="rect" id="node7" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="807,56,913,81"/>
+<area shape="rect" id="node13" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="814,105,906,131"/>
+<area shape="rect" id="node8" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="713,56,759,81"/>
+<area shape="rect" id="node9" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="564,56,665,81"/>
+<area shape="rect" id="node10" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="393,56,516,81"/>
+<area shape="rect" id="node11" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="273,56,345,81"/>
+<area shape="rect" id="node12" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,56,225,81"/>
+</map>

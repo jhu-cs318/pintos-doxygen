@@ -1,0 +1,4 @@
+<map id="thread_tick" name="thread_tick">
+<area shape="rect" id="node1" title="Called by the timer interrupt handler at each timer tick." alt="" coords="161,5,247,31"/>
+<area shape="rect" id="node2" href="$timer_8c.html#abcfdd7470d8ed5b76f25a2eefdb90fa8" title="Timer interrupt handler." alt="" coords="5,5,113,31"/>
+</map>

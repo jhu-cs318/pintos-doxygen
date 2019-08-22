@@ -1,0 +1,7 @@
+<map id="src/devices/shutdown.h" name="src/devices/shutdown.h">
+<area shape="rect" id="node1" title=" " alt="" coords="241,5,400,31"/>
+<area shape="rect" id="node2" href="$kbd_8c.html" title=" " alt="" coords="5,79,129,104"/>
+<area shape="rect" id="node3" href="$shutdown_8c.html" title=" " alt="" coords="153,79,312,104"/>
+<area shape="rect" id="node4" href="$kernel_2debug_8c.html" title=" " alt="" coords="336,79,483,104"/>
+<area shape="rect" id="node5" href="$init_8c.html" title=" " alt="" coords="508,79,626,104"/>
+</map>

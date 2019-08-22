@@ -1,0 +1,6 @@
+<map id="filesys_remove" name="filesys_remove">
+<area shape="rect" id="node1" title="filesys/filesys.h" alt="" coords="393,5,503,31"/>
+<area shape="rect" id="node2" href="$fsutil_8h.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="273,5,345,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,5,225,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

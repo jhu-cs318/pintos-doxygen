@@ -1,0 +1,9 @@
+<map id="console_locked_by_current_thread" name="console_locked_by_current_thread">
+<area shape="rect" id="node1" title="Returns true if the current thread has the console lock, false otherwise." alt="" coords="5,27,189,65"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="266,5,356,31"/>
+<area shape="rect" id="node3" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="237,55,385,93"/>
+<area shape="rect" id="node4" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="433,61,541,87"/>
+<area shape="rect" id="node5" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="607,36,683,61"/>
+<area shape="rect" id="node6" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="589,85,700,111"/>
+<area shape="rect" id="node7" href="$vaddr_8h.html#a5a07aa5a4d70694db19884626f4b0fa3" title="Round down to nearest page boundary." alt="" coords="748,85,865,111"/>
+</map>

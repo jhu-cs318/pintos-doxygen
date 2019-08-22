@@ -1,0 +1,4 @@
+<map id="check_sector" name="check_sector">
+<area shape="rect" id="node1" title="Verifies that SECTOR is a valid offset within BLOCK." alt="" coords="5,5,105,31"/>
+<area shape="rect" id="node2" href="$block_8c.html#a805c68661c9837f08b82b27fb82b9f94" title="Returns BLOCK&#39;s name (e.g." alt="" coords="153,5,246,31"/>
+</map>

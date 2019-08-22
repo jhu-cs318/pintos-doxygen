@@ -1,0 +1,4 @@
+<map id="block_thread" name="block_thread">
+<area shape="rect" id="node1" title="Checks that recent_cpu and priorities are updated for blocked threads." alt="" coords="174,5,272,31"/>
+<area shape="rect" id="node2" href="$mlfqs-block_8c.html#a167c6f1bad03f552911dfd10bc4c8f41" title=" " alt="" coords="5,5,126,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="bitmap_set_all" name="bitmap_set_all">
+<area shape="rect" id="node1" title="Setting and testing multiple bits." alt="" coords="5,56,113,81"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#a7b2eaaf4ee3c0f7794b4e5293f3b9760" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="161,31,301,56"/>
+<area shape="rect" id="node8" href="$bitmap_8c.html#a576f7d29f091eac024f70ae8d68997a9" title="Bitmap size." alt="" coords="184,80,277,105"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#a766a7941acc1371fb82ed4f70a1ecf37" title="Setting and testing single bits." alt="" coords="349,31,435,56"/>
+<area shape="rect" id="node4" href="$bitmap_8c.html#adb8912537854d4a2dcb1f35940a7134b" title="Atomically sets the bit numbered BIT_IDX in B to true." alt="" coords="483,5,582,31"/>
+<area shape="rect" id="node7" href="$bitmap_8c.html#a5bb6be898ca442c95e725be80c2369a6" title="Atomically sets the bit numbered BIT_IDX in B to false." alt="" coords="483,55,582,80"/>
+<area shape="rect" id="node5" href="$bitmap_8c.html#acc12f810fdb7b50a620c3852c3656d63" title="Returns an elem_type where only the bit corresponding to BIT_IDX is turned on." alt="" coords="630,5,704,31"/>
+<area shape="rect" id="node6" href="$bitmap_8c.html#abb94f95006e0ec6ff6b5c88262f28d74" title="Returns the index of the element that contains the bit numbered BIT_IDX." alt="" coords="630,55,704,80"/>
+</map>

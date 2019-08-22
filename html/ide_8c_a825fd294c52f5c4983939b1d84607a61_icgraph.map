@@ -1,0 +1,4 @@
+<map id="output_sector" name="output_sector">
+<area shape="rect" id="node1" title="Writes SECTOR to channel C&#39;s data register in PIO mode." alt="" coords="128,5,230,31"/>
+<area shape="rect" id="node2" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="5,5,80,31"/>
+</map>

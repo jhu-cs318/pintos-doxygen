@@ -1,0 +1,4 @@
+<map id="cond_init" name="cond_init">
+<area shape="rect" id="node1" title="Initializes condition variable COND." alt="" coords="5,5,80,31"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="128,5,190,31"/>
+</map>

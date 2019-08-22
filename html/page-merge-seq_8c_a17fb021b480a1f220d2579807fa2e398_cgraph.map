@@ -1,0 +1,7 @@
+<map id="init" name="init">
+<area shape="rect" id="node1" title="Initialize buf1 with random data, then count the number of instances of each value within it." alt="" coords="5,55,44,80"/>
+<area shape="rect" id="node2" href="$arc4_8c.html#aa011f20a5ca1a0801254678018a5f5b6" title="tests/arc4.h" alt="" coords="92,5,176,31"/>
+<area shape="rect" id="node4" href="$arc4_8c.html#a139c7d825f6d83f041e4068bf107fbfa" title=" " alt="" coords="98,55,170,80"/>
+<area shape="rect" id="node5" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="111,104,157,129"/>
+<area shape="rect" id="node3" href="$arc4_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swap bytes." alt="" coords="224,31,309,56"/>
+</map>

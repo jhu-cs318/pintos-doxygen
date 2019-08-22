@@ -1,0 +1,4 @@
+<map id="intr_disable" name="intr_disable">
+<area shape="rect" id="node1" title="Disables interrupts and returns the previous interrupt status." alt="" coords="5,5,95,31"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="143,5,244,31"/>
+</map>

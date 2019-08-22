@@ -1,0 +1,5 @@
+<map id="consume_some_resources" name="consume_some_resources">
+<area shape="rect" id="node1" title="Open a number of files (and fail to close them)." alt="" coords="333,41,514,67"/>
+<area shape="rect" id="node2" href="$multi-oom_8c.html#afef5a7de663f5a18f2b09075f4b7f107" title="Consume some resources, then terminate this process in some abnormal way." alt="" coords="104,5,285,44"/>
+<area shape="rect" id="node3" href="$multi-oom_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="The first copy is invoked without command line arguments." alt="" coords="5,41,56,67"/>
+</map>

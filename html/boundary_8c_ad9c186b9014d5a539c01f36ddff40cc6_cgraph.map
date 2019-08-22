@@ -1,0 +1,7 @@
+<map id="copy_string_across_boundary" name="copy_string_across_boundary">
+<area shape="rect" id="node1" title="Returns a copy of SRC split across the boundary between two pages." alt="" coords="5,48,142,87"/>
+<area shape="rect" id="node2" href="$boundary_8c.html#a11183b89c466a6641f69f1ab3b444105" title="Returns the beginning of a page." alt="" coords="190,5,327,31"/>
+<area shape="rect" id="node3" href="$string_8c.html#a4637af6f79bac4043e1064f0837d0ddc" title="Copies string SRC to DST." alt="" coords="228,55,288,80"/>
+<area shape="rect" id="node5" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="383,104,437,129"/>
+<area shape="rect" id="node4" href="$string_8c.html#ac81277697db3331c21cac338b661817a" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="375,55,446,80"/>
+</map>

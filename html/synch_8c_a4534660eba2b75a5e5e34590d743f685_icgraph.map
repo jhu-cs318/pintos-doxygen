@@ -1,0 +1,5 @@
+<map id="cond_signal" name="cond_signal">
+<area shape="rect" id="node1" title="If any threads are waiting on COND (protected by LOCK), then this function signals one of them to wak..." alt="" coords="198,31,291,56"/>
+<area shape="rect" id="node2" href="$synch_8h.html#ac57d5a18fec898d7b999310198b25032" title="Wakes up all threads, if any, waiting on COND (protected by LOCK)." alt="" coords="20,5,136,31"/>
+<area shape="rect" id="node3" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="5,55,150,80"/>
+</map>

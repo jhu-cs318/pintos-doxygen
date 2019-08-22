@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,56,156"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#a30670a60464f77af17dfb353353d6df8" title="Converts a string representation of a signed decimal integer in S into an ‘int’, which is returned." alt="" coords="115,7,158,32"/>
+<area shape="rect" id="node5" href="$lib_2user_2syscall_8c.html#a988616aeb494987bc645f602f820f3fc" title=" " alt="" coords="111,56,161,82"/>
+<area shape="rect" id="node6" href="$lib_8c.html#a7380daad7085b08d0e037abc3136dccd" title=" " alt="" coords="117,106,155,131"/>
+<area shape="rect" id="node7" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="113,155,159,180"/>
+<area shape="rect" id="node8" href="$lib_2stdio_8c.html#a913035b9a30cd1b34c5e587dfbf26f92" title="Like printf(), except that output is stored into BUFFER, which must have space for BUF_SIZE character..." alt="" coords="104,204,169,230"/>
+<area shape="rect" id="node18" href="$intq_8c.html#a1690435c2169d69bc5a17af78d67eb5f" title=" " alt="" coords="114,254,159,279"/>
+<area shape="rect" id="node3" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="691,95,747,120"/>
+<area shape="rect" id="node4" href="$ctype_8h.html#a9318513eb3136e55002d65bf602f74a7" title=" " alt="" coords="219,58,286,83"/>
+<area shape="rect" id="node9" href="$lib_2stdio_8c.html#a1286c6b071007938f54e9b859109f89d" title="Like vprintf(), except that output is stored into BUFFER, which must have space for BUF_SIZE characte..." alt="" coords="217,204,288,230"/>
+<area shape="rect" id="node10" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="358,156,431,182"/>
+<area shape="rect" id="node17" href="$lib_2stdio_8c.html#acdff2b19969329b7777564346ac98c5d" title="Helper function for vsnprintf()." alt="" coords="336,206,453,231"/>
+<area shape="rect" id="node11" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="531,58,597,83"/>
+<area shape="rect" id="node12" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="510,156,617,182"/>
+<area shape="rect" id="node14" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="514,206,613,231"/>
+<area shape="rect" id="node15" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="501,107,627,132"/>
+<area shape="rect" id="node16" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="533,255,595,280"/>
+<area shape="rect" id="node13" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="675,168,763,194"/>
+</map>

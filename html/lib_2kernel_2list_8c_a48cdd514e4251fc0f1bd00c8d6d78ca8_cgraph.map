@@ -1,0 +1,9 @@
+<map id="list_pop_back" name="list_pop_back">
+<area shape="rect" id="node1" title="Removes the back element from LIST and returns it." alt="" coords="5,55,108,80"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#aae2d5b59013d13a7eaafe2a329d62a01" title="Returns the back element in LIST." alt="" coords="164,29,238,55"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#a9574755a392b556ddb650b8672f9f4af" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="156,79,246,104"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="294,29,375,55"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="423,5,501,31"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="428,55,496,80"/>
+<area shape="rect" id="node7" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="295,79,374,104"/>
+</map>

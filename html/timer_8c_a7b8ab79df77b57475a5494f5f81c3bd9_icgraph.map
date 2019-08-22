@@ -1,0 +1,4 @@
+<map id="timer_init" name="timer_init">
+<area shape="rect" id="node1" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="135,5,210,31"/>
+<area shape="rect" id="node2" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

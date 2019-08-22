@@ -1,0 +1,8 @@
+<map id="add_char" name="add_char">
+<area shape="rect" id="node1" title="Adds C to the buffer in AUX, flushing it if the buffer fills up." alt="" coords="436,56,513,81"/>
+<area shape="rect" id="node2" href="$user_2console_8c.html#a2b26fd6b1bafd97fd9124b367d13b0eb" title="Formats the printf() format specification FORMAT with arguments given in ARGS and writes the output t..." alt="" coords="323,56,388,81"/>
+<area shape="rect" id="node3" href="$user_2console_8c.html#a828ed4e0b6136b8f46203ba574b24b79" title="Like printf(), but writes output to the given HANDLE." alt="" coords="217,31,275,56"/>
+<area shape="rect" id="node6" href="$user_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="217,80,275,105"/>
+<area shape="rect" id="node4" href="$insult_8c.html#a6a4e1d1b146e74290b5991c19c12543e" title=" " alt="" coords="104,5,169,31"/>
+<area shape="rect" id="node5" href="$insult_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,31,56,56"/>
+</map>

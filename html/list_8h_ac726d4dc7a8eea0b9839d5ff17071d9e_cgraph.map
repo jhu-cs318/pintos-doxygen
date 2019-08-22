@@ -1,0 +1,8 @@
+<map id="list_min" name="list_min">
+<area shape="rect" id="node1" title="lib/kernel/list.h" alt="" coords="5,55,72,80"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="120,5,198,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="125,55,192,80"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#afb3307f0f8fb717f84cf74110d59196a" title="Returns the element after ELEM in its list." alt="" coords="124,104,194,129"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="251,79,319,104"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="246,128,325,153"/>
+</map>

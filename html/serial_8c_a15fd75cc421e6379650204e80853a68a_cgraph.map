@@ -1,0 +1,6 @@
+<map id="putc_poll" name="putc_poll">
+<area shape="rect" id="node1" title="Polls the serial port until it&#39;s ready, and then transmits BYTE." alt="" coords="5,55,80,80"/>
+<area shape="rect" id="node2" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Reads and returns a byte from PORT." alt="" coords="159,5,198,31"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="128,55,229,80"/>
+<area shape="rect" id="node4" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="155,104,202,129"/>
+</map>

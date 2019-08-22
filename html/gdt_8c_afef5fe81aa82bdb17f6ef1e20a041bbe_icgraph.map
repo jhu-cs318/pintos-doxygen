@@ -1,0 +1,5 @@
+<map id="make_tss_desc" name="make_tss_desc">
+<area shape="rect" id="node1" title="Returns a descriptor for an &quot;available&quot; 32&#45;bit Task&#45;State Segment with its base at the given linear a..." alt="" coords="247,5,361,31"/>
+<area shape="rect" id="node2" href="$gdt_8h.html#ad2acd7bce259a1a32213503c6fa18f14" title="userprog/gdt.h" alt="" coords="135,5,199,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

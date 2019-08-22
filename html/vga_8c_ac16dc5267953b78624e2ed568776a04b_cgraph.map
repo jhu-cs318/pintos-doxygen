@@ -1,0 +1,4 @@
+<map id="move_cursor" name="move_cursor">
+<area shape="rect" id="node1" title="Moves the hardware cursor to (cx,cy)." alt="" coords="5,5,104,31"/>
+<area shape="rect" id="node2" href="$io_8h.html#a1b48739bd493432acaca70a8d4e103cb" title="Writes the 16&#45;bit DATA to PORT." alt="" coords="152,5,201,31"/>
+</map>

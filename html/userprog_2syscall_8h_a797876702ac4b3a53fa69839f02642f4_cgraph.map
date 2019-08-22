@@ -1,0 +1,9 @@
+<map id="syscall_init" name="syscall_init">
+<area shape="rect" id="node1" title="userprog/syscall.h" alt="" coords="5,56,91,81"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a30707611d4360096acf72b3215bdea62" title="Registers internal interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="139,31,252,56"/>
+<area shape="rect" id="node7" href="$userprog_2syscall_8c.html#a0677570f8106abb0eea0902bda5b6a41" title=" " alt="" coords="139,80,252,105"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a7e7d2edfe1ec7f51b54704080de2f4ca" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="300,31,418,56"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#a75ac431d18ce7aff146bef22379c1dcd" title="Interrupt Descriptor Table helpers." alt="" coords="468,5,582,31"/>
+<area shape="rect" id="node6" href="$interrupt_8c.html#a79e99b0236c49a7a12d52a2ec74fefa5" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="466,55,584,80"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="632,31,719,56"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bsearch" name="bsearch">
+<area shape="rect" id="node1" title="Searches ARRAY, which contains CNT elements of SIZE bytes each, for the given KEY." alt="" coords="161,5,230,31"/>
+<area shape="rect" id="node2" href="$tests_2internal_2stdlib_8c.html#a7db76728639770e54b0326c534f6d5f5" title="Checks that bsearch() works properly in ARRAY." alt="" coords="5,5,113,31"/>
+</map>

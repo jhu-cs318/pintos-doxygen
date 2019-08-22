@@ -1,0 +1,14 @@
+<map id="list_sort" name="list_sort">
+<area shape="rect" id="node1" title="Sorts LIST according to LESS given auxiliary data AUX, using a natural iterative merge sort that runs..." alt="" coords="5,145,73,171"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a02650c2fd9cd239e23b6831250e610f0" title="Finds a run, starting at A and ending not after B, of list elements that are in nondecreasing order a..." alt="" coords="277,5,395,31"/>
+<area shape="rect" id="node8" href="$lib_2kernel_2list_8c.html#a2c73fdf1a7f56f92b8abb61cd93a37f2" title="Merges A0 through A1B0 (exclusive) with A1B0 through B1 (exclusive) to form a combined range also end..." alt="" coords="121,145,229,171"/>
+<area shape="rect" id="node9" href="$lib_2kernel_2list_8c.html#a419971d863c1973e42834e24c6af70c6" title="Our doubly linked lists have two header elements: the &quot;head&quot; just before the first element and the &quot;t..." alt="" coords="299,107,374,132"/>
+<area shape="rect" id="node11" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="136,195,214,220"/>
+<area shape="rect" id="node12" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="141,244,209,269"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#afb3307f0f8fb717f84cf74110d59196a" title="Returns the element after ELEM in its list." alt="" coords="443,57,514,83"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#a85f6e9def62332c1073959a9e7e6b4de" title="Returns the element before ELEM in its list." alt="" coords="443,107,514,132"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="568,57,636,83"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="562,107,641,132"/>
+<area shape="rect" id="node7" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="574,181,629,207"/>
+<area shape="rect" id="node10" href="$lib_2kernel_2list_8c.html#a657de6bdaacc5a7dad3ffa5ccb31cf6f" title="Removes elements FIRST though LAST (exclusive) from their current list, then inserts them just before..." alt="" coords="297,208,376,233"/>
+</map>

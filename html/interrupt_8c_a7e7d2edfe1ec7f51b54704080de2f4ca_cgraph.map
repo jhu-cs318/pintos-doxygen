@@ -1,0 +1,6 @@
+<map id="register_handler" name="register_handler">
+<area shape="rect" id="node1" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="5,31,123,56"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a75ac431d18ce7aff146bef22379c1dcd" title="Interrupt Descriptor Table helpers." alt="" coords="173,5,286,31"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#a79e99b0236c49a7a12d52a2ec74fefa5" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="171,55,289,80"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="337,31,424,56"/>
+</map>

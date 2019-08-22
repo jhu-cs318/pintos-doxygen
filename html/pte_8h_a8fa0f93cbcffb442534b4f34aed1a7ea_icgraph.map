@@ -1,0 +1,52 @@
+<map id="pde_get_pt" name="pde_get_pt">
+<area shape="rect" id="node1" title="Returns a pointer to the page table that page directory entry PDE, which must &quot;present&quot;,..." alt="" coords="1394,795,1482,820"/>
+<area shape="rect" id="node2" href="$pagedir_8c.html#ae3b869fae614fc12be572c9e9a779565" title="Returns the address of the page table entry for virtual address VADDR in page directory PD." alt="" coords="1239,720,1336,745"/>
+<area shape="rect" id="node17" href="$pagedir_8h.html#ab1919f57e1ba60ed2c2f46b4410e9799" title="Destroys page directory PD, freeing all the pages it references." alt="" coords="1229,819,1346,844"/>
+<area shape="rect" id="node3" href="$pagedir_8h.html#a6379f06b2c8e0923c86e5948ff1da7a9" title="Marks user virtual page UPAGE &quot;not present&quot; in page directory PD." alt="" coords="1034,547,1173,572"/>
+<area shape="rect" id="node4" href="$pagedir_8h.html#aee35cf08e74ca7007a06b197011e49f5" title="Looks up the physical address that corresponds to user virtual address UADDR in PD." alt="" coords="1039,596,1168,621"/>
+<area shape="rect" id="node12" href="$pagedir_8h.html#a4cc8866c21a1de96333e050775dd859c" title="Returns true if the PTE for virtual page VPAGE in PD has been accessed recently, that is,..." alt="" coords="1030,645,1177,671"/>
+<area shape="rect" id="node13" href="$pagedir_8h.html#a7e35f0193c9074dd04881e5be0f03acd" title="Returns true if the PTE for virtual page VPAGE in PD is dirty, that is, if the page has been modified..." alt="" coords="1046,695,1161,720"/>
+<area shape="rect" id="node14" href="$pagedir_8h.html#a2ea91a12c3f35b851d7a01154751d3ff" title="Sets the accessed bit to ACCESSED in the PTE for virtual page VPAGE in PD." alt="" coords="1026,744,1181,769"/>
+<area shape="rect" id="node15" href="$pagedir_8h.html#a3d92b33d1a413b03f14a7bfcaaead200" title="Set the dirty bit to DIRTY in the PTE for virtual page VPAGE in PD." alt="" coords="1042,793,1165,819"/>
+<area shape="rect" id="node16" href="$pagedir_8h.html#ae1bd98eecbce4fae60769e3024611f8f" title="Adds a mapping in page directory PD from user virtual page UPAGE to the physical frame identified by ..." alt="" coords="1039,843,1168,868"/>
+<area shape="rect" id="node5" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="884,596,976,621"/>
+<area shape="rect" id="node6" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="729,547,834,572"/>
+<area shape="rect" id="node11" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="735,596,828,621"/>
+<area shape="rect" id="node7" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="601,547,648,572"/>
+<area shape="rect" id="node8" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="417,532,519,557"/>
+<area shape="rect" id="node9" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="218,5,340,31"/>
+<area shape="rect" id="node10" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="37,5,110,31"/>
+<area shape="rect" id="node18" href="$process_8h.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="882,1015,978,1040"/>
+<area shape="rect" id="node19" href="$thread_8h.html#af6872a0cbd6ec029f08cfe10bce5834e" title="Deschedules the current thread and destroys it." alt="" coords="738,1069,825,1095"/>
+<area shape="rect" id="node20" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="573,936,676,961"/>
+<area shape="rect" id="node46" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="33,1096,114,1121"/>
+<area shape="rect" id="node47" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="605,1147,644,1172"/>
+<area shape="rect" id="node50" href="$userprog_2syscall_8c.html#a433a22b69ff6c6b56fe2bd9214c2ecc9" title=" " alt="" coords="568,1196,681,1221"/>
+<area shape="rect" id="node21" href="$thread_8h.html#abe39692126640752981104658c67ecdc" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="416,581,520,607"/>
+<area shape="rect" id="node22" href="$synch_8h.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="223,55,334,80"/>
+<area shape="rect" id="node23" href="$alarm-priority_8c.html#a53b172b430d8daeaf8067f086d620415" title=" " alt="" coords="213,104,344,129"/>
+<area shape="rect" id="node24" href="$mlfqs-block_8c.html#a167c6f1bad03f552911dfd10bc4c8f41" title=" " alt="" coords="218,153,339,179"/>
+<area shape="rect" id="node25" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="225,203,333,228"/>
+<area shape="rect" id="node30" href="$mlfqs-load-60_8c.html#a6f61ecba11d019e745c87eba5e4a74a3" title=" " alt="" coords="210,252,347,277"/>
+<area shape="rect" id="node31" href="$mlfqs-load-avg_8c.html#abf1ef79ad820ac65df92b26c8f1a351d" title=" " alt="" coords="207,301,351,327"/>
+<area shape="rect" id="node32" href="$priority-change_8c.html#a9743971189eef2f10beeb3b7358f7a59" title=" " alt="" coords="208,351,349,376"/>
+<area shape="rect" id="node33" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="206,400,351,425"/>
+<area shape="rect" id="node34" href="$priority-donate-chain_8c.html#af1fd53d71b908bf20677eb175aad8bdf" title=" " alt="" coords="210,449,348,488"/>
+<area shape="rect" id="node35" href="$priority-donate-lower_8c.html#ab24220b5ecad35ef2cf9e2b05078af50" title=" " alt="" coords="210,512,348,551"/>
+<area shape="rect" id="node36" href="$priority-donate-multiple_8c.html#a2412faccbfee40a597671658f0baf8ee" title=" " alt="" coords="210,575,348,613"/>
+<area shape="rect" id="node37" href="$priority-donate-multiple2_8c.html#af31ed8792a942a8853e5a862a084cd21" title=" " alt="" coords="210,637,348,676"/>
+<area shape="rect" id="node38" href="$priority-donate-nest_8c.html#aaca7cce483622d0cc70f6ac334a2aed6" title=" " alt="" coords="193,700,364,725"/>
+<area shape="rect" id="node39" href="$priority-donate-one_8c.html#a1c49f5f073f516c9f958be6ea9b89179" title=" " alt="" coords="195,749,363,775"/>
+<area shape="rect" id="node40" href="$priority-donate-sema_8c.html#a7a1a80cc4988dcc442c2dd018e5eb6c8" title=" " alt="" coords="190,799,368,824"/>
+<area shape="rect" id="node41" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="221,848,337,873"/>
+<area shape="rect" id="node42" href="$priority-preempt_8c.html#a503ca590b8aa82846006a684b91d32f2" title=" " alt="" coords="205,897,352,923"/>
+<area shape="rect" id="node43" href="$priority-sema_8c.html#a1da07739ff87a7ef9fb1ff2ffc56c921" title=" " alt="" coords="214,947,344,972"/>
+<area shape="rect" id="node44" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="238,996,320,1021"/>
+<area shape="rect" id="node45" href="$thread_8h.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="233,1045,325,1071"/>
+<area shape="rect" id="node26" href="$mlfqs-fair_8c.html#a28451b5c52ad566800c04f1d48bb61de" title=" " alt="" coords="12,129,135,155"/>
+<area shape="rect" id="node27" href="$mlfqs-fair_8c.html#a0fd0a69be2bce871d166452e2302b323" title=" " alt="" coords="8,179,139,204"/>
+<area shape="rect" id="node28" href="$mlfqs-fair_8c.html#a0c25efe9229c510f743312d4b52eba0a" title=" " alt="" coords="5,228,142,253"/>
+<area shape="rect" id="node29" href="$mlfqs-fair_8c.html#ad8fc7e7b3081e7e7e1e23d7d64215d61" title=" " alt="" coords="9,277,138,303"/>
+<area shape="rect" id="node48" href="$exception_8h.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="227,1147,330,1172"/>
+<area shape="rect" id="node49" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="426,1197,510,1223"/>
+</map>

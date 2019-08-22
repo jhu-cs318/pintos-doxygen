@@ -1,0 +1,7 @@
+<map id="intr_register_int" name="intr_register_int">
+<area shape="rect" id="node1" title="Registers internal interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="5,31,119,56"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a7e7d2edfe1ec7f51b54704080de2f4ca" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="167,31,284,56"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a75ac431d18ce7aff146bef22379c1dcd" title="Interrupt Descriptor Table helpers." alt="" coords="334,5,448,31"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#a79e99b0236c49a7a12d52a2ec74fefa5" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="332,55,450,80"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="498,31,585,56"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="inumber" name="inumber">
+<area shape="rect" id="node1" title="lib/user/syscall.h" alt="" coords="422,105,492,131"/>
+<area shape="rect" id="node2" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="282,5,371,31"/>
+<area shape="rect" id="node6" href="$pwd_8c.html#af88ec6b85d296548f011f7411c91ec19" title="Stores the inode number for FILE_NAME in *INUM." alt="" coords="279,55,374,80"/>
+<area shape="rect" id="node7" href="$pwd_8c.html#ab88726ef2d677a5f50d9a1142d1e4bc6" title="pwd.c" alt="" coords="135,105,199,131"/>
+<area shape="rect" id="node9" href="$ls_8c.html#a003d186b646e107c840ee66ad3d2fd1d" title="ls.c" alt="" coords="297,156,357,181"/>
+<area shape="rect" id="node11" href="$dir-rm-cwd_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="287,205,366,231"/>
+<area shape="rect" id="node3" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="106,5,229,31"/>
+<area shape="rect" id="node4" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="104,55,231,80"/>
+<area shape="rect" id="node5" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,55,56,80"/>
+<area shape="rect" id="node8" href="$pwd_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,105,56,131"/>
+<area shape="rect" id="node10" href="$ls_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="142,156,192,181"/>
+</map>

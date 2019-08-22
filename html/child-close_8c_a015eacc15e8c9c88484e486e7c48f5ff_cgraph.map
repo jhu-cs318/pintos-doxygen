@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,56,129"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#a30670a60464f77af17dfb353353d6df8" title="Converts a string representation of a signed decimal integer in S into an ‘int’, which is returned." alt="" coords="108,55,151,80"/>
+<area shape="rect" id="node3" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="210,5,265,31"/>
+<area shape="rect" id="node5" href="$lib_2user_2syscall_8c.html#a5bbe56a416af8f77723b652362f742f7" title=" " alt="" coords="104,104,156,129"/>
+<area shape="rect" id="node6" href="$lib_8c.html#a7380daad7085b08d0e037abc3136dccd" title=" " alt="" coords="110,153,149,179"/>
+<area shape="rect" id="node7" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="107,203,153,228"/>
+<area shape="rect" id="node4" href="$ctype_8h.html#a9318513eb3136e55002d65bf602f74a7" title=" " alt="" coords="204,55,271,80"/>
+</map>

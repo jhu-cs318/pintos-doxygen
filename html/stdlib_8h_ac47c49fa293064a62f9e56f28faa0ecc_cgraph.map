@@ -1,0 +1,6 @@
+<map id="sort" name="sort">
+<area shape="rect" id="node1" title="Nonstandard functions." alt="" coords="5,29,49,55"/>
+<area shape="rect" id="node2" href="$lib_2stdlib_8c.html#a54ba6c0fa03b2d237cb7cef17a9c731b" title="Swaps elements with 1&#45;based indexes A_IDX and B_IDX in ARRAY with elements of SIZE bytes each." alt="" coords="220,5,294,31"/>
+<area shape="rect" id="node3" href="$lib_2stdlib_8c.html#a032a24a1d606f6ebaebedf357d90c748" title="&quot;Float down&quot; the element with 1&#45;based index I in ARRAY of CNT elements of SIZE bytes each,..." alt="" coords="97,55,161,80"/>
+<area shape="rect" id="node4" href="$lib_2stdlib_8c.html#afc2d669e1b3b09f26eed4dabcb1be568" title="Compares elements with 1&#45;based indexes A_IDX and B_IDX in ARRAY with elements of SIZE bytes each,..." alt="" coords="209,55,305,80"/>
+</map>

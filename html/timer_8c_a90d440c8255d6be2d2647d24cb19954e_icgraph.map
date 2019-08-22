@@ -1,0 +1,5 @@
+<map id="too_many_loops" name="too_many_loops">
+<area shape="rect" id="node1" title="Returns true if LOOPS iterations waits for more than one timer tick, otherwise false." alt="" coords="291,5,411,31"/>
+<area shape="rect" id="node2" href="$timer_8h.html#a8a4e243d361cd252de04175b1b53c419" title="Calibrates loops_per_tick, used to implement brief delays." alt="" coords="135,5,243,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

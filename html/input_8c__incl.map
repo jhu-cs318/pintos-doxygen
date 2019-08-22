@@ -1,0 +1,13 @@
+<map id="src/devices/input.c" name="src/devices/input.c">
+<area shape="rect" id="node1" title=" " alt="" coords="216,5,347,31"/>
+<area shape="rect" id="node2" href="$input_8h.html" title=" " alt="" coords="5,225,116,251"/>
+<area shape="rect" id="node5" href="$debug_8h.html" title=" " alt="" coords="364,79,434,104"/>
+<area shape="rect" id="node6" href="$intq_8h.html" title=" " alt="" coords="186,79,289,104"/>
+<area shape="rect" id="node11" href="$serial_8h.html" title=" " alt="" coords="381,152,494,177"/>
+<area shape="rect" id="node3" href="$stdbool_8h.html" title=" " alt="" coords="167,299,242,324"/>
+<area shape="rect" id="node4" href="$stdint_8h.html" title=" " alt="" coords="266,299,330,324"/>
+<area shape="rect" id="node7" href="$interrupt_8h.html" title=" " alt="" coords="140,225,269,251"/>
+<area shape="rect" id="node8" href="$synch_8h.html" title=" " alt="" coords="241,152,357,177"/>
+<area shape="rect" id="node9" href="$list_8h.html" title=" " alt="" coords="344,225,393,251"/>
+<area shape="rect" id="node10" href="$stddef_8h.html" title=" " alt="" coords="354,299,423,324"/>
+</map>

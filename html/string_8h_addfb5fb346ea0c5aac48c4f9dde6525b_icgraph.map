@@ -1,0 +1,52 @@
+<map id="strnlen" name="strnlen">
+<area shape="rect" id="node1" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="884,355,945,380"/>
+<area shape="rect" id="node2" href="$stdio_8h.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="763,1131,836,1156"/>
+<area shape="rect" id="node43" href="$init_8c.html#ae58b8c3dee90e04a151d5f9ee45799c5" title="Breaks the kernel command line into words and returns them as an argv&#45;like array." alt="" coords="337,107,479,132"/>
+<area shape="rect" id="node3" href="$stdio_8h.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="650,1131,715,1156"/>
+<area shape="rect" id="node4" href="$user_2console_8c.html#a2b26fd6b1bafd97fd9124b367d13b0eb" title="Formats the printf() format specification FORMAT with arguments given in ARGS and writes the output t..." alt="" coords="650,1859,715,1884"/>
+<area shape="rect" id="node9" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="654,1057,711,1083"/>
+<area shape="rect" id="node45" href="$lib_2stdio_8c.html#a1286c6b071007938f54e9b859109f89d" title="Like vprintf(), except that output is stored into BUFFER, which must have space for BUF_SIZE characte..." alt="" coords="530,1759,602,1784"/>
+<area shape="rect" id="node5" href="$user_2console_8c.html#a828ed4e0b6136b8f46203ba574b24b79" title="Like printf(), but writes output to the given HANDLE." alt="" coords="536,1959,595,1984"/>
+<area shape="rect" id="node8" href="$user_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="537,1859,594,1884"/>
+<area shape="rect" id="node6" href="$insult_8c.html#a6a4e1d1b146e74290b5991c19c12543e" title=" " alt="" coords="376,2009,441,2035"/>
+<area shape="rect" id="node7" href="$insult_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="189,1959,239,1984"/>
+<area shape="rect" id="node10" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="165,156,263,181"/>
+<area shape="rect" id="node11" href="$tests_8c.html#a7380daad7085b08d0e037abc3136dccd" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="389,1560,427,1585"/>
+<area shape="rect" id="node12" href="$tests_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title="Prints FORMAT as if with printf(), prefixing the output by the name of the test and following it with..." alt="" coords="385,5,431,31"/>
+<area shape="rect" id="node14" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="540,880,591,905"/>
+<area shape="rect" id="node44" href="$insult_8c.html#a727c30b9bfdf10e2f075dfb927e443b7" title=" " alt="" coords="379,1708,437,1733"/>
+<area shape="rect" id="node13" href="$tests_8h.html#a81252bca9c5649cd9bfe7801959c1c2e" title="Runs the test named NAME." alt="" coords="180,5,249,31"/>
+<area shape="rect" id="node15" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="153,1457,276,1483"/>
+<area shape="rect" id="node16" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="5,1307,94,1332"/>
+<area shape="rect" id="node17" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="142,1156,286,1181"/>
+<area shape="rect" id="node18" href="$shell_8c.html#a0abb03c13300144f4e7c50807e31ca3a" title="If *POS is past the beginning of LINE, backs up one character position." alt="" coords="366,1207,451,1232"/>
+<area shape="rect" id="node19" href="$block_8h.html#af1e8b4db376000c3c1824b19a3984fbb" title="Statistics." alt="" coords="347,1256,469,1281"/>
+<area shape="rect" id="node20" href="$block_8h.html#ab23e50178419646d6627f02eaaf76b4c" title="devices/block.h" alt="" coords="356,1357,460,1383"/>
+<area shape="rect" id="node21" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="160,1357,269,1383"/>
+<area shape="rect" id="node22" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="147,1408,282,1433"/>
+<area shape="rect" id="node23" href="$tests_2internal_2stdio_8c.html#add606a71d9f818f09ede48c54a3b7c1f" title=" " alt="" coords="378,1609,438,1635"/>
+<area shape="rect" id="node24" href="$console_8h.html#a0535ab189f0f409b481df0df4a4e460b" title="lib/kernel/console.h" alt="" coords="340,205,476,231"/>
+<area shape="rect" id="node25" href="$debug_8h.html#a48a47644097877a8b22a70951445524d" title="Prints the call stack, that is, a list of addresses, one in each of the functions we are nested withi..." alt="" coords="346,156,470,181"/>
+<area shape="rect" id="node26" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="367,307,449,332"/>
+<area shape="rect" id="node27" href="$tar_8c.html#aed54c3c43e1f39c75bd51bf2b7107c6b" title=" " alt="" coords="372,1105,444,1131"/>
+<area shape="rect" id="node28" href="$exception_8h.html#a3b29f840ff063cfddd9970ca12bbdc8d" title="userprog/exception.h" alt="" coords="334,356,482,381"/>
+<area shape="rect" id="node29" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="358,405,458,431"/>
+<area shape="rect" id="node30" href="$fsutil_8h.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="177,729,251,755"/>
+<area shape="rect" id="node31" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="360,455,456,480"/>
+<area shape="rect" id="node32" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="375,504,441,529"/>
+<area shape="rect" id="node33" href="$fsutil_8h.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="372,553,444,579"/>
+<area shape="rect" id="node34" href="$stdio_8h.html#a9d2d9f885841adf2d7ca5186519a9c5e" title="Nonstandard functions." alt="" coords="366,755,450,780"/>
+<area shape="rect" id="node35" href="$palloc_8c.html#ae93da2ef876a9e957a6245fa2bd68a1f" title="Initializes pool P as starting at START and ending at END, naming it NAME for debugging purposes." alt="" coords="373,603,444,628"/>
+<area shape="rect" id="node36" href="$ide_8c.html#a968e89e258918c93a81618744b6c0e35" title="ATA interrupt handler." alt="" coords="347,804,469,829"/>
+<area shape="rect" id="node37" href="$interrupt_8h.html#a68b7d22b2fe6b159e8196d6c2cb35dea" title="Dumps interrupt frame F to the console, for debugging." alt="" coords="347,905,469,931"/>
+<area shape="rect" id="node38" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="195,880,234,905"/>
+<area shape="rect" id="node39" href="$kbd_8h.html#ab7e600f1f09328e0f6e6e2052cd64181" title="devices/kbd.h" alt="" coords="352,955,464,980"/>
+<area shape="rect" id="node40" href="$ls_8c.html#a003d186b646e107c840ee66ad3d2fd1d" title="ls.c" alt="" coords="184,1584,244,1609"/>
+<area shape="rect" id="node41" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="385,1056,431,1081"/>
+<area shape="rect" id="node42" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="174,429,255,455"/>
+<area shape="rect" id="node46" href="$mk-tree_8c.html#a4258980184dd5e41d79b4b0dce864dd8" title="Library function for creating a tree of directories." alt="" coords="370,1859,446,1884"/>
+<area shape="rect" id="node47" href="$dir-rm-tree_8c.html#a3a922ebd360cf149198b1b741f895b86" title=" " alt="" coords="364,1908,452,1933"/>
+<area shape="rect" id="node48" href="$mk-tree_8c.html#adc2b12679bf71c4b155aa59a6bf65cef" title=" " alt="" coords="370,1809,446,1835"/>
+<area shape="rect" id="node49" href="$lib_2stdio_8c.html#a913035b9a30cd1b34c5e587dfbf26f92" title="Like printf(), except that output is stored into BUFFER, which must have space for BUF_SIZE character..." alt="" coords="376,1659,441,1684"/>
+<area shape="rect" id="node50" href="$lib_8c.html#a3844191cdd54f12ebfa3eee6d1a79ea1" title=" " alt="" coords="188,1709,241,1735"/>
+</map>

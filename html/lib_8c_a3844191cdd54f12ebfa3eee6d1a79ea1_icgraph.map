@@ -1,0 +1,52 @@
+<map id="vmsg" name="vmsg">
+<area shape="rect" id="node1" title=" " alt="" coords="734,1540,787,1565"/>
+<area shape="rect" id="node2" href="$tests_8h.html#a47453df4bfab5b8b7ff498ea36154226" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="643,2088,682,2113"/>
+<area shape="rect" id="node16" href="$tests_8h.html#a897915958f300dcca8d0f76789877cc8" title="Prints FORMAT as if with printf(), prefixing the output by the name of the test and following it with..." alt="" coords="639,992,686,1017"/>
+<area shape="rect" id="node3" href="$lib_8h.html#aa0ad2e95360b59ee24361677637ed609" title=" " alt="" coords="254,1813,382,1839"/>
+<area shape="rect" id="node5" href="$seq-test_8h.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="5,1763,77,1788"/>
+<area shape="rect" id="node6" href="$grow-file-size_8c.html#a8ef3ec43d5a575abeb3e19e261c37f02" title=" " alt="" coords="455,2337,566,2363"/>
+<area shape="rect" id="node7" href="$grow-tell_8c.html#a8113b0e9d1d10d5d3a5c68816bd11168" title=" " alt="" coords="470,2387,551,2412"/>
+<area shape="rect" id="node8" href="$lib_8h.html#ac94713acaefd6e6a5235920b67add456" title="test/lib.h" alt="" coords="454,1839,567,1864"/>
+<area shape="rect" id="node9" href="$child-close_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="485,2039,536,2064"/>
+<area shape="rect" id="node10" href="$tests_2userprog_2halt_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Tests the halt system call." alt="" coords="471,2088,550,2113"/>
+<area shape="rect" id="node11" href="$mlfqs-load-1_8c.html#a4c5f62aa39a429a8ae1ef32f9fc9238d" title="Verifies that a single busy thread raises the load average to 0.5 in 38 to 45 seconds." alt="" coords="446,1888,575,1913"/>
+<area shape="rect" id="node12" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="469,2137,552,2163"/>
+<area shape="rect" id="node13" href="$page-merge-seq_8c.html#a918b046cec37d7261c86402686859e9a" title=" " alt="" coords="484,1937,537,1963"/>
+<area shape="rect" id="node14" href="$dir-rm-cwd_8c.html#a91408b163987dab888f237df2213e7e9" title="Tries to remove the current directory, which may succeed or fail." alt="" coords="467,2239,554,2264"/>
+<area shape="rect" id="node15" href="$grow-two-files_8c.html#afae26c760b28a632091df7565c0e8224" title=" " alt="" coords="446,2288,575,2313"/>
+<area shape="rect" id="node4" href="$lib_8h.html#a63f613d854aaeef7dbdcf873febdab48" title=" " alt="" coords="125,1763,206,1788"/>
+<area shape="rect" id="node17" href="$priority-donate-multiple_8c.html#a56379b758fb21b5a67de1a87d2a74672" title=" " alt="" coords="457,5,564,31"/>
+<area shape="rect" id="node18" href="$priority-donate-one_8c.html#adbcd765439b4d960f0db9ba4a47d421f" title=" " alt="" coords="435,55,586,80"/>
+<area shape="rect" id="node19" href="$priority-donate-one_8c.html#aae18eed8351e7789ef848517a96284a5" title=" " alt="" coords="435,104,586,129"/>
+<area shape="rect" id="node20" href="$priority-donate-lower_8c.html#ab955dabdbbfc7a7a188317e70b95ef04" title=" " alt="" coords="439,153,582,179"/>
+<area shape="rect" id="node21" href="$alarm-priority_8c.html#a3a8636bb8f03b8450f18ef9dbd774a0c" title=" " alt="" coords="437,203,584,228"/>
+<area shape="rect" id="node22" href="$priority-donate-multiple_8c.html#af257d61c4fea017f52981dbe2a40534b" title=" " alt="" coords="457,252,564,277"/>
+<area shape="rect" id="node23" href="$mlfqs-block_8c.html#afae0754a3b814ae247351cc6ee14276c" title="Checks that recent_cpu and priorities are updated for blocked threads." alt="" coords="462,449,559,475"/>
+<area shape="rect" id="node24" href="$mlfqs-block_8c.html#a167c6f1bad03f552911dfd10bc4c8f41" title=" " alt="" coords="257,747,378,772"/>
+<area shape="rect" id="node25" href="$priority-donate-multiple2_8c.html#ada786bf208fbba388a658bfb178eb564" title=" " alt="" coords="458,301,563,327"/>
+<area shape="rect" id="node26" href="$priority-change_8c.html#a516a72750bc055a8da5aae1734afc045" title=" " alt="" coords="450,351,571,376"/>
+<area shape="rect" id="node27" href="$priority-donate-chain_8c.html#af3ea65daade3a57b9afbfaf87d187dfd" title=" " alt="" coords="444,400,577,425"/>
+<area shape="rect" id="node28" href="$squish-pty_8c.html#adb2afcb6681c6ffb5b94b5236ef526a7" title="Prints MSG, formatting as with printf(), plus an error message based on errno, and exits." alt="" coords="482,499,539,524"/>
+<area shape="rect" id="node29" href="$priority-donate-sema_8c.html#a85675782bf8084df44707dfcfd2d7ae8" title=" " alt="" coords="457,548,564,573"/>
+<area shape="rect" id="node30" href="$priority-donate-nest_8c.html#acc1e53225c07946f00921d331e5736c5" title=" " alt="" coords="448,597,573,623"/>
+<area shape="rect" id="node31" href="$page-merge-seq_8c.html#a17fb021b480a1f220d2579807fa2e398" title="Initialize buf1 with random data, then count the number of instances of each value within it." alt="" coords="491,647,530,672"/>
+<area shape="rect" id="node32" href="$priority-donate-chain_8c.html#afb7cb99917afbc421fc294d9d10acc28" title=" " alt="" coords="433,696,588,721"/>
+<area shape="rect" id="node33" href="$priority-donate-sema_8c.html#aeb0f97fa3c6d25534de6a11bf3532aa3" title=" " alt="" coords="459,745,562,771"/>
+<area shape="rect" id="node34" href="$priority-donate-sema_8c.html#a4dc51b1476966c227801513da4bd6b84" title=" " alt="" coords="455,795,566,820"/>
+<area shape="rect" id="node35" href="$child-syn-wrt_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="485,844,536,869"/>
+<area shape="rect" id="node36" href="$mk-tree_8h.html#a8de2005d9fbb29002cae51ce8ed8f1e0" title="tests/filesys/extended/mk&#45;tree.h" alt="" coords="468,893,553,919"/>
+<area shape="rect" id="node37" href="$priority-donate-nest_8c.html#ada3ddea14ea0cb3220f0a00cfa7929dc" title=" " alt="" coords="437,943,584,968"/>
+<area shape="rect" id="node38" href="$page-merge-seq_8c.html#a657753d621e391b948de553de0bff48d" title="Merge the sorted chunks in buf1 into a fully sorted buf2." alt="" coords="481,992,540,1017"/>
+<area shape="rect" id="node39" href="$priority-condvar_8c.html#a0a388ce73d55720aac505642bc72ce37" title=" " alt="" coords="430,1093,591,1119"/>
+<area shape="rect" id="node40" href="$priority-sema_8c.html#a256435362d935640e9ba8007e76794d0" title=" " alt="" coords="437,1143,584,1168"/>
+<area shape="rect" id="node41" href="$dir-rm-tree_8c.html#a943528adc527073e98cbfcd35e58055b" title="Creates directories /0/0/0 through /3/2/2 and files in the leaf directories, then removes them." alt="" coords="462,1192,559,1217"/>
+<area shape="rect" id="node42" href="$tests_8h.html#a81252bca9c5649cd9bfe7801959c1c2e" title="Runs the test named NAME." alt="" coords="476,1241,545,1267"/>
+<area shape="rect" id="node43" href="$priority-preempt_8c.html#a4d6318b8966df2b464a457e4b74b1447" title=" " alt="" coords="442,1291,579,1316"/>
+<area shape="rect" id="node44" href="$page-merge-seq_8c.html#a44e97d47c126cfbe7372e4b0269720b4" title="Sort each chunk of buf1 using a subprocess." alt="" coords="464,1340,557,1365"/>
+<area shape="rect" id="node45" href="$main_8h.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="471,1389,550,1415"/>
+<area shape="rect" id="node46" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="456,1439,564,1464"/>
+<area shape="rect" id="node47" href="$mlfqs-load-60_8c.html#a6f61ecba11d019e745c87eba5e4a74a3" title=" " alt="" coords="442,1488,579,1513"/>
+<area shape="rect" id="node48" href="$mlfqs-load-avg_8c.html#abf1ef79ad820ac65df92b26c8f1a351d" title=" " alt="" coords="439,1537,582,1563"/>
+<area shape="rect" id="node49" href="$mlfqs-recent-1_8c.html#afc46332e59acfbdd49260bd5fdca1798" title="Checks that recent_cpu is calculated properly for the case of a single ready process." alt="" coords="440,1587,581,1612"/>
+<area shape="rect" id="node50" href="$priority-change_8c.html#a9743971189eef2f10beeb3b7358f7a59" title=" " alt="" coords="440,1636,581,1661"/>
+</map>

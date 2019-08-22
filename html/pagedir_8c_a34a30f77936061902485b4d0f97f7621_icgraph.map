@@ -1,0 +1,6 @@
+<map id="invalidate_pagedir" name="invalidate_pagedir">
+<area shape="rect" id="node1" title="Seom page table changes can cause the CPU&#39;s translation lookaside buffer (TLB) to become out&#45;of&#45;sync ..." alt="" coords="208,55,338,80"/>
+<area shape="rect" id="node2" href="$pagedir_8h.html#a6379f06b2c8e0923c86e5948ff1da7a9" title="Marks user virtual page UPAGE &quot;not present&quot; in page directory PD." alt="" coords="13,5,152,31"/>
+<area shape="rect" id="node3" href="$pagedir_8h.html#a2ea91a12c3f35b851d7a01154751d3ff" title="Sets the accessed bit to ACCESSED in the PTE for virtual page VPAGE in PD." alt="" coords="5,55,160,80"/>
+<area shape="rect" id="node4" href="$pagedir_8h.html#a3d92b33d1a413b03f14a7bfcaaead200" title="Set the dirty bit to DIRTY in the PTE for virtual page VPAGE in PD." alt="" coords="21,104,145,129"/>
+</map>

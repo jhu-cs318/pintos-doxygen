@@ -1,0 +1,4 @@
+<map id="file_length" name="file_length">
+<area shape="rect" id="node1" title="Returns the size of FILE in bytes." alt="" coords="5,5,87,31"/>
+<area shape="rect" id="node2" href="$inode_8c.html#a67214eb44fb24ef254fca76f9a63fd6d" title="Returns the length, in bytes, of INODE&#39;s data." alt="" coords="135,5,233,31"/>
+</map>

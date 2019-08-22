@@ -1,0 +1,13 @@
+<map id="relay" name="relay">
+<area shape="rect" id="node1" title="Copies data from stdin to SOCK and from SOCK to stdout until no more data can be read or written." alt="" coords="5,184,56,210"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a55e99c539cf7723ec15e856b7e0a8cee" title=" " alt="" coords="390,11,433,36"/>
+<area shape="rect" id="node3" href="$squish-unix_8c.html#adb2afcb6681c6ffb5b94b5236ef526a7" title="Prints MSG, formatting as with printf(), plus an error message based on errno, and exits." alt="" coords="284,86,340,111"/>
+<area shape="rect" id="node5" href="$squish-unix_8c.html#a52d537a6832e2f129e0acf48eca1254e" title="Handle a read or write on *FD, which is the socket if FD_IS_SOCK is true, that returned end&#45;of&#45;file o..." alt="" coords="121,86,218,111"/>
+<area shape="rect" id="node6" href="$squish-unix_8c.html#affc068d8a12b6a8f314c54afd607d26f" title="Make FD non&#45;blocking if NONBLOCKING is true, or blocking if NONBLOCKING is false." alt="" coords="104,135,236,160"/>
+<area shape="rect" id="node7" href="$squish-unix_8c.html#a9c6840d01c1eb569b40c50c3c915e010" title="If FD is a terminal, configures it for noncanonical input mode with VMIN and VTIME set as indicated." alt="" coords="110,184,230,210"/>
+<area shape="rect" id="node8" href="$string_8c.html#a0af8a99685feb8d49d933589d20268fd" title="Copies SIZE bytes from SRC to DST, which are allowed to overlap." alt="" coords="128,234,212,259"/>
+<area shape="rect" id="node9" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="135,283,204,308"/>
+<area shape="rect" id="node10" href="$lib_2user_2syscall_8c.html#ab0f9f22d375a9229b3c77859cf2035a0" title=" " alt="" coords="146,332,194,358"/>
+<area shape="rect" id="node11" href="$lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d" title=" " alt="" coords="145,382,195,407"/>
+<area shape="rect" id="node4" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="388,86,435,111"/>
+</map>

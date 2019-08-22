@@ -1,0 +1,5 @@
+<map id="block_to_arena" name="block_to_arena">
+<area shape="rect" id="node1" title="Returns the arena that block B is inside." alt="" coords="5,31,118,56"/>
+<area shape="rect" id="node2" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="194,5,255,31"/>
+<area shape="rect" id="node3" href="$vaddr_8h.html#a5a07aa5a4d70694db19884626f4b0fa3" title="Round down to nearest page boundary." alt="" coords="166,55,283,80"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/devices/pit.c" name="src/devices/pit.c">
+<area shape="rect" id="node1" title=" " alt="" coords="183,5,299,31"/>
+<area shape="rect" id="node2" href="$pit_8h.html" title=" " alt="" coords="5,79,101,104"/>
+<area shape="rect" id="node3" href="$stdint_8h.html" title=" " alt="" coords="112,152,176,177"/>
+<area shape="rect" id="node4" href="$debug_8h.html" title=" " alt="" coords="445,79,514,104"/>
+<area shape="rect" id="node5" href="$interrupt_8h.html" title=" " alt="" coords="176,79,306,104"/>
+<area shape="rect" id="node7" href="$io_8h.html" title=" " alt="" coords="330,79,421,104"/>
+<area shape="rect" id="node6" href="$stdbool_8h.html" title=" " alt="" coords="203,152,279,177"/>
+<area shape="rect" id="node8" href="$stddef_8h.html" title=" " alt="" coords="341,152,410,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="file_seek" name="file_seek">
+<area shape="rect" id="node1" title="Sets the current position in FILE to NEW_POS bytes from the start of the file." alt="" coords="961,5,1035,31"/>
+<area shape="rect" id="node2" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="713,5,759,31"/>
+<area shape="rect" id="node8" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="807,31,913,56"/>
+<area shape="rect" id="node3" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="564,5,665,31"/>
+<area shape="rect" id="node4" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="393,5,516,31"/>
+<area shape="rect" id="node5" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="273,5,345,31"/>
+<area shape="rect" id="node6" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,5,225,31"/>
+<area shape="rect" id="node7" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

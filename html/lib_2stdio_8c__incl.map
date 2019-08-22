@@ -1,0 +1,13 @@
+<map id="src/lib/stdio.c" name="src/lib/stdio.c">
+<area shape="rect" id="node1" title=" " alt="" coords="380,5,479,31"/>
+<area shape="rect" id="node2" href="$stdio_8h.html" title=" " alt="" coords="203,79,264,104"/>
+<area shape="rect" id="node7" href="$stdint_8h.html" title=" " alt="" coords="384,152,448,177"/>
+<area shape="rect" id="node8" href="$ctype_8h.html" title=" " alt="" coords="532,79,596,104"/>
+<area shape="rect" id="node9" href="$inttypes_8h.html" title=" " alt="" coords="429,79,507,104"/>
+<area shape="rect" id="node10" href="$round_8h.html" title=" " alt="" coords="620,79,687,104"/>
+<area shape="rect" id="node11" href="$string_8h.html" title=" " alt="" coords="290,79,355,104"/>
+<area shape="rect" id="node3" href="$debug_8h.html" title=" " alt="" coords="5,152,75,177"/>
+<area shape="rect" id="node4" href="$stdarg_8h.html" title=" " alt="" coords="99,152,168,177"/>
+<area shape="rect" id="node5" href="$stdbool_8h.html" title=" " alt="" coords="192,152,267,177"/>
+<area shape="rect" id="node6" href="$stddef_8h.html" title=" " alt="" coords="291,152,360,177"/>
+</map>

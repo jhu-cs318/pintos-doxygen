@@ -1,0 +1,5 @@
+<map id="add_char" name="add_char">
+<area shape="rect" id="node1" title="Adds C to the buffer in AUX, flushing it if the buffer fills up." alt="" coords="5,5,82,31"/>
+<area shape="rect" id="node2" href="$user_2console_8c.html#a548c59d90bd536a99704a52a16695bdd" title="Flushes the buffer in AUX." alt="" coords="130,5,180,31"/>
+<area shape="rect" id="node3" href="$lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d" title=" " alt="" coords="228,5,277,31"/>
+</map>

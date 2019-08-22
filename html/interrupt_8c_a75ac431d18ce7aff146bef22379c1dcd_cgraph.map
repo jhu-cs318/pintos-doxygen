@@ -1,0 +1,4 @@
+<map id="make_intr_gate" name="make_intr_gate">
+<area shape="rect" id="node1" title="Interrupt Descriptor Table helpers." alt="" coords="5,5,119,31"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="167,5,254,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="input_full" name="input_full">
+<area shape="rect" id="node1" title="Returns true if the input buffer is full, false otherwise." alt="" coords="5,29,80,55"/>
+<area shape="rect" id="node2" href="$intq_8c.html#aff4db6a96c4a1fb6898f26451a1049c2" title="Returns true if Q is full, false otherwise." alt="" coords="128,55,195,80"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="243,5,344,31"/>
+<area shape="rect" id="node4" href="$intq_8c.html#ac473f50d2829cba1321d34a57c425042" title="Returns the position after POS within an intq." alt="" coords="270,55,317,80"/>
+</map>

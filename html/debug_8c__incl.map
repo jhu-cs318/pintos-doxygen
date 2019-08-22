@@ -1,0 +1,10 @@
+<map id="src/lib/debug.c" name="src/lib/debug.c">
+<area shape="rect" id="node1" title=" " alt="" coords="204,5,311,31"/>
+<area shape="rect" id="node2" href="$debug_8h.html" title=" " alt="" coords="5,152,75,177"/>
+<area shape="rect" id="node3" href="$stdarg_8h.html" title=" " alt="" coords="99,152,168,177"/>
+<area shape="rect" id="node4" href="$stdbool_8h.html" title=" " alt="" coords="280,152,355,177"/>
+<area shape="rect" id="node5" href="$stddef_8h.html" title=" " alt="" coords="379,152,448,177"/>
+<area shape="rect" id="node6" href="$stdio_8h.html" title=" " alt="" coords="194,79,254,104"/>
+<area shape="rect" id="node8" href="$string_8h.html" title=" " alt="" coords="380,79,445,104"/>
+<area shape="rect" id="node7" href="$stdint_8h.html" title=" " alt="" coords="192,152,256,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="partition" name="partition">
+<area shape="rect" id="node1" title="Partitions ARRAY in&#45;place in an initial run of bytes all less than PIVOT, followed by a run of bytes ..." alt="" coords="5,31,74,56"/>
+<area shape="rect" id="node2" href="$qsort_8c.html#a9bb82e4fc9d80c94d7b15a12201a8c8c" title="Checks whether the SIZE bytes in ARRAY are divided into an initial LEFT_SIZE elements all less than P..." alt="" coords="122,5,223,31"/>
+<area shape="rect" id="node3" href="$qsort_8c.html#a011c170a454d31eca2107fe2d6e5422f" title="Swaps the bytes at *A and *B." alt="" coords="146,55,199,80"/>
+</map>

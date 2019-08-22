@@ -1,0 +1,15 @@
+<map id="src/devices/kbd.c" name="src/devices/kbd.c">
+<area shape="rect" id="node1" title=" " alt="" coords="507,5,631,31"/>
+<area shape="rect" id="node2" href="$kbd_8h.html" title=" " alt="" coords="293,79,396,104"/>
+<area shape="rect" id="node4" href="$ctype_8h.html" title=" " alt="" coords="626,79,690,104"/>
+<area shape="rect" id="node5" href="$debug_8h.html" title=" " alt="" coords="802,152,872,177"/>
+<area shape="rect" id="node6" title=" " alt="" coords="928,79,988,104"/>
+<area shape="rect" id="node7" href="$string_8h.html" title=" " alt="" coords="536,79,601,104"/>
+<area shape="rect" id="node9" href="$input_8h.html" title=" " alt="" coords="159,79,269,104"/>
+<area shape="rect" id="node11" href="$shutdown_8h.html" title=" " alt="" coords="714,79,853,104"/>
+<area shape="rect" id="node12" href="$interrupt_8h.html" title=" " alt="" coords="5,79,135,104"/>
+<area shape="rect" id="node13" href="$io_8h.html" title=" " alt="" coords="421,79,512,104"/>
+<area shape="rect" id="node3" href="$stdint_8h.html" title=" " alt="" coords="241,152,305,177"/>
+<area shape="rect" id="node8" href="$stddef_8h.html" title=" " alt="" coords="482,152,551,177"/>
+<area shape="rect" id="node10" href="$stdbool_8h.html" title=" " alt="" coords="116,152,192,177"/>
+</map>

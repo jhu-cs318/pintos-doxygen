@@ -1,0 +1,5 @@
+<map id="list_empty" name="list_empty">
+<area shape="rect" id="node1" title="Returns true if LIST is empty, false otherwise." alt="" coords="5,31,87,56"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="135,5,212,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="140,55,207,80"/>
+</map>

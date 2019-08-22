@@ -1,0 +1,5 @@
+<map id="select_sector" name="select_sector">
+<area shape="rect" id="node1" title="Selects device D, waiting for it to become ready, and then writes SEC_NO to the disk&#39;s sector selecti..." alt="" coords="128,31,228,56"/>
+<area shape="rect" id="node2" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="6,5,79,31"/>
+<area shape="rect" id="node3" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="5,55,80,80"/>
+</map>

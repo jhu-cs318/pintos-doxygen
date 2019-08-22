@@ -1,0 +1,22 @@
+<map id="file_allow_write" name="file_allow_write">
+<area shape="rect" id="node1" title="Re&#45;enables write operations on FILE&#39;s underlying inode." alt="" coords="1045,200,1157,225"/>
+<area shape="rect" id="node2" href="$file_8h.html#a11e71f5d8bdfe65c54a1ae9b83c5d67a" title="Closes FILE." alt="" coords="920,200,997,225"/>
+<area shape="rect" id="node3" href="$free-map_8h.html#ac00d55315a3b01794bcdc6cc9d5ba5f5" title="Writes the free map to disk and closes the free map file." alt="" coords="756,75,872,100"/>
+<area shape="rect" id="node13" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="607,149,707,175"/>
+<area shape="rect" id="node15" href="$fsutil_8h.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="449,200,523,225"/>
+<area shape="rect" id="node16" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="766,251,862,276"/>
+<area shape="rect" id="node17" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="791,300,837,325"/>
+<area shape="rect" id="node4" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="616,19,698,44"/>
+<area shape="rect" id="node7" href="$filesys_8h.html#aeb7068b9b8e7563972715862ca8106f5" title="Shuts down the file system module, writing any unwritten data to disk." alt="" coords="609,75,705,100"/>
+<area shape="rect" id="node5" href="$filesys_8h.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="445,5,528,31"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,100,87,125"/>
+<area shape="rect" id="node8" href="$shutdown_8h.html#a5a3f691cafea75080890d3c921840da7" title="devices/shutdown.h" alt="" coords="414,75,558,100"/>
+<area shape="rect" id="node9" href="$shutdown_8h.html#a1c9d5e29ad8899afe0c34571ddee18f9" title="Shuts down the machine in the way configured by shutdown_configure()." alt="" coords="288,49,366,75"/>
+<area shape="rect" id="node11" href="$init_8c.html#ad96d407a911fbb914fa8e4cfbf2faf0f" title="Prints a kernel command line help message and powers off the machine." alt="" coords="298,99,356,124"/>
+<area shape="rect" id="node10" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="138,100,236,125"/>
+<area shape="rect" id="node12" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="135,149,240,175"/>
+<area shape="rect" id="node14" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="142,200,232,225"/>
+<area shape="rect" id="node18" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="606,301,708,327"/>
+<area shape="rect" id="node19" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="425,301,547,327"/>
+<area shape="rect" id="node20" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="291,301,363,327"/>
+</map>

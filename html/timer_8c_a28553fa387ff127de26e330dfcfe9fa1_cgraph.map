@@ -1,0 +1,4 @@
+<map id="real_time_delay" name="real_time_delay">
+<area shape="rect" id="node1" title="Busy&#45;wait for approximately NUM/DENOM seconds." alt="" coords="5,5,121,31"/>
+<area shape="rect" id="node2" href="$timer_8c.html#a804190f8e66f39ac2ddb5891de3eec73" title="Iterates through a simple loop LOOPS times, for implementing brief delays." alt="" coords="169,5,249,31"/>
+</map>

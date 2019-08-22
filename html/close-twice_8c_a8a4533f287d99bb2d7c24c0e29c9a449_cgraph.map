@@ -1,0 +1,6 @@
+<map id="test_main" name="test_main">
+<area shape="rect" id="node1" title="Opens a file and then tries to close it twice." alt="" coords="5,55,84,80"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a5bbe56a416af8f77723b652362f742f7" title=" " alt="" coords="132,5,185,31"/>
+<area shape="rect" id="node3" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="135,55,182,80"/>
+<area shape="rect" id="node4" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="133,104,184,129"/>
+</map>

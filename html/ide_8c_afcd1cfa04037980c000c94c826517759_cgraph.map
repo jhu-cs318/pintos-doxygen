@@ -1,0 +1,52 @@
+<map id="identify_ata_device" name="identify_ata_device">
+<area shape="rect" id="node1" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="5,464,141,490"/>
+<area shape="rect" id="node2" href="$block_8c.html#a2975afa33bd2e5caa0981756b2192f77" title="Registers a new block device with the given NAME." alt="" coords="742,312,847,338"/>
+<area shape="rect" id="node13" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="1743,314,1836,339"/>
+<area shape="rect" id="node22" href="$lib_2stdio_8c.html#a225f673cc2251206f9da043c5a55a80b" title="Prints SIZE, which represents a number of bytes, in a human&#45;readable format, e.g." alt="" coords="895,819,1080,844"/>
+<area shape="rect" id="node23" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="1139,767,1190,792"/>
+<area shape="rect" id="node30" href="$ide_8c.html#a6a992ae2a2f8f5e9dbaa54b2200a5e44" title="Disk detection and identification." alt="" coords="189,62,345,87"/>
+<area shape="rect" id="node32" href="$ide_8c.html#ad6e24dabc72eca487989a0d9b6fe1347" title="Reads a sector from channel C&#39;s data register in PIO mode into SECTOR, which must have room for BLOCK..." alt="" coords="220,111,314,136"/>
+<area shape="rect" id="node34" href="$ide_8c.html#acdfc60cf49c8edf42ed8d25b0d2b6314" title="Writes COMMAND to channel C and prepares for receiving a completion interrupt." alt="" coords="393,160,537,186"/>
+<area shape="rect" id="node36" href="$partition_8c.html#ae1af155dafc1e46f1725d8061189421a" title="Scans BLOCK for partitions of interest to Pintos." alt="" coords="215,464,319,490"/>
+<area shape="rect" id="node42" href="$lib_2stdio_8c.html#a913035b9a30cd1b34c5e587dfbf26f92" title="Like printf(), except that output is stored into BUFFER, which must have space for BUF_SIZE character..." alt="" coords="762,971,827,996"/>
+<area shape="rect" id="node45" href="$ide_8c.html#a5d8393ec752f120abb30d97b14a69600" title="Select disk D in its channel, as select_device(), but wait for the channel to become idle before and ..." alt="" coords="200,718,334,743"/>
+<area shape="rect" id="node49" href="$ide_8c.html#a32d318073c2235e9b03bd77ed17ae580" title="Wait up to 30 seconds for disk D to clear BSY, and then return the status of the DRQ bit." alt="" coords="406,870,524,895"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="1884,136,1994,162"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="1134,390,1194,415"/>
+<area shape="rect" id="node27" href="$string_8c.html#a4637af6f79bac4043e1064f0837d0ddc" title="Copies string SRC to DST." alt="" coords="958,211,1017,236"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="2062,187,2129,212"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="2057,136,2135,162"/>
+<area shape="rect" id="node7" href="$malloc_8c.html#a9c2a4cff5e437e5be52e507be30eea49" title="Returns the (IDX &#45; 1)&#39;th block within arena A." alt="" coords="1251,590,1364,615"/>
+<area shape="rect" id="node8" href="$malloc_8c.html#a5db3c69e2b5fc7fb13fa1f663df2bf03" title="Returns the arena that block B is inside." alt="" coords="1251,540,1364,566"/>
+<area shape="rect" id="node9" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="1749,200,1830,226"/>
+<area shape="rect" id="node10" href="$lib_2kernel_2list_8c.html#afb61f0ab134a52505ed89bc2d1024165" title="Removes the front element from LIST and returns it." alt="" coords="1257,390,1358,415"/>
+<area shape="rect" id="node11" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="1599,490,1695,515"/>
+<area shape="rect" id="node19" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="1599,439,1695,464"/>
+<area shape="rect" id="node20" href="$palloc_8c.html#a135bc426d035b41313b4542adfd2c05f" title="Obtains and returns a group of PAGE_CNT contiguous free pages." alt="" coords="1415,439,1551,464"/>
+<area shape="rect" id="node21" href="$palloc_8c.html#aa8cccdccaa05d4023e3e65c15ed486af" title="Obtains a single free page and returns its kernel virtual address." alt="" coords="1248,439,1367,464"/>
+<area shape="rect" id="node12" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="2051,516,2141,542"/>
+<area shape="rect" id="node18" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="2042,390,2150,415"/>
+<area shape="rect" id="node14" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="2051,263,2141,288"/>
+<area shape="rect" id="node16" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="1889,288,1989,314"/>
+<area shape="rect" id="node17" href="$thread_8c.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="1890,440,1988,466"/>
+<area shape="rect" id="node15" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="2198,263,2298,288"/>
+<area shape="rect" id="node24" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="1279,767,1337,792"/>
+<area shape="rect" id="node25" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="1447,792,1519,818"/>
+<area shape="rect" id="node26" href="$kernel_2console_8c.html#a69b6a57a329ae666df343a081a51e7a5" title="Acquires the console lock." alt="" coords="1424,742,1542,767"/>
+<area shape="rect" id="node28" href="$string_8c.html#ac81277697db3331c21cac338b661817a" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="1128,248,1200,274"/>
+<area shape="rect" id="node29" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="1137,199,1191,224"/>
+<area shape="rect" id="node31" href="$ctype_8h.html#a9318513eb3136e55002d65bf602f74a7" title=" " alt="" coords="432,62,498,87"/>
+<area shape="rect" id="node33" href="$io_8h.html#a796ec08686cf1380808556b31cabc730" title="Reads CNT 16&#45;bit (halfword) units from PORT, one after another, and stores them into the buffer start..." alt="" coords="441,111,489,136"/>
+<area shape="rect" id="node35" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="616,211,663,236"/>
+<area shape="rect" id="node37" href="$block_8c.html#a805c68661c9837f08b82b27fb82b9f94" title="Returns BLOCK&#39;s name (e.g." alt="" coords="748,363,841,388"/>
+<area shape="rect" id="node38" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="395,464,534,490"/>
+<area shape="rect" id="node39" href="$block_8c.html#a8c08b3ab03d5cdb52856bab0aafe7006" title="Reads sector SECTOR from BLOCK into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="596,363,683,388"/>
+<area shape="rect" id="node40" href="$block_8c.html#a66f8a413d9cb3ea11c9cd302f803daea" title="Returns the number of sectors in BLOCK." alt="" coords="753,515,836,540"/>
+<area shape="rect" id="node41" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="585,464,694,490"/>
+<area shape="rect" id="node44" href="$malloc_8c.html#a9f850d0608418aea291e4c0fdab93826" title="Frees block P, which must have been previously allocated with malloc(), calloc(), or realloc()." alt="" coords="1142,590,1186,615"/>
+<area shape="rect" id="node43" href="$lib_2stdio_8c.html#a1286c6b071007938f54e9b859109f89d" title="Like vprintf(), except that output is stored into BUFFER, which must have space for BUF_SIZE characte..." alt="" coords="952,1072,1023,1098"/>
+<area shape="rect" id="node46" href="$ide_8c.html#a7252ab4c28b6aed431703ba2b124e05e" title="Program D&#39;s channel so that D is now the selected disk." alt="" coords="414,718,516,743"/>
+<area shape="rect" id="node48" href="$ide_8c.html#ac51161a8c0b58de728cb08a3ff722b0f" title="Low&#45;level ATA primitives." alt="" coords="412,767,517,792"/>
+<area shape="rect" id="node47" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Reads and returns a byte from PORT." alt="" coords="620,718,659,743"/>
+<area shape="rect" id="node50" href="$timer_8c.html#a10cbeaa00e0ceb825ddd7a44724881c6" title="Sleeps for approximately MS milliseconds." alt="" coords="589,920,690,946"/>
+</map>

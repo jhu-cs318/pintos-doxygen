@@ -1,0 +1,13 @@
+<map id="src/threads/io.h" name="src/threads/io.h">
+<area shape="rect" id="node1" title=" " alt="" coords="673,5,786,31"/>
+<area shape="rect" id="node2" href="$ide_8c.html" title=" " alt="" coords="5,79,125,104"/>
+<area shape="rect" id="node3" href="$kbd_8c.html" title=" " alt="" coords="149,79,272,104"/>
+<area shape="rect" id="node4" href="$pit_8c.html" title=" " alt="" coords="297,79,413,104"/>
+<area shape="rect" id="node5" href="$rtc_8c.html" title=" " alt="" coords="436,79,553,104"/>
+<area shape="rect" id="node6" href="$serial_8c.html" title=" " alt="" coords="577,79,711,104"/>
+<area shape="rect" id="node7" href="$shutdown_8c.html" title=" " alt="" coords="735,79,894,104"/>
+<area shape="rect" id="node8" href="$speaker_8c.html" title=" " alt="" coords="918,79,1066,104"/>
+<area shape="rect" id="node9" href="$vga_8c.html" title=" " alt="" coords="1090,79,1214,104"/>
+<area shape="rect" id="node10" href="$init_8c.html" title=" " alt="" coords="1238,79,1356,104"/>
+<area shape="rect" id="node11" href="$interrupt_8c.html" title=" " alt="" coords="1381,79,1531,104"/>
+</map>

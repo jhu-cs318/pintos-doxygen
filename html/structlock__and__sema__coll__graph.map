@@ -1,0 +1,8 @@
+<map id="lock_and_sema" name="lock_and_sema">
+<area shape="rect" id="node1" title="Low priority thread L acquires a lock, then blocks downing a semaphore." alt="" coords="5,379,120,404"/>
+<area shape="rect" id="node2" href="$structsemaphore.html" title="A counting semaphore." alt="" coords="40,205,128,231"/>
+<area shape="rect" id="node5" href="$structlock.html" title="Lock." alt="" coords="102,292,147,317"/>
+<area shape="rect" id="node3" href="$structlist.html" title="List." alt="" coords="78,107,117,132"/>
+<area shape="rect" id="node4" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="96,6,170,31"/>
+<area shape="rect" id="node6" href="$structthread.html" title="A kernel thread or user process." alt="" coords="144,156,203,181"/>
+</map>

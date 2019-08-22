@@ -1,0 +1,52 @@
+<map id="is_thread" name="is_thread">
+<area shape="rect" id="node1" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1094,769,1171,794"/>
+<area shape="rect" id="node2" href="$thread_8c.html#a907260c0438a0be4e75e300396d3e30e" title="Allocates a SIZE&#45;byte frame at the top of thread T&#39;s stack and returns a pointer to the frame&#39;s base." alt="" coords="947,1077,1037,1102"/>
+<area shape="rect" id="node25" href="$thread_8c.html#a63e3ec45b7bf0028e55f2b9ab1603306" title="Schedules a new process." alt="" coords="779,993,854,1018"/>
+<area shape="rect" id="node34" href="$thread_8h.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="938,693,1046,718"/>
+<area shape="rect" id="node48" href="$thread_8h.html#a669493619adceffc7d90cd0ab5ecc410" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="412,155,525,181"/>
+<area shape="rect" id="node3" href="$thread_8h.html#abe39692126640752981104658c67ecdc" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="246,538,350,563"/>
+<area shape="rect" id="node4" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="33,390,156,415"/>
+<area shape="rect" id="node5" href="$synch_8h.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="39,94,150,119"/>
+<area shape="rect" id="node6" href="$alarm-priority_8c.html#a53b172b430d8daeaf8067f086d620415" title=" " alt="" coords="29,193,160,218"/>
+<area shape="rect" id="node7" href="$mlfqs-block_8c.html#a167c6f1bad03f552911dfd10bc4c8f41" title=" " alt="" coords="34,1085,155,1110"/>
+<area shape="rect" id="node8" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="41,637,149,662"/>
+<area shape="rect" id="node9" href="$mlfqs-load-60_8c.html#a6f61ecba11d019e745c87eba5e4a74a3" title=" " alt="" coords="26,341,163,366"/>
+<area shape="rect" id="node10" href="$mlfqs-load-avg_8c.html#abf1ef79ad820ac65df92b26c8f1a351d" title=" " alt="" coords="23,489,166,514"/>
+<area shape="rect" id="node11" href="$priority-change_8c.html#a9743971189eef2f10beeb3b7358f7a59" title=" " alt="" coords="24,291,165,317"/>
+<area shape="rect" id="node12" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="22,686,167,711"/>
+<area shape="rect" id="node13" href="$priority-donate-chain_8c.html#af1fd53d71b908bf20677eb175aad8bdf" title=" " alt="" coords="25,785,164,823"/>
+<area shape="rect" id="node14" href="$priority-donate-lower_8c.html#ab24220b5ecad35ef2cf9e2b05078af50" title=" " alt="" coords="25,847,164,886"/>
+<area shape="rect" id="node15" href="$priority-donate-multiple_8c.html#a2412faccbfee40a597671658f0baf8ee" title=" " alt="" coords="25,959,164,998"/>
+<area shape="rect" id="node16" href="$priority-donate-multiple2_8c.html#af31ed8792a942a8853e5a862a084cd21" title=" " alt="" coords="25,1022,164,1061"/>
+<area shape="rect" id="node17" href="$priority-donate-nest_8c.html#aaca7cce483622d0cc70f6ac334a2aed6" title=" " alt="" coords="9,1134,180,1159"/>
+<area shape="rect" id="node18" href="$priority-donate-one_8c.html#a1c49f5f073f516c9f958be6ea9b89179" title=" " alt="" coords="11,910,179,935"/>
+<area shape="rect" id="node19" href="$priority-donate-sema_8c.html#a7a1a80cc4988dcc442c2dd018e5eb6c8" title=" " alt="" coords="5,439,184,465"/>
+<area shape="rect" id="node20" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="37,587,152,613"/>
+<area shape="rect" id="node21" href="$priority-preempt_8c.html#a503ca590b8aa82846006a684b91d32f2" title=" " alt="" coords="21,735,168,761"/>
+<area shape="rect" id="node22" href="$priority-sema_8c.html#a1da07739ff87a7ef9fb1ff2ffc56c921" title=" " alt="" coords="29,143,160,169"/>
+<area shape="rect" id="node23" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="54,538,136,563"/>
+<area shape="rect" id="node24" href="$thread_8h.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="48,242,141,267"/>
+<area shape="rect" id="node26" href="$thread_8h.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="585,390,682,415"/>
+<area shape="rect" id="node31" href="$thread_8h.html#af6872a0cbd6ec029f08cfe10bce5834e" title="Deschedules the current thread and destroys it." alt="" coords="590,775,677,801"/>
+<area shape="rect" id="node33" href="$thread_8h.html#aaa9229e0f462f60bb9550919fa3d7699" title="Yields the CPU." alt="" coords="587,1209,681,1234"/>
+<area shape="rect" id="node27" href="$thread_8c.html#a6fbc1c29ff118d92ee1449a1072a00ce" title="Idle thread." alt="" coords="74,43,116,69"/>
+<area shape="rect" id="node28" href="$synch_8h.html#a820fd6f74859d4fc6998344c087b4b09" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="422,238,515,263"/>
+<area shape="rect" id="node30" href="$intq_8c.html#ac7faf9c8b94faf0aa76ed2b23659a3e0" title="WAITER must be the address of Q&#39;s not_empty or not_full member." alt="" coords="446,441,491,466"/>
+<area shape="rect" id="node29" href="$synch_8h.html#a8fe0fb31e8bca153ef40eea50217e9ef" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="250,966,346,991"/>
+<area shape="rect" id="node32" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="417,755,520,781"/>
+<area shape="rect" id="node35" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="770,642,862,667"/>
+<area shape="rect" id="node36" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="445,630,492,655"/>
+<area shape="rect" id="node37" href="$synch_8h.html#a10dd887366f0248b69c87dc9344e26e6" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="742,1094,890,1133"/>
+<area shape="rect" id="node38" href="$synch_8h.html#ada1295649dff71b919aabfe17ef4c47a" title="Tries to acquires LOCK and returns true if successful or false on failure." alt="" coords="574,1046,693,1071"/>
+<area shape="rect" id="node39" href="$kernel_2debug_8c.html#a365e894fc9160db88206cb2eda82215f" title="Print call stack of a thread." alt="" coords="759,845,874,870"/>
+<area shape="rect" id="node40" href="$process_8h.html#a23823b283ef2815ecc5ae19e772dac24" title="userprog/process.h" alt="" coords="573,593,694,618"/>
+<area shape="rect" id="node41" href="$process_8h.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="768,743,864,769"/>
+<area shape="rect" id="node42" href="$thread_8h.html#a7425a4395bacbf7d3e50ba10ff42f5b6" title="Returns the current thread&#39;s priority." alt="" coords="232,822,364,847"/>
+<area shape="rect" id="node43" href="$thread_8h.html#ab7d2afd0eace5879ff961b320f7e863b" title="Returns the name of the running thread." alt="" coords="584,339,683,365"/>
+<area shape="rect" id="node44" href="$thread_8h.html#ad09d9575ed0aba7c22e57e88d6ba7e62" title="Sets the current thread&#39;s priority to NEW_PRIORITY." alt="" coords="232,418,364,443"/>
+<area shape="rect" id="node45" href="$thread_8h.html#a99b55ae8059d7834cc113334a3fd0c3c" title="Called by the timer interrupt handler at each timer tick." alt="" coords="773,894,860,919"/>
+<area shape="rect" id="node46" href="$thread_8h.html#ac4557309ef822a88c742c075ecb16a11" title="Returns the running thread&#39;s tid." alt="" coords="776,943,857,969"/>
+<area shape="rect" id="node47" href="$tss_8h.html#a089f0d1278964a0cc36f92d47febd2d4" title="userprog/tss.h" alt="" coords="773,593,860,618"/>
+<area shape="rect" id="node49" href="$synch_8h.html#a6fa6d9aace6254bc14d95fddd0bd4535" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="260,143,336,169"/>
+<area shape="rect" id="node50" href="$intq_8c.html#a9345e011df7272c05780a74adad48225" title="WAITER must be the address of Q&#39;s not_empty or not_full member, and the associated condition must be ..." alt="" coords="270,94,326,119"/>
+</map>

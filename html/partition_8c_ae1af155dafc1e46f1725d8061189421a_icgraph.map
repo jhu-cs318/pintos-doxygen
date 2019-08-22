@@ -1,0 +1,6 @@
+<map id="partition_scan" name="partition_scan">
+<area shape="rect" id="node1" title="Scans BLOCK for partitions of interest to Pintos." alt="" coords="430,5,534,31"/>
+<area shape="rect" id="node2" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="246,5,382,31"/>
+<area shape="rect" id="node3" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="135,5,198,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

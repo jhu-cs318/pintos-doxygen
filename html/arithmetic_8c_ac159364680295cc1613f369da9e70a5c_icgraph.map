@@ -1,0 +1,6 @@
+<map id="sdiv64" name="sdiv64">
+<area shape="rect" id="node1" title="Divides signed 64&#45;bit N by signed 64&#45;bit D and returns the quotient." alt="" coords="252,31,312,56"/>
+<area shape="rect" id="node2" href="$arithmetic_8c.html#afe38347297a71c6b20ed5b4e5af2a58f" title="These are the routines that GCC calls." alt="" coords="133,5,204,31"/>
+<area shape="rect" id="node3" href="$arithmetic_8c.html#ad1412a30b27451a18b00e07b4a1d422a" title="Divides signed 64&#45;bit N by signed 64&#45;bit D and returns the remainder." alt="" coords="134,55,203,80"/>
+<area shape="rect" id="node4" href="$arithmetic_8c.html#a5e4468d125f1ce0bae0a8e70e9a24328" title="Signed 64&#45;bit remainder." alt="" coords="5,55,85,80"/>
+</map>

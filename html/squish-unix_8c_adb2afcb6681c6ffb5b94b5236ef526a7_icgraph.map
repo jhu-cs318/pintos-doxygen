@@ -1,0 +1,8 @@
+<map id="fail_io" name="fail_io">
+<area shape="rect" id="node1" title="Prints MSG, formatting as with printf(), plus an error message based on errno, and exits." alt="" coords="382,84,438,110"/>
+<area shape="rect" id="node2" href="$squish-unix_8c.html#a52d537a6832e2f129e0acf48eca1254e" title="Handle a read or write on *FD, which is the socket if FD_IS_SOCK is true, that returned end&#45;of&#45;file o..." alt="" coords="220,84,317,110"/>
+<area shape="rect" id="node3" href="$squish-unix_8c.html#abb67c86fbcd2791aaa7ae3004f414542" title="Copies data from stdin to SOCK and from SOCK to stdout until no more data can be read or written." alt="" coords="104,83,154,108"/>
+<area shape="rect" id="node4" href="$squish-unix_8c.html#aad96cfd5b985d826fb68b8b343e5a0c8" title=" " alt="" coords="5,134,56,159"/>
+<area shape="rect" id="node5" href="$squish-unix_8c.html#affc068d8a12b6a8f314c54afd607d26f" title="Make FD non&#45;blocking if NONBLOCKING is true, or blocking if NONBLOCKING is false." alt="" coords="202,134,334,159"/>
+<area shape="rect" id="node6" href="$squish-unix_8c.html#a9c6840d01c1eb569b40c50c3c915e010" title="If FD is a terminal, configures it for noncanonical input mode with VMIN and VTIME set as indicated." alt="" coords="208,35,328,60"/>
+</map>

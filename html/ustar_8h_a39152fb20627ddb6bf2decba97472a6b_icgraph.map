@@ -1,0 +1,6 @@
+<map id="ustar_parse_header" name="ustar_parse_header">
+<area shape="rect" id="node1" title="lib/ustar.h" alt="" coords="417,5,558,31"/>
+<area shape="rect" id="node2" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="273,5,369,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,5,225,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

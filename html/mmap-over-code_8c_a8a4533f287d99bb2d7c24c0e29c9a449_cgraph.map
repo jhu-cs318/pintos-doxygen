@@ -1,0 +1,5 @@
+<map id="test_main" name="test_main">
+<area shape="rect" id="node1" title="Verifies that mapping over the code segment is disallowed." alt="" coords="5,31,84,56"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a2a42e84b23be59486aa2d8fc45e09fd2" title="Project 3 and optionally project 4." alt="" coords="132,5,191,31"/>
+<area shape="rect" id="node3" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="136,55,187,80"/>
+</map>

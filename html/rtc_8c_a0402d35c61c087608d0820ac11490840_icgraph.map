@@ -1,0 +1,6 @@
+<map id="bcd_to_bin" name="bcd_to_bin">
+<area shape="rect" id="node1" title="Returns the integer value of the given BCD byte." alt="" coords="431,5,517,31"/>
+<area shape="rect" id="node2" href="$rtc_8h.html#a651ca69a3f0a7511a211e647f75531b3" title="Returns number of seconds since Unix epoch of January 1,." alt="" coords="288,5,383,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="135,5,240,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

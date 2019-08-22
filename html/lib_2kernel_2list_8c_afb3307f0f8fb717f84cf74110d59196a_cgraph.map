@@ -1,0 +1,5 @@
+<map id="list_next" name="list_next">
+<area shape="rect" id="node1" title="Returns the element after ELEM in its list." alt="" coords="5,31,76,56"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="129,5,197,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="124,55,203,80"/>
+</map>

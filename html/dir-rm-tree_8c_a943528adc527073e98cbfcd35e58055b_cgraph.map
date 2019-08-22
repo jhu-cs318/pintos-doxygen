@@ -1,0 +1,18 @@
+<map id="remove_tree" name="remove_tree">
+<area shape="rect" id="node1" title="Creates directories /0/0/0 through /3/2/2 and files in the leaf directories, then removes them." alt="" coords="5,81,102,107"/>
+<area shape="rect" id="node2" href="$dir-rm-tree_8c.html#a3a922ebd360cf149198b1b741f895b86" title=" " alt="" coords="150,7,238,32"/>
+<area shape="rect" id="node14" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="170,56,217,81"/>
+<area shape="rect" id="node15" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="168,105,219,131"/>
+<area shape="rect" id="node16" href="$lib_2stdio_8c.html#a913035b9a30cd1b34c5e587dfbf26f92" title="Like printf(), except that output is stored into BUFFER, which must have space for BUF_SIZE character..." alt="" coords="161,155,226,180"/>
+<area shape="rect" id="node3" href="$lib_2user_2syscall_8c.html#a7a5f4b007384216b3290a57447198e93" title=" " alt="" coords="289,7,354,32"/>
+<area shape="rect" id="node4" href="$lib_2stdio_8c.html#a1286c6b071007938f54e9b859109f89d" title="Like vprintf(), except that output is stored into BUFFER, which must have space for BUF_SIZE characte..." alt="" coords="286,105,357,131"/>
+<area shape="rect" id="node5" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="427,80,500,105"/>
+<area shape="rect" id="node13" href="$lib_2stdio_8c.html#acdff2b19969329b7777564346ac98c5d" title="Helper function for vsnprintf()." alt="" coords="405,129,521,155"/>
+<area shape="rect" id="node6" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="600,5,666,31"/>
+<area shape="rect" id="node7" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="579,55,686,80"/>
+<area shape="rect" id="node9" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="583,104,682,129"/>
+<area shape="rect" id="node10" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="569,153,696,179"/>
+<area shape="rect" id="node12" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="602,203,663,228"/>
+<area shape="rect" id="node8" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="744,80,832,105"/>
+<area shape="rect" id="node11" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="760,153,816,179"/>
+</map>

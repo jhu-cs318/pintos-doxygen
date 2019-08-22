@@ -1,0 +1,4 @@
+<map id="sema_try_down" name="sema_try_down">
+<area shape="rect" id="node1" title="Down or &quot;P&quot; operation on a semaphore, but only if the semaphore is not already 0." alt="" coords="172,5,287,31"/>
+<area shape="rect" id="node2" href="$synch_8h.html#ada1295649dff71b919aabfe17ef4c47a" title="Tries to acquires LOCK and returns true if successful or false on failure." alt="" coords="5,5,124,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="consume_some_resources_and_die" name="consume_some_resources_and_die">
+<area shape="rect" id="node1" title="Consume some resources, then terminate this process in some abnormal way." alt="" coords="5,100,187,139"/>
+<area shape="rect" id="node2" href="$multi-oom_8c.html#a06c4f851623db81c09bf7c06c67825d5" title="Open a number of files (and fail to close them)." alt="" coords="235,5,416,31"/>
+<area shape="rect" id="node3" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="492,31,543,56"/>
+<area shape="rect" id="node4" href="$lib_2user_2syscall_8c.html#a55e99c539cf7723ec15e856b7e0a8cee" title=" " alt="" coords="304,107,346,132"/>
+<area shape="rect" id="node5" href="$random_8c.html#af2a054338d7e0424f8cf6363610cd21b" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="618,157,709,183"/>
+<area shape="rect" id="node7" href="$random_8c.html#a17f74993b2b5314bf3479f2b47090991" title="Returns a pseudo&#45;random unsigned long." alt="" coords="272,208,379,233"/>
+<area shape="rect" id="node6" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="757,183,842,208"/>
+<area shape="rect" id="node8" href="$random_8c.html#a9273f69f7fecbc77cca0204baaaf175a" title="Writes SIZE random bytes into BUF." alt="" coords="464,208,570,233"/>
+</map>

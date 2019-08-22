@@ -1,0 +1,4 @@
+<map id="output_sector" name="output_sector">
+<area shape="rect" id="node1" title="Writes SECTOR to channel C&#39;s data register in PIO mode." alt="" coords="5,5,107,31"/>
+<area shape="rect" id="node2" href="$io_8h.html#a15c5b7146a500280afa7fc8dded78b49" title="Writes to PORT each 16&#45;bit unit (halfword) of data in the CNT&#45;halfword buffer starting at ADDR." alt="" coords="155,5,212,31"/>
+</map>

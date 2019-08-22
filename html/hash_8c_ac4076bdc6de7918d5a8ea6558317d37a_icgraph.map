@@ -1,0 +1,7 @@
+<map id="find_elem" name="find_elem">
+<area shape="rect" id="node1" title="Searches BUCKET in H for a hash element equal to E." alt="" coords="155,80,234,105"/>
+<area shape="rect" id="node2" href="$hash_8h.html#a115c755110e0f60af22bfa0b30f75124" title="Finds, removes, and returns an element equal to E in hash table H." alt="" coords="9,5,103,31"/>
+<area shape="rect" id="node3" href="$hash_8h.html#a6a0742fb30bb0b2b1c9b5b732f1a4ece" title="Finds and returns an element equal to E in hash table H, or a null pointer if no equal element exists..." alt="" coords="16,55,96,80"/>
+<area shape="rect" id="node4" href="$hash_8h.html#a90d52755347d2e5fc46bd251b3d9df4c" title="Search, insertion, deletion." alt="" coords="11,104,101,129"/>
+<area shape="rect" id="node5" href="$hash_8h.html#ab42b8e8630e0998fd9f1b97ba4dad440" title="Inserts NEW into hash table H, replacing any equal element already in the table, which is returned." alt="" coords="5,153,107,179"/>
+</map>

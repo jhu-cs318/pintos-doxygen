@@ -1,0 +1,4 @@
+<map id="inode_deny_write" name="inode_deny_write">
+<area shape="rect" id="node1" title="Disables writes to INODE." alt="" coords="164,5,289,31"/>
+<area shape="rect" id="node2" href="$file_8h.html#ab5b8481ed54da3aa06ba214e827b8483" title="Preventing writes." alt="" coords="5,5,116,31"/>
+</map>

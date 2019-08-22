@@ -1,0 +1,52 @@
+<map id="pg_round_down" name="pg_round_down">
+<area shape="rect" id="node1" title="Round down to nearest page boundary." alt="" coords="1976,1145,2093,1171"/>
+<area shape="rect" id="node2" href="$malloc_8c.html#a5db3c69e2b5fc7fb13fa1f663df2bf03" title="Returns the arena that block B is inside." alt="" coords="645,620,758,645"/>
+<area shape="rect" id="node31" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="1817,1461,1928,1487"/>
+<area shape="rect" id="node3" href="$malloc_8c.html#a5c458831ba323df0b0a8aae95cf614bd" title="Returns the number of bytes allocated for BLOCK." alt="" coords="514,487,597,512"/>
+<area shape="rect" id="node6" href="$malloc_8h.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="threads/malloc.h" alt="" coords="533,536,577,561"/>
+<area shape="rect" id="node24" href="$malloc_8h.html#a8c1f926a188baad8ec94b5de439379c8" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="525,933,585,959"/>
+<area shape="rect" id="node4" href="$malloc_8h.html#a1be0594bb47cfcf2e4616c3baa3b9e13" title="Initializes the malloc() descriptors." alt="" coords="366,5,450,31"/>
+<area shape="rect" id="node5" href="$malloc_8h.html#afa148085b6fa9594b4c35e100d94a183" title="Attempts to resize OLD_BLOCK to NEW_SIZE bytes, possibly moving it in the process." alt="" coords="377,612,438,637"/>
+<area shape="rect" id="node7" href="$bitmap_8h.html#a8cf39272ab5d44e368dc21a166e3a236" title="Bitmap abstract data type." alt="" coords="355,809,461,835"/>
+<area shape="rect" id="node8" href="$bitmap_8h.html#a408b7516cc90e607cda3038009e1550d" title="Destroys bitmap B, freeing its storage." alt="" coords="352,107,464,132"/>
+<area shape="rect" id="node9" href="$directory_8h.html#a972c4f1aef505b8bf976063d2229676a" title="Destroys DIR and frees associated resources." alt="" coords="210,283,285,308"/>
+<area shape="rect" id="node10" href="$directory_8h.html#a5b00e2da83ce54480d49a91405cb625c" title="Opens and returns the directory for the given INODE, of which it takes ownership." alt="" coords="211,460,284,485"/>
+<area shape="rect" id="node11" href="$file_8h.html#a11e71f5d8bdfe65c54a1ae9b83c5d67a" title="Closes FILE." alt="" coords="209,409,286,435"/>
+<area shape="rect" id="node12" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="25,385,125,411"/>
+<area shape="rect" id="node13" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="27,435,123,460"/>
+<area shape="rect" id="node15" href="$file_8h.html#a47788113ec3770733f6cc63f00cc5bb3" title="Opening and closing files." alt="" coords="210,359,285,384"/>
+<area shape="rect" id="node16" href="$hash_8h.html#a55e281aba358527422ae72c3f5910971" title="Destroys hash table H." alt="" coords="357,156,458,181"/>
+<area shape="rect" id="node17" href="$inode_8h.html#a17768b42e21fcfe0e84cfc3532f297d9" title="Closes INODE and writes it to disk." alt="" coords="362,359,454,384"/>
+<area shape="rect" id="node18" href="$inode_8h.html#a4445b24665d139b5f387bbc6428c9f81" title="Initializes an inode with LENGTH bytes of data and writes the new inode to sector SECTOR on the file ..." alt="" coords="198,735,297,760"/>
+<area shape="rect" id="node19" href="$inode_8h.html#aeb6be4a6658d5e2746fb704da3d929aa" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="355,661,461,687"/>
+<area shape="rect" id="node20" href="$inode_8h.html#ad6ee4ad6d1d9ecedb64ec631546f6a9e" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="354,711,462,736"/>
+<area shape="rect" id="node21" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="5,1160,145,1185"/>
+<area shape="rect" id="node22" href="$hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0" title="Changes the number of buckets in hash table H to match the ideal." alt="" coords="377,760,439,785"/>
+<area shape="rect" id="node23" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="367,859,449,884"/>
+<area shape="rect" id="node14" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="52,1361,98,1387"/>
+<area shape="rect" id="node25" href="$block_8h.html#ab23e50178419646d6627f02eaaf76b4c" title="devices/block.h" alt="" coords="356,1261,460,1287"/>
+<area shape="rect" id="node26" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="193,1211,302,1236"/>
+<area shape="rect" id="node27" href="$malloc_8h.html#a5e2c81a62eb095b4e07604260eebea77" title="Allocates and return A times B bytes initialized to zeroes." alt="" coords="380,908,436,933"/>
+<area shape="rect" id="node28" href="$hash_8h.html#a814d3cdfd3e96d126b66ac892d28ba8b" title="Basic life cycle." alt="" coords="370,1060,445,1085"/>
+<area shape="rect" id="node29" href="$inode_8h.html#ab09e048387b074433767ae90e888d774" title="Reads an inode from SECTOR and returns a ‘struct inode’ that contains it." alt="" coords="362,1109,453,1135"/>
+<area shape="rect" id="node30" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="350,1311,466,1336"/>
+<area shape="rect" id="node32" href="$thread_8c.html#a63e3ec45b7bf0028e55f2b9ab1603306" title="Schedules a new process." alt="" coords="1121,1561,1196,1587"/>
+<area shape="rect" id="node39" href="$thread_8h.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="1661,1285,1769,1311"/>
+<area shape="rect" id="node45" href="$thread_8c.html#acbbd25908c41e62d44a179cfbc3962e2" title="Completes a thread switch by activating the new thread&#39;s page tables, and, if the previous thread is ..." alt="" coords="1272,1561,1417,1587"/>
+<area shape="rect" id="node33" href="$thread_8h.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="947,1260,1045,1285"/>
+<area shape="rect" id="node37" href="$thread_8h.html#af6872a0cbd6ec029f08cfe10bce5834e" title="Deschedules the current thread and destroys it." alt="" coords="952,1511,1039,1536"/>
+<area shape="rect" id="node38" href="$thread_8h.html#aaa9229e0f462f60bb9550919fa3d7699" title="Yields the CPU." alt="" coords="949,1587,1043,1612"/>
+<area shape="rect" id="node34" href="$thread_8c.html#a6fbc1c29ff118d92ee1449a1072a00ce" title="Idle thread." alt="" coords="831,1285,873,1311"/>
+<area shape="rect" id="node35" href="$synch_8h.html#a820fd6f74859d4fc6998344c087b4b09" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="806,1159,899,1184"/>
+<area shape="rect" id="node36" href="$synch_8h.html#a8fe0fb31e8bca153ef40eea50217e9ef" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="653,933,749,959"/>
+<area shape="rect" id="node40" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="1492,1461,1585,1487"/>
+<area shape="rect" id="node41" href="$synch_8h.html#a10dd887366f0248b69c87dc9344e26e6" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="1465,1044,1613,1083"/>
+<area shape="rect" id="node42" href="$synch_8h.html#ada1295649dff71b919aabfe17ef4c47a" title="Tries to acquires LOCK and returns true if successful or false on failure." alt="" coords="1285,1103,1404,1128"/>
+<area shape="rect" id="node43" href="$kernel_2debug_8c.html#a365e894fc9160db88206cb2eda82215f" title="Print call stack of a thread." alt="" coords="1481,1511,1596,1536"/>
+<area shape="rect" id="node44" href="$process_8h.html#a23823b283ef2815ecc5ae19e772dac24" title="userprog/process.h" alt="" coords="1478,1412,1599,1437"/>
+<area shape="rect" id="node46" href="$process_8h.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="1110,1511,1207,1536"/>
+<area shape="rect" id="node47" href="$thread_8h.html#a7425a4395bacbf7d3e50ba10ff42f5b6" title="Returns the current thread&#39;s priority." alt="" coords="1278,996,1411,1021"/>
+<area shape="rect" id="node48" href="$thread_8h.html#ab7d2afd0eace5879ff961b320f7e863b" title="Returns the name of the running thread." alt="" coords="1489,893,1589,919"/>
+<area shape="rect" id="node49" href="$thread_8h.html#ad09d9575ed0aba7c22e57e88d6ba7e62" title="Sets the current thread&#39;s priority to NEW_PRIORITY." alt="" coords="1093,1209,1224,1235"/>
+<area shape="rect" id="node50" href="$thread_8h.html#a99b55ae8059d7834cc113334a3fd0c3c" title="Called by the timer interrupt handler at each timer tick." alt="" coords="1495,943,1582,968"/>
+</map>

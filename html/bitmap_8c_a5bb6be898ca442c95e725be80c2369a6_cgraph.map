@@ -1,0 +1,5 @@
+<map id="bitmap_reset" name="bitmap_reset">
+<area shape="rect" id="node1" title="Atomically sets the bit numbered BIT_IDX in B to false." alt="" coords="5,31,104,56"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#acc12f810fdb7b50a620c3852c3656d63" title="Returns an elem_type where only the bit corresponding to BIT_IDX is turned on." alt="" coords="152,5,226,31"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#abb94f95006e0ec6ff6b5c88262f28d74" title="Returns the index of the element that contains the bit numbered BIT_IDX." alt="" coords="152,55,226,80"/>
+</map>

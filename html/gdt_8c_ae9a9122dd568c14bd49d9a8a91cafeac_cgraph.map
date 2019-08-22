@@ -1,0 +1,4 @@
+<map id="make_code_desc" name="make_code_desc">
+<area shape="rect" id="node1" title="GDT helpers." alt="" coords="5,5,131,31"/>
+<area shape="rect" id="node2" href="$gdt_8c.html#a3c91913924f5aebd18e709f6120c071f" title="Returns a segment descriptor with the given 32&#45;bit BASE and 20&#45;bit LIMIT (whose interpretation depend..." alt="" coords="179,5,298,31"/>
+</map>

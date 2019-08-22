@@ -1,0 +1,4 @@
+<map id="strspn" name="strspn">
+<area shape="rect" id="node1" title="Returns the length of the initial substring of STRING that consists of characters in SKIP." alt="" coords="5,5,63,31"/>
+<area shape="rect" id="node2" href="$string_8c.html#a7dc39cb18df6441ab248648041ad4f9d" title="Finds and returns the first occurrence of C in STRING, or a null pointer if C does not appear in STRI..." alt="" coords="111,5,166,31"/>
+</map>

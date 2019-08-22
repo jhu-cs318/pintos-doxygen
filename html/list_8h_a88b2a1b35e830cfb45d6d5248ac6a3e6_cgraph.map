@@ -1,0 +1,4 @@
+<map id="list_remove" name="list_remove">
+<area shape="rect" id="node1" title="List removal." alt="" coords="5,5,95,31"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="143,5,222,31"/>
+</map>

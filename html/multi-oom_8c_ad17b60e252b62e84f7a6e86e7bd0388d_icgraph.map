@@ -1,0 +1,4 @@
+<map id="spawn_child" name="spawn_child">
+<area shape="rect" id="node1" title="Spawn a recursive copy of ourselves, passing along instructions for the child." alt="" coords="104,5,198,31"/>
+<area shape="rect" id="node2" href="$multi-oom_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="The first copy is invoked without command line arguments." alt="" coords="5,5,56,31"/>
+</map>

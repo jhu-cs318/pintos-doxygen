@@ -1,0 +1,5 @@
+<map id="shutdown_configure" name="shutdown_configure">
+<area shape="rect" id="node1" title="Sets TYPE as the way that machine will shut down when Pintos execution is complete." alt="" coords="288,5,428,31"/>
+<area shape="rect" id="node2" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="135,5,240,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

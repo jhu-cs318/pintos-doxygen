@@ -1,0 +1,12 @@
+<map id="free_map_allocate" name="free_map_allocate">
+<area shape="rect" id="node1" title="Allocates CNT consecutive sectors from the free map and stores the first into *SECTORP." alt="" coords="734,31,865,56"/>
+<area shape="rect" id="node2" href="$filesys_8h.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="427,5,530,31"/>
+<area shape="rect" id="node6" href="$inode_8h.html#a4445b24665d139b5f387bbc6428c9f81" title="Initializes an inode with LENGTH bytes of data and writes the new inode to sector SECTOR on the file ..." alt="" coords="587,56,686,81"/>
+<area shape="rect" id="node3" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="273,5,369,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,5,225,31"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,31,87,56"/>
+<area shape="rect" id="node7" href="$directory_8h.html#ab3951213f266ce0e0404203a35fefe8f" title="Opening and closing directories." alt="" coords="438,55,519,80"/>
+<area shape="rect" id="node10" href="$free-map_8h.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="417,104,539,129"/>
+<area shape="rect" id="node8" href="$filesys_8c.html#a2710836971ed586925cb1c55850bf955" title="Formats the file system." alt="" coords="280,55,362,80"/>
+<area shape="rect" id="node9" href="$filesys_8h.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="138,55,221,80"/>
+</map>

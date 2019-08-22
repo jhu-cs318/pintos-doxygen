@@ -1,0 +1,10 @@
+<map id="next_thread_to_run" name="next_thread_to_run">
+<area shape="rect" id="node1" title="Chooses and returns the next thread to be scheduled." alt="" coords="5,31,142,56"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="477,31,559,56"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#afb61f0ab134a52505ed89bc2d1024165" title="Removes the front element from LIST and returns it." alt="" coords="190,56,292,81"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="607,5,684,31"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="612,55,679,80"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#a9b0ec9912b9a1a4d95b47984e0777e66" title="Returns the front element in LIST." alt="" coords="349,56,420,81"/>
+<area shape="rect" id="node7" href="$lib_2kernel_2list_8c.html#a9574755a392b556ddb650b8672f9f4af" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="340,105,429,131"/>
+<area shape="rect" id="node8" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="478,105,557,131"/>
+</map>

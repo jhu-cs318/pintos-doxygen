@@ -1,0 +1,5 @@
+<map id="compare_ints" name="compare_ints">
+<area shape="rect" id="node1" title="Returns 1 if *A is greater than *B, 0 if *A equals *B, &#45;1 if *A is less than *B." alt="" coords="161,31,263,56"/>
+<area shape="rect" id="node2" href="$tests_2internal_2stdlib_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f" title="Test sorting and searching implementations." alt="" coords="38,5,81,31"/>
+<area shape="rect" id="node3" href="$tests_2internal_2stdlib_8c.html#a7db76728639770e54b0326c534f6d5f5" title="Checks that bsearch() works properly in ARRAY." alt="" coords="5,55,113,80"/>
+</map>

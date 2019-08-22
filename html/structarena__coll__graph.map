@@ -1,0 +1,9 @@
+<map id="arena" name="arena">
+<area shape="rect" id="node1" title="Arena." alt="" coords="5,465,61,491"/>
+<area shape="rect" id="node2" href="$structdesc.html" title="A simple implementation of malloc()." alt="" coords="8,379,58,404"/>
+<area shape="rect" id="node3" href="$structlock.html" title="Lock." alt="" coords="71,292,116,317"/>
+<area shape="rect" id="node4" href="$structsemaphore.html" title="A counting semaphore." alt="" coords="49,205,137,231"/>
+<area shape="rect" id="node5" href="$structlist.html" title="List." alt="" coords="74,107,112,132"/>
+<area shape="rect" id="node6" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="97,6,171,31"/>
+<area shape="rect" id="node7" href="$structthread.html" title="A kernel thread or user process." alt="" coords="150,156,209,181"/>
+</map>

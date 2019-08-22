@@ -1,0 +1,6 @@
+<map id="validate_segment" name="validate_segment">
+<area shape="rect" id="node1" title="Checks whether PHDR describes a valid, loadable segment in FILE and returns true if so,..." alt="" coords="5,31,131,56"/>
+<area shape="rect" id="node2" href="$file_8c.html#a8866ac568cc804793c456ccb4af71957" title="Returns the size of FILE in bytes." alt="" coords="191,5,273,31"/>
+<area shape="rect" id="node4" href="$vaddr_8h.html#a702cb4149b88a734c4a30bdfaeeb10d0" title="Returns true if VADDR is a user virtual address." alt="" coords="179,55,284,80"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a67214eb44fb24ef254fca76f9a63fd6d" title="Returns the length, in bytes, of INODE&#39;s data." alt="" coords="332,5,430,31"/>
+</map>

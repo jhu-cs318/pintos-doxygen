@@ -1,0 +1,7 @@
+<map id="list_reverse" name="list_reverse">
+<area shape="rect" id="node1" title="Reverses the order of LIST." alt="" coords="5,55,95,80"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="272,5,350,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="143,29,224,55"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="277,55,345,80"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#ad5a00670825f77ff3d549317b0cdd343" title="Swaps the `struct list_elem *&#39;s that A and B point to." alt="" coords="157,131,210,156"/>
+</map>

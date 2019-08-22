@@ -1,0 +1,7 @@
+<map id="list_push_front" name="list_push_front">
+<area shape="rect" id="node1" title="Inserts ELEM at the beginning of LIST, so that it becomes the front in LIST." alt="" coords="5,31,113,56"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="161,5,239,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="161,55,239,80"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="287,29,366,55"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="299,79,354,104"/>
+</map>

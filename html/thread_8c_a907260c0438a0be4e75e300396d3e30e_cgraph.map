@@ -1,0 +1,4 @@
+<map id="alloc_frame" name="alloc_frame">
+<area shape="rect" id="node1" title="Allocates a SIZE&#45;byte frame at the top of thread T&#39;s stack and returns a pointer to the frame&#39;s base." alt="" coords="5,5,96,31"/>
+<area shape="rect" id="node2" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="144,5,220,31"/>
+</map>

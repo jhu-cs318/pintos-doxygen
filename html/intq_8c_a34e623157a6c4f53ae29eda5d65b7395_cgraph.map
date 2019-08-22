@@ -1,0 +1,4 @@
+<map id="intq_empty" name="intq_empty">
+<area shape="rect" id="node1" title="Returns true if Q is empty, false otherwise." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="140,5,241,31"/>
+</map>

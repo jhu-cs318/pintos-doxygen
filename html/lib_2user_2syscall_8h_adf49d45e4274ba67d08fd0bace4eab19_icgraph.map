@@ -1,0 +1,52 @@
+<map id="write" name="write">
+<area shape="rect" id="node1" title=" " alt="" coords="967,465,1016,491"/>
+<area shape="rect" id="node2" href="$tar_8c.html#aed54c3c43e1f39c75bd51bf2b7107c6b" title=" " alt="" coords="826,81,897,107"/>
+<area shape="rect" id="node9" href="$user_2console_8c.html#a548c59d90bd536a99704a52a16695bdd" title="Flushes the buffer in AUX." alt="" coords="837,193,886,219"/>
+<area shape="rect" id="node14" href="$cat_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="cat.c" alt="" coords="836,243,887,268"/>
+<area shape="rect" id="node15" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="820,292,903,317"/>
+<area shape="rect" id="node18" href="$user_2console_8c.html#af4de2514b7778805db3815e8dd6cf09a" title="Writes C to the console." alt="" coords="829,341,894,367"/>
+<area shape="rect" id="node19" href="$user_2console_8c.html#ad41876f99f190c7488e64ef39c50a23f" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="838,391,885,416"/>
+<area shape="rect" id="node20" href="$squish-pty_8c.html#a85b966702ccfe9626963ca230aa75c74" title="Copies data from stdin to PTY and from PTY to stdout until no more data can be read or written." alt="" coords="836,440,887,465"/>
+<area shape="rect" id="node22" href="$seq-test_8h.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="494,752,566,777"/>
+<area shape="rect" id="node24" href="$squish-pty_8c.html#a8314751b1a39e4c68eb4906d1b60efbc" title=" " alt="" coords="804,489,919,515"/>
+<area shape="rect" id="node25" href="$page-merge-seq_8c.html#a44e97d47c126cfbe7372e4b0269720b4" title="Sort each chunk of buf1 using a subprocess." alt="" coords="484,256,577,281"/>
+<area shape="rect" id="node27" href="$main_8h.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="491,1100,570,1125"/>
+<area shape="rect" id="node29" href="$child-rox_8c.html#a65e0c8d79afbd8a3cc20901d01540b94" title=" " alt="" coords="826,980,897,1005"/>
+<area shape="rect" id="node31" href="$lib_8c.html#a3844191cdd54f12ebfa3eee6d1a79ea1" title=" " alt="" coords="835,591,888,616"/>
+<area shape="rect" id="node43" href="$grow-two-files_8c.html#afae26c760b28a632091df7565c0e8224" title=" " alt="" coords="466,1199,595,1224"/>
+<area shape="rect" id="node3" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="458,56,602,81"/>
+<area shape="rect" id="node6" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="104,105,231,131"/>
+<area shape="rect" id="node8" href="$tar_8c.html#aeae922065d4290e3c877a5f3a5d7a824" title=" " alt="" coords="655,5,754,31"/>
+<area shape="rect" id="node4" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="299,56,387,81"/>
+<area shape="rect" id="node5" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="106,56,229,81"/>
+<area shape="rect" id="node7" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,105,56,131"/>
+<area shape="rect" id="node10" href="$user_2console_8c.html#a71d27fbc5040cb36319754d7d979844b" title="Adds C to the buffer in AUX, flushing it if the buffer fills up." alt="" coords="666,208,743,233"/>
+<area shape="rect" id="node11" href="$user_2console_8c.html#a2b26fd6b1bafd97fd9124b367d13b0eb" title="Formats the printf() format specification FORMAT with arguments given in ARGS and writes the output t..." alt="" coords="498,157,563,183"/>
+<area shape="rect" id="node12" href="$user_2console_8c.html#a828ed4e0b6136b8f46203ba574b24b79" title="Like printf(), but writes output to the given HANDLE." alt="" coords="314,157,372,183"/>
+<area shape="rect" id="node13" href="$user_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="314,207,372,232"/>
+<area shape="rect" id="node16" href="$exception_8h.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="653,269,756,295"/>
+<area shape="rect" id="node17" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="489,207,571,232"/>
+<area shape="rect" id="node21" href="$squish-pty_8c.html#aad96cfd5b985d826fb68b8b343e5a0c8" title=" " alt="" coords="680,464,730,489"/>
+<area shape="rect" id="node23" href="$grow-file-size_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="303,803,382,828"/>
+<area shape="rect" id="node26" href="$page-merge-seq_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="303,404,382,429"/>
+<area shape="rect" id="node28" href="$main_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="318,1100,368,1125"/>
+<area shape="rect" id="node30" href="$child-rox_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="680,980,730,1005"/>
+<area shape="rect" id="node32" href="$tests_8h.html#a47453df4bfab5b8b7ff498ea36154226" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="685,828,724,853"/>
+<area shape="rect" id="node45" href="$tests_8h.html#a897915958f300dcca8d0f76789877cc8" title="Prints FORMAT as if with printf(), prefixing the output by the name of the test and following it with..." alt="" coords="681,591,728,616"/>
+<area shape="rect" id="node33" href="$lib_8h.html#aa0ad2e95360b59ee24361677637ed609" title=" " alt="" coords="279,703,407,728"/>
+<area shape="rect" id="node34" href="$grow-file-size_8c.html#a8ef3ec43d5a575abeb3e19e261c37f02" title=" " alt="" coords="474,853,586,879"/>
+<area shape="rect" id="node35" href="$grow-tell_8c.html#a8113b0e9d1d10d5d3a5c68816bd11168" title=" " alt="" coords="490,1149,570,1175"/>
+<area shape="rect" id="node36" href="$lib_8h.html#ac94713acaefd6e6a5235920b67add456" title="test/lib.h" alt="" coords="474,703,586,728"/>
+<area shape="rect" id="node37" href="$child-close_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="505,903,555,928"/>
+<area shape="rect" id="node38" href="$tests_2userprog_2halt_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Tests the halt system call." alt="" coords="491,952,570,977"/>
+<area shape="rect" id="node39" href="$mlfqs-load-1_8c.html#a4c5f62aa39a429a8ae1ef32f9fc9238d" title="Verifies that a single busy thread raises the load average to 0.5 in 38 to 45 seconds." alt="" coords="465,653,595,679"/>
+<area shape="rect" id="node40" href="$alarm-wait_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="489,1001,571,1027"/>
+<area shape="rect" id="node41" href="$page-merge-seq_8c.html#a918b046cec37d7261c86402686859e9a" title=" " alt="" coords="504,552,557,577"/>
+<area shape="rect" id="node42" href="$dir-rm-cwd_8c.html#a91408b163987dab888f237df2213e7e9" title="Tries to remove the current directory, which may succeed or fail." alt="" coords="486,1051,574,1076"/>
+<area shape="rect" id="node44" href="$grow-two-files_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="303,1199,382,1224"/>
+<area shape="rect" id="node46" href="$priority-donate-multiple_8c.html#a56379b758fb21b5a67de1a87d2a74672" title=" " alt="" coords="477,503,583,528"/>
+<area shape="rect" id="node47" href="$priority-donate-one_8c.html#adbcd765439b4d960f0db9ba4a47d421f" title=" " alt="" coords="455,305,605,331"/>
+<area shape="rect" id="node48" href="$priority-donate-one_8c.html#aae18eed8351e7789ef848517a96284a5" title=" " alt="" coords="455,355,605,380"/>
+<area shape="rect" id="node49" href="$priority-donate-lower_8c.html#ab955dabdbbfc7a7a188317e70b95ef04" title=" " alt="" coords="459,404,602,429"/>
+<area shape="rect" id="node50" href="$alarm-priority_8c.html#a3a8636bb8f03b8450f18ef9dbd774a0c" title=" " alt="" coords="456,453,604,479"/>
+</map>

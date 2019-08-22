@@ -1,0 +1,4 @@
+<map id="consume_some_resources_and_die" name="consume_some_resources_and_die">
+<area shape="rect" id="node1" title="Consume some resources, then terminate this process in some abnormal way." alt="" coords="104,5,285,44"/>
+<area shape="rect" id="node2" href="$multi-oom_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="The first copy is invoked without command line arguments." alt="" coords="5,12,56,37"/>
+</map>

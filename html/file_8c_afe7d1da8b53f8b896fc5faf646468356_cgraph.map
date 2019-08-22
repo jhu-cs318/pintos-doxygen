@@ -1,0 +1,4 @@
+<map id="file_allow_write" name="file_allow_write">
+<area shape="rect" id="node1" title="Re&#45;enables write operations on FILE&#39;s underlying inode." alt="" coords="5,5,117,31"/>
+<area shape="rect" id="node2" href="$inode_8c.html#af980635032a3d7215e955e3aa0e1c902" title="Re&#45;enables writes to INODE." alt="" coords="165,5,292,31"/>
+</map>

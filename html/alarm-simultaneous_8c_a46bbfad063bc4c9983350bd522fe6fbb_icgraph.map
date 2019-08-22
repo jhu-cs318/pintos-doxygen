@@ -1,0 +1,4 @@
+<map id="test_sleep" name="test_sleep">
+<area shape="rect" id="node1" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="223,5,305,31"/>
+<area shape="rect" id="node2" href="$alarm-simultaneous_8c.html#a5698afabc93027243b0713bc254c60bd" title=" " alt="" coords="5,5,175,31"/>
+</map>

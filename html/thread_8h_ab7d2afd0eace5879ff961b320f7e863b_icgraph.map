@@ -1,0 +1,14 @@
+<map id="thread_name" name="thread_name">
+<area shape="rect" id="node1" title="Returns the name of the running thread." alt="" coords="627,179,727,204"/>
+<area shape="rect" id="node2" href="$alarm-priority_8c.html#a3a8636bb8f03b8450f18ef9dbd774a0c" title=" " alt="" coords="424,5,572,31"/>
+<area shape="rect" id="node3" href="$priority-donate-chain_8c.html#af3ea65daade3a57b9afbfaf87d187dfd" title=" " alt="" coords="431,55,565,80"/>
+<area shape="rect" id="node4" href="$priority-donate-chain_8c.html#afb7cb99917afbc421fc294d9d10acc28" title=" " alt="" coords="421,104,575,129"/>
+<area shape="rect" id="node5" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="479,153,517,179"/>
+<area shape="rect" id="node9" href="$priority-condvar_8c.html#a0a388ce73d55720aac505642bc72ce37" title=" " alt="" coords="417,203,579,228"/>
+<area shape="rect" id="node10" href="$priority-sema_8c.html#a256435362d935640e9ba8007e76794d0" title=" " alt="" coords="425,252,571,277"/>
+<area shape="rect" id="node11" href="$priority-preempt_8c.html#a4d6318b8966df2b464a457e4b74b1447" title=" " alt="" coords="429,301,567,327"/>
+<area shape="rect" id="node12" href="$priority-donate-chain_8c.html#af1fd53d71b908bf20677eb175aad8bdf" title=" " alt="" coords="429,351,567,389"/>
+<area shape="rect" id="node6" href="$exception_8h.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="135,153,238,179"/>
+<area shape="rect" id="node8" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="286,179,369,204"/>
+<area shape="rect" id="node7" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,153,87,179"/>
+</map>

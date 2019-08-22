@@ -1,0 +1,8 @@
+<map id="inode_remove" name="inode_remove">
+<area shape="rect" id="node1" title="Marks INODE to be deleted when it is closed by the last caller who has it open." alt="" coords="687,5,793,31"/>
+<area shape="rect" id="node2" href="$directory_8h.html#a90c0b9ebb330de50b9d9ad5fde4d1676" title="Removes any entry for NAME in DIR." alt="" coords="551,5,639,31"/>
+<area shape="rect" id="node3" href="$filesys_8h.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="filesys/filesys.h" alt="" coords="393,5,503,31"/>
+<area shape="rect" id="node4" href="$fsutil_8h.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="273,5,345,31"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,5,225,31"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="pte_create_user" name="pte_create_user">
+<area shape="rect" id="node1" title="Returns a PTE that points to PAGE." alt="" coords="1277,31,1395,56"/>
+<area shape="rect" id="node2" href="$pagedir_8h.html#ae1bd98eecbce4fae60769e3024611f8f" title="Adds a mapping in page directory PD from user virtual page UPAGE to the physical frame identified by ..." alt="" coords="1101,31,1229,56"/>
+<area shape="rect" id="node3" href="$process_8c.html#ab4e661e47c4e4ea1ff72e66de3efd823" title="load() helpers." alt="" coords="961,31,1053,56"/>
+<area shape="rect" id="node4" href="$process_8c.html#a2f03f0e1bdd5d41d15c2ea83f0135b7f" title="Loads a segment starting at offset OFS in FILE at address UPAGE." alt="" coords="807,5,913,31"/>
+<area shape="rect" id="node11" href="$process_8c.html#a5064a62e44eba6572e28f9e2274b4e84" title="Create a minimal stack by mapping a zeroed page at the top of user virtual memory." alt="" coords="814,55,906,80"/>
+<area shape="rect" id="node5" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="713,31,759,56"/>
+<area shape="rect" id="node6" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="564,31,665,56"/>
+<area shape="rect" id="node7" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="393,31,516,56"/>
+<area shape="rect" id="node8" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="273,31,345,56"/>
+<area shape="rect" id="node9" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,31,225,56"/>
+<area shape="rect" id="node10" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,31,87,56"/>
+</map>

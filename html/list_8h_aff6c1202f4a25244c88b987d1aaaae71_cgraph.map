@@ -1,0 +1,8 @@
+<map id="list_max" name="list_max">
+<area shape="rect" id="node1" title="Max and min." alt="" coords="5,55,76,80"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="124,5,201,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="129,55,196,80"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#afb3307f0f8fb717f84cf74110d59196a" title="Returns the element after ELEM in its list." alt="" coords="127,104,198,129"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="255,79,323,104"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="249,128,328,153"/>
+</map>

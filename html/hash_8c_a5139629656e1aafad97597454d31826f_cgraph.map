@@ -1,0 +1,5 @@
+<map id="remove_elem" name="remove_elem">
+<area shape="rect" id="node1" title="Removes E from hash table H." alt="" coords="5,5,107,31"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a9574755a392b556ddb650b8672f9f4af" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="155,5,245,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="293,5,372,31"/>
+</map>

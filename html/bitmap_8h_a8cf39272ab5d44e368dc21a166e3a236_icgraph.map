@@ -1,0 +1,6 @@
+<map id="bitmap_create" name="bitmap_create">
+<area shape="rect" id="node1" title="Bitmap abstract data type." alt="" coords="416,5,521,31"/>
+<area shape="rect" id="node2" href="$free-map_8h.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="266,5,368,31"/>
+<area shape="rect" id="node3" href="$filesys_8h.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="135,5,218,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

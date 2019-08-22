@@ -1,0 +1,33 @@
+<map id="alloc_frame" name="alloc_frame">
+<area shape="rect" id="node1" title="Allocates a SIZE&#45;byte frame at the top of thread T&#39;s stack and returns a pointer to the frame&#39;s base." alt="" coords="871,519,961,544"/>
+<area shape="rect" id="node2" href="$thread_8h.html#abe39692126640752981104658c67ecdc" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="719,519,823,544"/>
+<area shape="rect" id="node3" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="521,5,643,31"/>
+<area shape="rect" id="node7" href="$synch_8h.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="526,55,637,80"/>
+<area shape="rect" id="node8" href="$alarm-priority_8c.html#a53b172b430d8daeaf8067f086d620415" title=" " alt="" coords="516,104,647,129"/>
+<area shape="rect" id="node9" href="$mlfqs-block_8c.html#a167c6f1bad03f552911dfd10bc4c8f41" title=" " alt="" coords="522,153,642,179"/>
+<area shape="rect" id="node10" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="528,203,636,228"/>
+<area shape="rect" id="node15" href="$mlfqs-load-60_8c.html#a6f61ecba11d019e745c87eba5e4a74a3" title=" " alt="" coords="513,252,650,277"/>
+<area shape="rect" id="node16" href="$mlfqs-load-avg_8c.html#abf1ef79ad820ac65df92b26c8f1a351d" title=" " alt="" coords="510,301,654,327"/>
+<area shape="rect" id="node17" href="$priority-change_8c.html#a9743971189eef2f10beeb3b7358f7a59" title=" " alt="" coords="511,351,653,376"/>
+<area shape="rect" id="node18" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="509,400,655,425"/>
+<area shape="rect" id="node19" href="$priority-donate-chain_8c.html#af1fd53d71b908bf20677eb175aad8bdf" title=" " alt="" coords="513,449,651,488"/>
+<area shape="rect" id="node20" href="$priority-donate-lower_8c.html#ab24220b5ecad35ef2cf9e2b05078af50" title=" " alt="" coords="513,512,651,551"/>
+<area shape="rect" id="node21" href="$priority-donate-multiple_8c.html#a2412faccbfee40a597671658f0baf8ee" title=" " alt="" coords="513,575,651,613"/>
+<area shape="rect" id="node22" href="$priority-donate-multiple2_8c.html#af31ed8792a942a8853e5a862a084cd21" title=" " alt="" coords="513,637,651,676"/>
+<area shape="rect" id="node23" href="$priority-donate-nest_8c.html#aaca7cce483622d0cc70f6ac334a2aed6" title=" " alt="" coords="496,700,668,725"/>
+<area shape="rect" id="node24" href="$priority-donate-one_8c.html#a1c49f5f073f516c9f958be6ea9b89179" title=" " alt="" coords="498,749,666,775"/>
+<area shape="rect" id="node25" href="$priority-donate-sema_8c.html#a7a1a80cc4988dcc442c2dd018e5eb6c8" title=" " alt="" coords="493,799,671,824"/>
+<area shape="rect" id="node26" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="524,848,640,873"/>
+<area shape="rect" id="node27" href="$priority-preempt_8c.html#a503ca590b8aa82846006a684b91d32f2" title=" " alt="" coords="509,897,655,923"/>
+<area shape="rect" id="node28" href="$priority-sema_8c.html#a1da07739ff87a7ef9fb1ff2ffc56c921" title=" " alt="" coords="517,947,647,972"/>
+<area shape="rect" id="node29" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="541,996,623,1021"/>
+<area shape="rect" id="node31" href="$thread_8h.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="135,600,227,625"/>
+<area shape="rect" id="node4" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="324,31,396,56"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,328,226,353"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,576,87,601"/>
+<area shape="rect" id="node11" href="$mlfqs-fair_8c.html#a28451b5c52ad566800c04f1d48bb61de" title=" " alt="" coords="299,129,421,155"/>
+<area shape="rect" id="node12" href="$mlfqs-fair_8c.html#a0fd0a69be2bce871d166452e2302b323" title=" " alt="" coords="295,179,425,204"/>
+<area shape="rect" id="node13" href="$mlfqs-fair_8c.html#a0c25efe9229c510f743312d4b52eba0a" title=" " alt="" coords="292,228,428,253"/>
+<area shape="rect" id="node14" href="$mlfqs-fair_8c.html#ad8fc7e7b3081e7e7e1e23d7d64215d61" title=" " alt="" coords="296,277,424,303"/>
+<area shape="rect" id="node30" href="$alarm-simultaneous_8c.html#a5698afabc93027243b0713bc254c60bd" title=" " alt="" coords="275,996,445,1021"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="make_trap_gate" name="make_trap_gate">
+<area shape="rect" id="node1" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="5,5,123,31"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a05aa182a64c4dc89f63a20b96d4628dc" title="Creates an gate that invokes FUNCTION." alt="" coords="171,5,258,31"/>
+</map>

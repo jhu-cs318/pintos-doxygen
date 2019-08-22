@@ -1,0 +1,5 @@
+<map id="bitmap_buf_size" name="bitmap_buf_size">
+<area shape="rect" id="node1" title="Returns the number of bytes required to accomodate a bitmap with BIT_CNT bits (for use with bitmap_cr..." alt="" coords="5,5,124,31"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#a2a7a926eb6f971a33a2ce103b73aff38" title="Returns the number of bytes required for BIT_CNT bits." alt="" coords="172,5,244,31"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#a12b88bb32eb5563c12b75f09681267df" title="Returns the number of elements required for BIT_CNT bits." alt="" coords="292,5,367,31"/>
+</map>

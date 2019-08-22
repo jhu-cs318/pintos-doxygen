@@ -1,0 +1,6 @@
+<map id="strip_antisocial_prefixes" name="strip_antisocial_prefixes">
+<area shape="rect" id="node1" title="Drop possibly dangerous prefixes from FILE_NAME and return the stripped name." alt="" coords="5,55,169,80"/>
+<area shape="rect" id="node2" href="$string_8c.html#a19c6163b9e87b586f4ddb7773faf9172" title="Find the first differing byte in the two blocks of SIZE bytes at A and B." alt="" coords="217,5,293,31"/>
+<area shape="rect" id="node3" href="$string_8c.html#a7dc39cb18df6441ab248648041ad4f9d" title="Finds and returns the first occurrence of C in STRING, or a null pointer if C does not appear in STRI..." alt="" coords="228,55,282,80"/>
+<area shape="rect" id="node4" href="$string_8c.html#ae99b71772ffcf066739c8568013425e3" title="Finds the first differing characters in strings A and B." alt="" coords="224,104,286,129"/>
+</map>

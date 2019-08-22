@@ -1,0 +1,5 @@
+<map id="find_cursor" name="find_cursor">
+<area shape="rect" id="node1" title="Reads the current hardware cursor position into (*X,*Y)." alt="" coords="5,31,93,56"/>
+<area shape="rect" id="node2" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Reads and returns a byte from PORT." alt="" coords="145,5,184,31"/>
+<area shape="rect" id="node3" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="141,55,188,80"/>
+</map>

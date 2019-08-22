@@ -1,0 +1,8 @@
+<map id="insert_elem" name="insert_elem">
+<area shape="rect" id="node1" title="Inserts E into BUCKET (in hash table H)." alt="" coords="5,31,96,56"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a2b0911a5635312de560f8d2a744956ad" title="Inserts ELEM at the beginning of LIST, so that it becomes the front in LIST." alt="" coords="144,31,252,56"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="300,5,377,31"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="300,55,377,80"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="425,29,504,55"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="437,79,493,104"/>
+</map>

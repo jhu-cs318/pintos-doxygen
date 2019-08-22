@@ -1,0 +1,13 @@
+<map id="src/threads/synch.c" name="src/threads/synch.c">
+<area shape="rect" id="node1" title=" " alt="" coords="193,5,329,31"/>
+<area shape="rect" id="node2" href="$synch_8h.html" title=" " alt="" coords="13,79,128,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="395,79,456,104"/>
+<area shape="rect" id="node8" href="$string_8h.html" title=" " alt="" coords="391,152,457,177"/>
+<area shape="rect" id="node9" href="$interrupt_8h.html" title=" " alt="" coords="22,152,151,177"/>
+<area shape="rect" id="node10" href="$thread_8h.html" title=" " alt="" coords="202,79,321,104"/>
+<area shape="rect" id="node3" href="$list_8h.html" title=" " alt="" coords="176,152,224,177"/>
+<area shape="rect" id="node4" href="$stdbool_8h.html" title=" " alt="" coords="49,225,124,251"/>
+<area shape="rect" id="node5" href="$stddef_8h.html" title=" " alt="" coords="323,225,392,251"/>
+<area shape="rect" id="node6" href="$stdint_8h.html" title=" " alt="" coords="168,225,232,251"/>
+<area shape="rect" id="node11" href="$debug_8h.html" title=" " alt="" coords="299,152,368,177"/>
+</map>

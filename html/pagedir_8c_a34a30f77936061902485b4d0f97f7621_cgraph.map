@@ -1,0 +1,8 @@
+<map id="invalidate_pagedir" name="invalidate_pagedir">
+<area shape="rect" id="node1" title="Seom page table changes can cause the CPU&#39;s translation lookaside buffer (TLB) to become out&#45;of&#45;sync ..." alt="" coords="5,31,135,56"/>
+<area shape="rect" id="node2" href="$pagedir_8c.html#a04a6fbff68b847cb657284fc95ab813a" title="Returns the currently active page directory." alt="" coords="203,5,282,31"/>
+<area shape="rect" id="node4" href="$pagedir_8c.html#ac0a75950cc56724fef94d224df4b0cd0" title="Loads page directory PD into the CPU&#39;s page directory base register." alt="" coords="183,55,302,80"/>
+<area shape="rect" id="node3" href="$vaddr_8h.html#a4887c2b8a39b091ef5b3eb7465bcc8f7" title="Returns kernel virtual address at which physical address PADDR is mapped." alt="" coords="350,5,397,31"/>
+<area shape="rect" id="node5" href="$vaddr_8h.html#a0f6ff2f4a18892d83d6e1c1a3c2d9f9b" title="Returns physical address at which kernel virtual address VADDR is mapped." alt="" coords="350,55,397,80"/>
+<area shape="rect" id="node6" href="$vaddr_8h.html#ad3a451f5e710dfb7831cb7be9a1e04f5" title="Returns true if VADDR is a kernel virtual address." alt="" coords="445,55,560,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="turn_off_least_1bit" name="turn_off_least_1bit">
+<area shape="rect" id="node1" title="Returns X with its lowest&#45;order bit set to 1 turned off." alt="" coords="421,55,552,80"/>
+<area shape="rect" id="node2" href="$hash_8c.html#a2bb424592e8bf01322fb50343b6f7d06" title="Returns true if X is a power of 2, otherwise false." alt="" coords="265,29,373,55"/>
+<area shape="rect" id="node3" href="$hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0" title="Changes the number of buckets in hash table H to match the ideal." alt="" coords="155,55,217,80"/>
+<area shape="rect" id="node4" href="$hash_8h.html#a115c755110e0f60af22bfa0b30f75124" title="Finds, removes, and returns an element equal to E in hash table H." alt="" coords="9,5,103,31"/>
+<area shape="rect" id="node5" href="$hash_8h.html#a90d52755347d2e5fc46bd251b3d9df4c" title="Search, insertion, deletion." alt="" coords="11,55,101,80"/>
+<area shape="rect" id="node6" href="$hash_8h.html#ab42b8e8630e0998fd9f1b97ba4dad440" title="Inserts NEW into hash table H, replacing any equal element already in the table, which is returned." alt="" coords="5,104,107,129"/>
+</map>

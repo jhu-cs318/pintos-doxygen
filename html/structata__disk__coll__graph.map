@@ -1,0 +1,9 @@
+<map id="ata_disk" name="ata_disk">
+<area shape="rect" id="node1" title="An ATA device." alt="" coords="5,292,76,317"/>
+<area shape="rect" id="node2" href="$structchannel.html" title="An ATA channel (aka controller)." alt="" coords="88,379,156,404"/>
+<area shape="rect" id="node3" href="$structsemaphore.html" title="A counting semaphore." alt="" coords="167,205,256,231"/>
+<area shape="rect" id="node6" href="$structlock.html" title="Lock." alt="" coords="281,292,326,317"/>
+<area shape="rect" id="node4" href="$structlist.html" title="List." alt="" coords="205,107,244,132"/>
+<area shape="rect" id="node5" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="224,6,298,31"/>
+<area shape="rect" id="node7" href="$structthread.html" title="A kernel thread or user process." alt="" coords="271,156,330,181"/>
+</map>

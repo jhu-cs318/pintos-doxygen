@@ -1,0 +1,52 @@
+<map id="print_stats" name="print_stats">
+<area shape="rect" id="node1" title="Print statistics about Pintos execution." alt="" coords="5,556,88,581"/>
+<area shape="rect" id="node2" href="$block_8c.html#af1e8b4db376000c3c1824b19a3984fbb" title="Prints statistics for each block device used for a Pintos role." alt="" coords="149,432,271,457"/>
+<area shape="rect" id="node45" href="$kernel_2console_8c.html#a0535ab189f0f409b481df0df4a4e460b" title="Prints console statistics." alt="" coords="142,530,278,556"/>
+<area shape="rect" id="node46" href="$exception_8c.html#a3b29f840ff063cfddd9970ca12bbdc8d" title="Prints exception statistics." alt="" coords="136,580,284,605"/>
+<area shape="rect" id="node47" href="$kbd_8c.html#ab7e600f1f09328e0f6e6e2052cd64181" title="Prints keyboard statistics." alt="" coords="154,629,266,654"/>
+<area shape="rect" id="node48" href="$thread_8c.html#af5c30c6492da5ef4a6a787c7da893370" title="Prints thread statistics." alt="" coords="146,678,274,704"/>
+<area shape="rect" id="node49" href="$timer_8c.html#a4fbbf98077e2191d5ea4b47a3c90ac94" title="Prints timer statistics." alt="" coords="150,481,270,506"/>
+<area shape="rect" id="node3" href="$block_8c.html#afa4baaef0d7a983482caa4c5bc915de3" title="Returns a human&#45;readable name for the given block device TYPE." alt="" coords="332,430,457,456"/>
+<area shape="rect" id="node4" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="369,577,420,602"/>
+<area shape="rect" id="node5" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="505,577,563,602"/>
+<area shape="rect" id="node6" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="626,345,698,370"/>
+<area shape="rect" id="node14" href="$kernel_2console_8c.html#a69b6a57a329ae666df343a081a51e7a5" title="Acquires the console lock." alt="" coords="1245,1005,1363,1030"/>
+<area shape="rect" id="node28" href="$kernel_2console_8c.html#ace2f2e53045fdaa51273a6e45cc63044" title="Releases the console lock." alt="" coords="1078,1132,1197,1157"/>
+<area shape="rect" id="node34" href="$kernel_2console_8c.html#ada83ac3a119c57c68d54ab7a5c805de3" title="Helper function for vprintf()." alt="" coords="611,553,713,578"/>
+<area shape="rect" id="node7" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="795,345,861,370"/>
+<area shape="rect" id="node8" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="774,246,881,272"/>
+<area shape="rect" id="node10" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="778,197,877,222"/>
+<area shape="rect" id="node11" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="764,394,891,420"/>
+<area shape="rect" id="node13" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="797,296,858,321"/>
+<area shape="rect" id="node9" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="942,222,1030,248"/>
+<area shape="rect" id="node12" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="959,357,1014,382"/>
+<area shape="rect" id="node15" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="2163,990,2253,1016"/>
+<area shape="rect" id="node16" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="1455,876,1551,901"/>
+<area shape="rect" id="node17" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="1643,1028,1791,1066"/>
+<area shape="rect" id="node18" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="1997,788,2105,813"/>
+<area shape="rect" id="node21" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="1670,737,1764,762"/>
+<area shape="rect" id="node19" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="2170,661,2246,686"/>
+<area shape="rect" id="node20" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="2153,788,2264,813"/>
+<area shape="rect" id="node22" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="2006,382,2095,408"/>
+<area shape="rect" id="node24" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="1844,484,1944,509"/>
+<area shape="rect" id="node26" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="1839,636,1949,661"/>
+<area shape="rect" id="node27" href="$thread_8c.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="1845,737,1943,762"/>
+<area shape="rect" id="node23" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="2158,205,2258,230"/>
+<area shape="rect" id="node25" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="2007,484,2094,509"/>
+<area shape="rect" id="node29" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="1256,908,1352,933"/>
+<area shape="rect" id="node30" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="1465,616,1541,641"/>
+<area shape="rect" id="node31" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="1676,584,1758,609"/>
+<area shape="rect" id="node32" href="$lib_2kernel_2list_8c.html#afb61f0ab134a52505ed89bc2d1024165" title="Removes the front element from LIST and returns it." alt="" coords="1666,633,1768,658"/>
+<area shape="rect" id="node33" href="$thread_8c.html#a0cd30c260607aec4597c5b613c5e013f" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="1661,682,1773,708"/>
+<area shape="rect" id="node35" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="761,548,894,573"/>
+<area shape="rect" id="node36" href="$kernel_2console_8c.html#ac9311ca129f215c0c8c07cd095a72f2f" title="Returns true if the current thread has the console lock, false otherwise." alt="" coords="1411,1078,1595,1117"/>
+<area shape="rect" id="node37" href="$serial_8c.html#a07c75f3160eed07281583bfaf8eddc1b" title="Sends BYTE to the serial port." alt="" coords="944,406,1029,432"/>
+<area shape="rect" id="node44" href="$vga_8c.html#a39f191e69844ad1aca267e74223651bd" title="Writes C to the VGA text display, interpreting control characters in the conventional ways." alt="" coords="1679,381,1755,406"/>
+<area shape="rect" id="node38" href="$serial_8c.html#aa1fb82a5be4690023966ea841c88a624" title="Initializes the serial port device for polling mode." alt="" coords="1104,380,1171,405"/>
+<area shape="rect" id="node39" href="$intq_8c.html#aff4db6a96c4a1fb6898f26451a1049c2" title="Returns true if Q is full, false otherwise." alt="" coords="1270,129,1338,154"/>
+<area shape="rect" id="node40" href="$intq_8c.html#a45ba970f3357ff262d7fafecc50735c6" title="Removes a byte from Q and returns it." alt="" coords="1100,857,1175,882"/>
+<area shape="rect" id="node41" href="$intq_8c.html#a6a440110d5417c12cedf1c2e86f445f8" title="Adds BYTE to the end of Q." alt="" coords="1100,612,1175,637"/>
+<area shape="rect" id="node42" href="$serial_8c.html#a15fd75cc421e6379650204e80853a68a" title="Polls the serial port until it&#39;s ready, and then transmits BYTE." alt="" coords="1267,78,1341,104"/>
+<area shape="rect" id="node43" href="$serial_8c.html#ac89212325aed0ffe38beb0b4bde0bf30" title="Update interrupt enable register." alt="" coords="1467,28,1539,53"/>
+<area shape="rect" id="node50" href="$timer_8c.html#a2b50be77101b38176d21b52cc425cf3e" title="Returns the number of timer ticks since the OS booted." alt="" coords="1674,332,1760,357"/>
+</map>

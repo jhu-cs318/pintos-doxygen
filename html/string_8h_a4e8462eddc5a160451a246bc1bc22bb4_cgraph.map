@@ -1,0 +1,4 @@
+<map id="strcspn" name="strcspn">
+<area shape="rect" id="node1" title="Returns the length of the initial substring of STRING that consists of characters that are not in STO..." alt="" coords="5,5,70,31"/>
+<area shape="rect" id="node2" href="$string_8c.html#a7dc39cb18df6441ab248648041ad4f9d" title="Finds and returns the first occurrence of C in STRING, or a null pointer if C does not appear in STRI..." alt="" coords="118,5,172,31"/>
+</map>

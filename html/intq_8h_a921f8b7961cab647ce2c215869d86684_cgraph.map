@@ -1,0 +1,5 @@
+<map id="intq_full" name="intq_full">
+<area shape="rect" id="node1" title="Returns true if Q is full, false otherwise." alt="" coords="5,31,73,56"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="121,5,221,31"/>
+<area shape="rect" id="node3" href="$intq_8c.html#ac473f50d2829cba1321d34a57c425042" title="Returns the position after POS within an intq." alt="" coords="148,55,194,80"/>
+</map>

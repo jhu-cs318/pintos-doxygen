@@ -1,0 +1,6 @@
+<map id="block_size" name="block_size">
+<area shape="rect" id="node1" title="Returns the number of bytes allocated for BLOCK." alt="" coords="267,31,351,56"/>
+<area shape="rect" id="node2" href="$malloc_8h.html#a1be0594bb47cfcf2e4616c3baa3b9e13" title="Initializes the malloc() descriptors." alt="" coords="135,5,219,31"/>
+<area shape="rect" id="node4" href="$malloc_8h.html#afa148085b6fa9594b4c35e100d94a183" title="Attempts to resize OLD_BLOCK to NEW_SIZE bytes, possibly moving it in the process." alt="" coords="147,55,207,80"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

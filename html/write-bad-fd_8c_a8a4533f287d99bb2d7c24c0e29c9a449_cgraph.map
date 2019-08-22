@@ -1,0 +1,4 @@
+<map id="test_main" name="test_main">
+<area shape="rect" id="node1" title="Tries to write to an invalid fd, which must either fail silently or terminate the process with exit c..." alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d" title=" " alt="" coords="132,5,182,31"/>
+</map>

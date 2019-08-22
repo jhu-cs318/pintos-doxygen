@@ -1,0 +1,18 @@
+<map id="palloc_free_page" name="palloc_free_page">
+<area shape="rect" id="node1" title="Frees the page at PAGE." alt="" coords="5,129,129,155"/>
+<area shape="rect" id="node2" href="$palloc_8c.html#af4c2af0e0bdc81d1ea21354c4234b20e" title="Frees the PAGE_CNT pages starting at PAGES." alt="" coords="177,129,317,155"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#ab8910020ce78e389457c0607990d04d3" title="Returns true if every bit in B between START and START + CNT, exclusive, is set to true,..." alt="" coords="394,5,476,31"/>
+<area shape="rect" id="node8" href="$bitmap_8c.html#a7b2eaaf4ee3c0f7794b4e5293f3b9760" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="365,55,505,80"/>
+<area shape="rect" id="node12" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="400,104,469,129"/>
+<area shape="rect" id="node13" href="$palloc_8c.html#a2adf802e51d008838946d621cb4e8fb2" title="Returns true if PAGE was allocated from POOL, false otherwise." alt="" coords="376,153,494,179"/>
+<area shape="rect" id="node15" href="$vaddr_8h.html#a1efae7b168a7e2234c0e4022d889bdc8" title="Virtual page number." alt="" coords="583,203,641,228"/>
+<area shape="rect" id="node16" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="404,255,466,280"/>
+<area shape="rect" id="node4" href="$bitmap_8c.html#a90f5f9e5e7afbd943d0c6c33fc0d8557" title="Returns true if any bits in B between START and START + CNT, exclusive, are set to VALUE,..." alt="" coords="553,5,671,31"/>
+<area shape="rect" id="node5" href="$bitmap_8c.html#ab8d6660c5e30dab9cecef1240c7423d9" title="Returns the value of the bit numbered IDX in B." alt="" coords="723,5,814,31"/>
+<area shape="rect" id="node6" href="$bitmap_8c.html#acc12f810fdb7b50a620c3852c3656d63" title="Returns an elem_type where only the bit corresponding to BIT_IDX is turned on." alt="" coords="866,31,940,56"/>
+<area shape="rect" id="node7" href="$bitmap_8c.html#abb94f95006e0ec6ff6b5c88262f28d74" title="Returns the index of the element that contains the bit numbered BIT_IDX." alt="" coords="866,80,940,105"/>
+<area shape="rect" id="node9" href="$bitmap_8c.html#a766a7941acc1371fb82ed4f70a1ecf37" title="Setting and testing single bits." alt="" coords="569,55,655,80"/>
+<area shape="rect" id="node10" href="$bitmap_8c.html#adb8912537854d4a2dcb1f35940a7134b" title="Atomically sets the bit numbered BIT_IDX in B to true." alt="" coords="719,104,818,129"/>
+<area shape="rect" id="node11" href="$bitmap_8c.html#a5bb6be898ca442c95e725be80c2369a6" title="Atomically sets the bit numbered BIT_IDX in B to false." alt="" coords="719,55,818,80"/>
+<area shape="rect" id="node14" href="$bitmap_8c.html#a576f7d29f091eac024f70ae8d68997a9" title="Bitmap size." alt="" coords="566,153,658,179"/>
+</map>

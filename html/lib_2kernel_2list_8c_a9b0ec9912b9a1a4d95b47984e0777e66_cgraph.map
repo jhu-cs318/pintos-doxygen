@@ -1,0 +1,6 @@
+<map id="list_front" name="list_front">
+<area shape="rect" id="node1" title="Returns the front element in LIST." alt="" coords="5,31,77,56"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="125,31,206,56"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="254,5,332,31"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="260,55,327,80"/>
+</map>

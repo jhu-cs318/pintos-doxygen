@@ -1,0 +1,12 @@
+<map id="ustar_make_header" name="ustar_make_header">
+<area shape="rect" id="node1" title="Composes HEADER as a USTAR_HEADER_SIZE (512)&#45;byte archive header in ustar format for a SIZE&#45;byte file..." alt="" coords="757,31,897,56"/>
+<area shape="rect" id="node2" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="608,5,709,31"/>
+<area shape="rect" id="node5" href="$tar_8c.html#aeae922065d4290e3c877a5f3a5d7a824" title=" " alt="" coords="609,55,708,80"/>
+<area shape="rect" id="node3" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="443,5,533,31"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="283,5,364,31"/>
+<area shape="rect" id="node6" href="$tar_8c.html#a11d3fc4ba0c33158e98b91bd973212f9" title=" " alt="" coords="426,55,549,80"/>
+<area shape="rect" id="node10" href="$tar_8c.html#a95557238bd1ce1ece7c3859eff9888dc" title=" " alt="" coords="416,104,560,129"/>
+<area shape="rect" id="node7" href="$tar_8c.html#a736a422fc49cb04f6601997fb136c19c" title=" " alt="" coords="279,55,368,80"/>
+<area shape="rect" id="node8" href="$tar_8c.html#a5758c0d6627e2210b6e18ec360169e91" title=" " alt="" coords="104,55,231,80"/>
+<area shape="rect" id="node9" href="$tar_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,55,56,80"/>
+</map>

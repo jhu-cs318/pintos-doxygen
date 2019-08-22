@@ -1,0 +1,52 @@
+<map id="arena_to_block" name="arena_to_block">
+<area shape="rect" id="node1" title="Returns the (IDX &#45; 1)&#39;th block within arena A." alt="" coords="1082,750,1195,776"/>
+<area shape="rect" id="node2" href="$malloc_8h.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="threads/malloc.h" alt="" coords="982,498,1026,524"/>
+<area shape="rect" id="node44" href="$malloc_8h.html#a8c1f926a188baad8ec94b5de439379c8" title="Obtains and returns a new block of at least SIZE bytes." alt="" coords="974,952,1034,977"/>
+<area shape="rect" id="node3" href="$bitmap_8h.html#a8cf39272ab5d44e368dc21a166e3a236" title="Bitmap abstract data type." alt="" coords="816,524,921,549"/>
+<area shape="rect" id="node5" href="$bitmap_8h.html#a408b7516cc90e607cda3038009e1550d" title="Destroys bitmap B, freeing its storage." alt="" coords="812,120,925,145"/>
+<area shape="rect" id="node6" href="$directory_8h.html#a972c4f1aef505b8bf976063d2229676a" title="Destroys DIR and frees associated resources." alt="" coords="498,372,573,397"/>
+<area shape="rect" id="node8" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="154,322,250,348"/>
+<area shape="rect" id="node11" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="151,273,252,298"/>
+<area shape="rect" id="node16" href="$directory_8h.html#a5b00e2da83ce54480d49a91405cb625c" title="Opens and returns the directory for the given INODE, of which it takes ownership." alt="" coords="671,166,745,192"/>
+<area shape="rect" id="node19" href="$file_8h.html#a11e71f5d8bdfe65c54a1ae9b83c5d67a" title="Closes FILE." alt="" coords="324,122,401,148"/>
+<area shape="rect" id="node21" href="$file_8h.html#a47788113ec3770733f6cc63f00cc5bb3" title="Opening and closing files." alt="" coords="670,318,746,344"/>
+<area shape="rect" id="node25" href="$hash_8h.html#a55e281aba358527422ae72c3f5910971" title="Destroys hash table H." alt="" coords="818,322,919,348"/>
+<area shape="rect" id="node26" href="$inode_8h.html#a17768b42e21fcfe0e84cfc3532f297d9" title="Closes INODE and writes it to disk." alt="" coords="822,221,915,246"/>
+<area shape="rect" id="node28" href="$inode_8h.html#a4445b24665d139b5f387bbc6428c9f81" title="Initializes an inode with LENGTH bytes of data and writes the new inode to sector SECTOR on the file ..." alt="" coords="659,521,757,546"/>
+<area shape="rect" id="node30" href="$inode_8h.html#aeb6be4a6658d5e2746fb704da3d929aa" title="Reads SIZE bytes from INODE into BUFFER, starting at position OFFSET." alt="" coords="815,625,922,650"/>
+<area shape="rect" id="node36" href="$inode_8h.html#ad6ee4ad6d1d9ecedb64ec631546f6a9e" title="Writes SIZE bytes from BUFFER into INODE, starting at OFFSET." alt="" coords="654,820,762,845"/>
+<area shape="rect" id="node39" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="466,1229,605,1254"/>
+<area shape="rect" id="node41" href="$malloc_8h.html#afa148085b6fa9594b4c35e100d94a183" title="Attempts to resize OLD_BLOCK to NEW_SIZE bytes, possibly moving it in the process." alt="" coords="838,877,899,902"/>
+<area shape="rect" id="node42" href="$hash_8c.html#afc76c6b6a33bf5fac77a82491e17dbf0" title="Changes the number of buckets in hash table H to match the ideal." alt="" coords="837,828,900,853"/>
+<area shape="rect" id="node43" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="827,926,910,952"/>
+<area shape="rect" id="node4" href="$free-map_8h.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="657,570,759,596"/>
+<area shape="rect" id="node7" href="$filesys_8h.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="312,372,414,397"/>
+<area shape="rect" id="node10" href="$filesys_8h.html#a6dd9e1e66d780ecd7580dabcf72559b4" title="Opens the file with the given NAME." alt="" coords="315,273,411,298"/>
+<area shape="rect" id="node14" href="$filesys_8h.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="filesys/filesys.h" alt="" coords="308,322,418,348"/>
+<area shape="rect" id="node15" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="330,421,396,446"/>
+<area shape="rect" id="node9" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="5,298,96,324"/>
+<area shape="rect" id="node12" href="$fsutil_8h.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="165,172,239,197"/>
+<area shape="rect" id="node13" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="178,221,225,246"/>
+<area shape="rect" id="node17" href="$directory_8h.html#a360de0f3a61721d83b1d6f3f435779de" title="Opens the root directory and returns a directory for it." alt="" coords="484,322,587,348"/>
+<area shape="rect" id="node18" href="$directory_8h.html#a0a9521db17816e1e7b81f30c0e00e980" title="Opens and returns a new directory for the same inode as DIR." alt="" coords="493,120,578,145"/>
+<area shape="rect" id="node20" href="$free-map_8h.html#ac00d55315a3b01794bcdc6cc9d5ba5f5" title="Writes the free map to disk and closes the free map file." alt="" coords="144,122,260,148"/>
+<area shape="rect" id="node22" href="$file_8h.html#a2f1e61c23b36a5ff6cdb36a674669001" title="Opens and returns a new file for the same inode as FILE." alt="" coords="492,221,579,246"/>
+<area shape="rect" id="node23" href="$free-map_8h.html#a928c69cba9ea179d6fe581acd970c512" title="Creates a new free map file on disk and writes the free map to it." alt="" coords="475,470,597,496"/>
+<area shape="rect" id="node24" href="$free-map_8h.html#a82ae69d4b7534829d5c1672231c62370" title="Opens the free map file and reads it from disk." alt="" coords="478,421,593,446"/>
+<area shape="rect" id="node27" href="$directory_8h.html#a90c0b9ebb330de50b9d9ad5fde4d1676" title="Removes any entry for NAME in DIR." alt="" coords="492,569,580,594"/>
+<area shape="rect" id="node29" href="$directory_8h.html#ab3951213f266ce0e0404203a35fefe8f" title="Opening and closing directories." alt="" coords="495,520,576,545"/>
+<area shape="rect" id="node31" href="$directory_8h.html#ab1d7741cb8f50c04ee906af9edadba10" title="Adds a file named NAME to DIR, which must not already contain a file by that name." alt="" coords="503,670,569,696"/>
+<area shape="rect" id="node32" href="$directory_8h.html#a522af6dc93a360056f7391f7bd439f57" title="filesys/directory.h" alt="" coords="665,770,751,796"/>
+<area shape="rect" id="node33" href="$file_8h.html#a30acfe66c0919f3f37ee17e7cd4c259b" title="Reading and writing." alt="" coords="327,172,399,197"/>
+<area shape="rect" id="node34" href="$file_8h.html#a58e86db758749dcd35d513dde31d7c9c" title="Reads SIZE bytes from FILE into BUFFER, starting at offset FILE_OFS in the file." alt="" coords="663,721,754,746"/>
+<area shape="rect" id="node35" href="$directory_8c.html#ab2c71a2a1a0ffa3c618792babf4fc8b9" title="Searches DIR for a file with the given NAME." alt="" coords="678,620,738,645"/>
+<area shape="rect" id="node37" href="$file_8h.html#aa6b55a3ae90c9bc9718b3a2345d7666d" title="Writes SIZE bytes from BUFFER into FILE, starting at the file&#39;s current position." alt="" coords="326,924,400,949"/>
+<area shape="rect" id="node38" href="$file_8h.html#a706816874cad7e4ba737057c35fe253b" title="Writes SIZE bytes from BUFFER into FILE, starting at offset FILE_OFS in the file." alt="" coords="489,772,582,797"/>
+<area shape="rect" id="node40" href="$partition_8h.html#a4fdb0ebb310a02d435b287dd185a6daa" title="devices/partition.h" alt="" coords="311,1229,415,1254"/>
+<area shape="rect" id="node45" href="$block_8h.html#ab23e50178419646d6627f02eaaf76b4c" title="devices/block.h" alt="" coords="816,1330,921,1356"/>
+<area shape="rect" id="node46" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="653,1280,763,1305"/>
+<area shape="rect" id="node47" href="$malloc_8h.html#a5e2c81a62eb095b4e07604260eebea77" title="Allocates and return A times B bytes initialized to zeroes." alt="" coords="841,372,896,397"/>
+<area shape="rect" id="node48" href="$hash_8h.html#a814d3cdfd3e96d126b66ac892d28ba8b" title="Basic life cycle." alt="" coords="831,1129,906,1154"/>
+<area shape="rect" id="node49" href="$inode_8h.html#ab09e048387b074433767ae90e888d774" title="Reads an inode from SECTOR and returns a ‘struct inode’ that contains it." alt="" coords="663,420,754,445"/>
+<area shape="rect" id="node50" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="811,1178,926,1204"/>
+</map>

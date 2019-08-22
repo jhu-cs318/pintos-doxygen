@@ -1,0 +1,5 @@
+<map id="page_from_pool" name="page_from_pool">
+<area shape="rect" id="node1" title="Returns true if PAGE was allocated from POOL, false otherwise." alt="" coords="5,31,123,56"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#a576f7d29f091eac024f70ae8d68997a9" title="Bitmap size." alt="" coords="171,5,264,31"/>
+<area shape="rect" id="node3" href="$vaddr_8h.html#a1efae7b168a7e2234c0e4022d889bdc8" title="Virtual page number." alt="" coords="188,55,246,80"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="nlz" name="nlz">
+<area shape="rect" id="node1" title="Returns the number of leading zero bits in X, which must be nonzero." alt="" coords="504,55,542,80"/>
+<area shape="rect" id="node2" href="$arithmetic_8c.html#a2e68abcee74d3b3ebe3a47d309ae2af9" title="Divides unsigned 64&#45;bit N by unsigned 64&#45;bit D and returns the quotient." alt="" coords="395,55,456,80"/>
+<area shape="rect" id="node3" href="$arithmetic_8c.html#a7886ce7815151370ecffeb2efe51ff6e" title="Unsigned 64&#45;bit division." alt="" coords="269,5,347,31"/>
+<area shape="rect" id="node4" href="$arithmetic_8c.html#ac159364680295cc1613f369da9e70a5c" title="Divides signed 64&#45;bit N by signed 64&#45;bit D and returns the quotient." alt="" coords="278,55,338,80"/>
+<area shape="rect" id="node8" href="$arithmetic_8c.html#ad86f95698407c72139fe57dd16997b85" title="Divides unsigned 64&#45;bit N by unsigned 64&#45;bit D and returns the remainder." alt="" coords="273,104,343,129"/>
+<area shape="rect" id="node5" href="$arithmetic_8c.html#afe38347297a71c6b20ed5b4e5af2a58f" title="These are the routines that GCC calls." alt="" coords="141,5,212,31"/>
+<area shape="rect" id="node6" href="$arithmetic_8c.html#ad1412a30b27451a18b00e07b4a1d422a" title="Divides signed 64&#45;bit N by signed 64&#45;bit D and returns the remainder." alt="" coords="142,55,211,80"/>
+<area shape="rect" id="node7" href="$arithmetic_8c.html#a5e4468d125f1ce0bae0a8e70e9a24328" title="Signed 64&#45;bit remainder." alt="" coords="5,55,85,80"/>
+<area shape="rect" id="node9" href="$arithmetic_8c.html#a94a6f118db82be6d56a9b44918a72757" title="Unsigned 64&#45;bit remainder." alt="" coords="133,104,221,129"/>
+</map>

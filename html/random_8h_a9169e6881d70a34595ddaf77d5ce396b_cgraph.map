@@ -1,0 +1,5 @@
+<map id="random_bytes" name="random_bytes">
+<area shape="rect" id="node1" title="Writes SIZE random bytes into BUF." alt="" coords="5,31,111,56"/>
+<area shape="rect" id="node2" href="$random_8c.html#af2a054338d7e0424f8cf6363610cd21b" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="159,5,250,31"/>
+<area shape="rect" id="node3" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="298,31,383,56"/>
+</map>

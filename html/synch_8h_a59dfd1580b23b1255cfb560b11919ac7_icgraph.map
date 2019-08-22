@@ -1,0 +1,4 @@
+<map id="cond_wait" name="cond_wait">
+<area shape="rect" id="node1" title="Atomically releases LOCK and waits for COND to be signaled by some other piece of code." alt="" coords="215,5,296,31"/>
+<area shape="rect" id="node2" href="$priority-condvar_8c.html#a0a388ce73d55720aac505642bc72ce37" title=" " alt="" coords="5,5,167,31"/>
+</map>

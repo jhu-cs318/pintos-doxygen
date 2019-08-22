@@ -1,0 +1,4 @@
+<map id="list_elem_to_block" name="list_elem_to_block">
+<area shape="rect" id="node1" title="Returns the block device corresponding to LIST_ELEM, or a null pointer if LIST_ELEM is the list end o..." alt="" coords="5,5,136,31"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="184,5,252,31"/>
+</map>

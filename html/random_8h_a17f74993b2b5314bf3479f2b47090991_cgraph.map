@@ -1,0 +1,6 @@
+<map id="random_ulong" name="random_ulong">
+<area shape="rect" id="node1" title="lib/random.h" alt="" coords="5,31,112,56"/>
+<area shape="rect" id="node2" href="$random_8c.html#a9273f69f7fecbc77cca0204baaaf175a" title="Writes SIZE random bytes into BUF." alt="" coords="160,31,266,56"/>
+<area shape="rect" id="node3" href="$random_8c.html#af2a054338d7e0424f8cf6363610cd21b" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="314,5,405,31"/>
+<area shape="rect" id="node4" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="453,31,538,56"/>
+</map>

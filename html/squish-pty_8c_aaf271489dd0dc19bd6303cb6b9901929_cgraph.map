@@ -1,0 +1,7 @@
+<map id="handle_error" name="handle_error">
+<area shape="rect" id="node1" title="Handle a read or write on *FD, which is the pty if FD_IS_PTY is true, that returned end&#45;of&#45;file or er..." alt="" coords="5,31,102,56"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a5bbe56a416af8f77723b652362f742f7" title=" " alt="" coords="152,5,205,31"/>
+<area shape="rect" id="node3" href="$squish-pty_8c.html#adb2afcb6681c6ffb5b94b5236ef526a7" title="Prints MSG, formatting as with printf(), plus an error message based on errno, and exits." alt="" coords="150,55,206,80"/>
+<area shape="rect" id="node4" href="$lib_2user_2syscall_8c.html#a55e99c539cf7723ec15e856b7e0a8cee" title=" " alt="" coords="257,29,299,55"/>
+<area shape="rect" id="node5" href="$lib_8c.html#a9f5464c3d546d12524ce3cfb8694e682" title=" " alt="" coords="254,79,301,104"/>
+</map>

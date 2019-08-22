@@ -1,0 +1,10 @@
+<map id="list_insert_ordered" name="list_insert_ordered">
+<area shape="rect" id="node1" title="Inserts ELEM in the proper position in LIST, which must be sorted according to LESS given auxiliary d..." alt="" coords="5,80,136,105"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#ab1b18b2991e80f9e1005acd6f1bfbb2a" title="Returns the beginning of LIST." alt="" coords="184,5,262,31"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="190,55,257,80"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="184,104,262,129"/>
+<area shape="rect" id="node7" href="$lib_2kernel_2list_8c.html#afb3307f0f8fb717f84cf74110d59196a" title="Returns the element after ELEM in its list." alt="" coords="188,153,258,179"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="310,128,389,153"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="322,79,377,104"/>
+<area shape="rect" id="node8" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="316,177,384,203"/>
+</map>

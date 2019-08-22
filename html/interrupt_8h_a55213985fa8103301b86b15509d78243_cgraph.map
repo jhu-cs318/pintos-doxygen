@@ -1,0 +1,4 @@
+<map id="intr_yield_on_return" name="intr_yield_on_return">
+<area shape="rect" id="node1" title="During processing of an external interrupt, directs the interrupt handler to yield to a new process j..." alt="" coords="5,5,145,31"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="193,5,283,31"/>
+</map>

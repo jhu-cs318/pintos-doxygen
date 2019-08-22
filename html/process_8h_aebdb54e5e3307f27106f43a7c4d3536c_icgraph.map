@@ -1,0 +1,40 @@
+<map id="process_exit" name="process_exit">
+<area shape="rect" id="node1" title="Free the current process&#39;s resources." alt="" coords="1167,143,1264,169"/>
+<area shape="rect" id="node2" href="$thread_8h.html#af6872a0cbd6ec029f08cfe10bce5834e" title="Deschedules the current thread and destroys it." alt="" coords="1032,143,1119,169"/>
+<area shape="rect" id="node3" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="876,194,979,219"/>
+<area shape="rect" id="node8" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,69,87,94"/>
+<area shape="rect" id="node34" href="$exception_8c.html#a6984b10e1d2a817938f8e70a89d13ff9" title="Handler for an exception (probably) caused by a user process." alt="" coords="908,93,947,118"/>
+<area shape="rect" id="node37" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="720,143,822,169"/>
+<area shape="rect" id="node38" href="$userprog_2syscall_8c.html#a433a22b69ff6c6b56fe2bd9214c2ecc9" title=" " alt="" coords="871,243,984,269"/>
+<area shape="rect" id="node4" href="$thread_8h.html#abe39692126640752981104658c67ecdc" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="719,563,823,589"/>
+<area shape="rect" id="node5" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="521,93,643,118"/>
+<area shape="rect" id="node9" href="$synch_8h.html#ac007e29a5442996a099aa8172f5e046a" title="Self&#45;test for semaphores that makes control &quot;ping&#45;pong&quot; between a pair of threads." alt="" coords="526,342,637,367"/>
+<area shape="rect" id="node10" href="$alarm-priority_8c.html#a53b172b430d8daeaf8067f086d620415" title=" " alt="" coords="516,391,647,417"/>
+<area shape="rect" id="node11" href="$mlfqs-block_8c.html#a167c6f1bad03f552911dfd10bc4c8f41" title=" " alt="" coords="522,441,642,466"/>
+<area shape="rect" id="node12" href="$mlfqs-fair_8c.html#a5c0bb7da290ed5c6c31e55eb73e1cbe6" title="Measures the correctness of the &quot;nice&quot; implementation." alt="" coords="528,490,636,515"/>
+<area shape="rect" id="node17" href="$mlfqs-load-60_8c.html#a6f61ecba11d019e745c87eba5e4a74a3" title=" " alt="" coords="513,539,650,565"/>
+<area shape="rect" id="node18" href="$mlfqs-load-avg_8c.html#abf1ef79ad820ac65df92b26c8f1a351d" title=" " alt="" coords="510,589,654,614"/>
+<area shape="rect" id="node19" href="$priority-change_8c.html#a9743971189eef2f10beeb3b7358f7a59" title=" " alt="" coords="511,638,653,663"/>
+<area shape="rect" id="node20" href="$priority-condvar_8c.html#a5efc3b368c956fa7b25cdbdad03f8856" title=" " alt="" coords="509,687,655,713"/>
+<area shape="rect" id="node21" href="$priority-donate-chain_8c.html#af1fd53d71b908bf20677eb175aad8bdf" title=" " alt="" coords="513,737,651,775"/>
+<area shape="rect" id="node22" href="$priority-donate-lower_8c.html#ab24220b5ecad35ef2cf9e2b05078af50" title=" " alt="" coords="513,799,651,838"/>
+<area shape="rect" id="node23" href="$priority-donate-multiple_8c.html#a2412faccbfee40a597671658f0baf8ee" title=" " alt="" coords="513,862,651,901"/>
+<area shape="rect" id="node24" href="$priority-donate-multiple2_8c.html#af31ed8792a942a8853e5a862a084cd21" title=" " alt="" coords="513,925,651,963"/>
+<area shape="rect" id="node25" href="$priority-donate-nest_8c.html#aaca7cce483622d0cc70f6ac334a2aed6" title=" " alt="" coords="496,987,668,1013"/>
+<area shape="rect" id="node26" href="$priority-donate-one_8c.html#a1c49f5f073f516c9f958be6ea9b89179" title=" " alt="" coords="498,1037,666,1062"/>
+<area shape="rect" id="node27" href="$priority-donate-sema_8c.html#a7a1a80cc4988dcc442c2dd018e5eb6c8" title=" " alt="" coords="493,1086,671,1111"/>
+<area shape="rect" id="node28" href="$priority-fifo_8c.html#a702c04f92ecf915173e4eb19a14fba5d" title=" " alt="" coords="524,1135,640,1161"/>
+<area shape="rect" id="node29" href="$priority-preempt_8c.html#a503ca590b8aa82846006a684b91d32f2" title=" " alt="" coords="509,142,655,167"/>
+<area shape="rect" id="node30" href="$priority-sema_8c.html#a1da07739ff87a7ef9fb1ff2ffc56c921" title=" " alt="" coords="517,191,647,217"/>
+<area shape="rect" id="node31" href="$alarm-simultaneous_8c.html#a46bbfad063bc4c9983350bd522fe6fbb" title="Creates N threads, each of which sleeps a different, fixed duration, M times." alt="" coords="541,241,623,266"/>
+<area shape="rect" id="node33" href="$thread_8h.html#a07e468d365e1799676192b95b2067f59" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="135,217,227,242"/>
+<area shape="rect" id="node6" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="324,94,396,119"/>
+<area shape="rect" id="node7" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="136,94,226,119"/>
+<area shape="rect" id="node13" href="$mlfqs-fair_8c.html#a28451b5c52ad566800c04f1d48bb61de" title=" " alt="" coords="299,417,421,442"/>
+<area shape="rect" id="node14" href="$mlfqs-fair_8c.html#a0fd0a69be2bce871d166452e2302b323" title=" " alt="" coords="295,466,425,491"/>
+<area shape="rect" id="node15" href="$mlfqs-fair_8c.html#a0c25efe9229c510f743312d4b52eba0a" title=" " alt="" coords="292,515,428,541"/>
+<area shape="rect" id="node16" href="$mlfqs-fair_8c.html#ad8fc7e7b3081e7e7e1e23d7d64215d61" title=" " alt="" coords="296,565,424,590"/>
+<area shape="rect" id="node32" href="$alarm-simultaneous_8c.html#a5698afabc93027243b0713bc254c60bd" title=" " alt="" coords="275,241,445,266"/>
+<area shape="rect" id="node35" href="$exception_8h.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="531,43,633,69"/>
+<area shape="rect" id="node36" href="$exception_8c.html#a22263f7481f54fafb7a06f63ea1675c3" title="Page fault handler." alt="" coords="729,94,813,119"/>
+</map>

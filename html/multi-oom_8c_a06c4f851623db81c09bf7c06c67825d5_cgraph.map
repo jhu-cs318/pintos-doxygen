@@ -1,0 +1,4 @@
+<map id="consume_some_resources" name="consume_some_resources">
+<area shape="rect" id="node1" title="Open a number of files (and fail to close them)." alt="" coords="5,5,187,31"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="235,5,286,31"/>
+</map>

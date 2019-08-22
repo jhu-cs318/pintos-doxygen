@@ -1,0 +1,4 @@
+<map id="vtop" name="vtop">
+<area shape="rect" id="node1" title="Returns physical address at which kernel virtual address VADDR is mapped." alt="" coords="5,5,52,31"/>
+<area shape="rect" id="node2" href="$vaddr_8h.html#ad3a451f5e710dfb7831cb7be9a1e04f5" title="Returns true if VADDR is a kernel virtual address." alt="" coords="100,5,215,31"/>
+</map>

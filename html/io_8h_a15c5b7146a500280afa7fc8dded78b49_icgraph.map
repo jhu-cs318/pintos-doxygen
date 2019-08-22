@@ -1,0 +1,5 @@
+<map id="outsw" name="outsw">
+<area shape="rect" id="node1" title="Writes to PORT each 16&#45;bit unit (halfword) of data in the CNT&#45;halfword buffer starting at ADDR." alt="" coords="278,5,334,31"/>
+<area shape="rect" id="node2" href="$ide_8c.html#a825fd294c52f5c4983939b1d84607a61" title="Writes SECTOR to channel C&#39;s data register in PIO mode." alt="" coords="128,5,230,31"/>
+<area shape="rect" id="node3" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="5,5,80,31"/>
+</map>

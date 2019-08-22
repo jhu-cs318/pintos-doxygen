@@ -1,0 +1,5 @@
+<map id="syscall_handler" name="syscall_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="269,5,382,31"/>
+<area shape="rect" id="node2" href="$userprog_2syscall_8h.html#a797876702ac4b3a53fa69839f02642f4" title="userprog/syscall.h" alt="" coords="135,5,221,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

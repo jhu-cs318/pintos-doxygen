@@ -1,0 +1,4 @@
+<map id="read_command_line" name="read_command_line">
+<area shape="rect" id="node1" title="Breaks the kernel command line into words and returns them as an argv&#45;like array." alt="" coords="135,5,277,31"/>
+<area shape="rect" id="node2" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

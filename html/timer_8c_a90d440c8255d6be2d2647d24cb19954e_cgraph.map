@@ -1,0 +1,4 @@
+<map id="too_many_loops" name="too_many_loops">
+<area shape="rect" id="node1" title="Returns true if LOOPS iterations waits for more than one timer tick, otherwise false." alt="" coords="5,5,125,31"/>
+<area shape="rect" id="node2" href="$timer_8c.html#a804190f8e66f39ac2ddb5891de3eec73" title="Iterates through a simple loop LOOPS times, for implementing brief delays." alt="" coords="173,5,253,31"/>
+</map>

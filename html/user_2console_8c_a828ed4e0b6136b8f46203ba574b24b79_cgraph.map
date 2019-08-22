@@ -1,0 +1,15 @@
+<map id="hprintf" name="hprintf">
+<area shape="rect" id="node1" title="Like printf(), but writes output to the given HANDLE." alt="" coords="5,201,64,227"/>
+<area shape="rect" id="node2" href="$user_2console_8c.html#a2b26fd6b1bafd97fd9124b367d13b0eb" title="Formats the printf() format specification FORMAT with arguments given in ARGS and writes the output t..." alt="" coords="112,201,177,227"/>
+<area shape="rect" id="node3" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="227,104,299,129"/>
+<area shape="rect" id="node11" href="$user_2console_8c.html#a71d27fbc5040cb36319754d7d979844b" title="Adds C to the buffer in AUX, flushing it if the buffer fills up." alt="" coords="225,201,302,227"/>
+<area shape="rect" id="node12" href="$user_2console_8c.html#a548c59d90bd536a99704a52a16695bdd" title="Flushes the buffer in AUX." alt="" coords="388,252,438,277"/>
+<area shape="rect" id="node4" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="380,5,446,31"/>
+<area shape="rect" id="node5" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="359,55,467,80"/>
+<area shape="rect" id="node7" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="363,104,463,129"/>
+<area shape="rect" id="node8" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="350,153,476,179"/>
+<area shape="rect" id="node10" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="382,203,444,228"/>
+<area shape="rect" id="node6" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="524,80,612,105"/>
+<area shape="rect" id="node9" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="541,153,596,179"/>
+<area shape="rect" id="node13" href="$lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d" title=" " alt="" coords="544,252,593,277"/>
+</map>

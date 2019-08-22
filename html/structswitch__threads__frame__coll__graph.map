@@ -1,0 +1,5 @@
+<map id="switch_threads_frame" name="switch_threads_frame">
+<area shape="rect" id="node1" title="switch_thread()&#39;s stack frame." alt="" coords="5,207,157,232"/>
+<area shape="rect" id="node2" href="$structthread.html" title="A kernel thread or user process." alt="" coords="52,107,111,132"/>
+<area shape="rect" id="node3" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="44,6,118,31"/>
+</map>

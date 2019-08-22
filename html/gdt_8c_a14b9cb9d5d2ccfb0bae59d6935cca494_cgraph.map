@@ -1,0 +1,4 @@
+<map id="make_data_desc" name="make_data_desc">
+<area shape="rect" id="node1" title="Returns a descriptor for a writable data segment with base at 0, a limit of 4 GB, and the given DPL." alt="" coords="5,5,128,31"/>
+<area shape="rect" id="node2" href="$gdt_8c.html#a3c91913924f5aebd18e709f6120c071f" title="Returns a segment descriptor with the given 32&#45;bit BASE and 20&#45;bit LIMIT (whose interpretation depend..." alt="" coords="176,5,295,31"/>
+</map>

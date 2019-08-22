@@ -1,0 +1,6 @@
+<map id="semaphore_elem" name="semaphore_elem">
+<area shape="rect" id="node1" title="One semaphore in a list." alt="" coords="5,280,130,305"/>
+<area shape="rect" id="node2" href="$structsemaphore.html" title="A counting semaphore." alt="" coords="74,193,162,219"/>
+<area shape="rect" id="node3" href="$structlist.html" title="List." alt="" coords="78,107,116,132"/>
+<area shape="rect" id="node4" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="21,6,95,31"/>
+</map>

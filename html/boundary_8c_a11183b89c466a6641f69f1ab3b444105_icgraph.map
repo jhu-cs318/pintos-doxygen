@@ -1,0 +1,6 @@
+<map id="get_boundary_area" name="get_boundary_area">
+<area shape="rect" id="node1" title="Returns the beginning of a page." alt="" coords="317,40,454,65"/>
+<area shape="rect" id="node2" href="$boundary_8h.html#ab62469dc632c6f27511864e9258920d9" title="Returns a copy of SRC split across the boundary between two pages." alt="" coords="132,5,269,44"/>
+<area shape="rect" id="node4" href="$read-boundary_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Reads data spanning two pages in virtual address space, which must succeed." alt="" coords="161,68,240,93"/>
+<area shape="rect" id="node3" href="$create-bound_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Opens a file whose name spans the boundary between two pages." alt="" coords="5,12,84,37"/>
+</map>

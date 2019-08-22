@@ -1,0 +1,6 @@
+<map id="get_inumber" name="get_inumber">
+<area shape="rect" id="node1" title="Stores the inode number for FILE_NAME in *INUM." alt="" coords="5,55,101,80"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a5bbe56a416af8f77723b652362f742f7" title=" " alt="" coords="157,5,210,31"/>
+<area shape="rect" id="node3" href="$lib_2user_2syscall_8c.html#a7e7eb2098a672ca4e4bf2a95b11d1aee" title="lib/user/syscall.h" alt="" coords="149,55,218,80"/>
+<area shape="rect" id="node4" href="$lib_2user_2syscall_8c.html#a703a13bc53a317ea70b87280ad3d974e" title=" " alt="" coords="158,104,209,129"/>
+</map>

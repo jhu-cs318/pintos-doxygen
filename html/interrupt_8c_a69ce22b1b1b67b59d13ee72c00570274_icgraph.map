@@ -1,0 +1,5 @@
+<map id="pic_init" name="pic_init">
+<area shape="rect" id="node1" title="Programmable Interrupt Controller helpers." alt="" coords="247,5,310,31"/>
+<area shape="rect" id="node2" href="$interrupt_8h.html#ab3e596a633d94203771c1a2b10211d90" title="Initializes the interrupt system." alt="" coords="135,5,199,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

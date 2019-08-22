@@ -1,0 +1,6 @@
+<map id="cls" name="cls">
+<area shape="rect" id="node1" title="Clears the screen and moves the cursor to the upper left." alt="" coords="5,31,44,56"/>
+<area shape="rect" id="node2" href="$vga_8c.html#a45e9968eec2281219a9fdb355c77930e" title="Clears row Y to spaces." alt="" coords="102,5,181,31"/>
+<area shape="rect" id="node3" href="$vga_8c.html#ac16dc5267953b78624e2ed568776a04b" title="Moves the hardware cursor to (cx,cy)." alt="" coords="92,55,190,80"/>
+<area shape="rect" id="node4" href="$io_8h.html#a1b48739bd493432acaca70a8d4e103cb" title="Writes the 16&#45;bit DATA to PORT." alt="" coords="238,55,288,80"/>
+</map>

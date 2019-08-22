@@ -1,0 +1,5 @@
+<map id="input_putc" name="input_putc">
+<area shape="rect" id="node1" title="Adds a key to the input buffer." alt="" coords="186,31,269,56"/>
+<area shape="rect" id="node2" href="$kbd_8c.html#a342c6a1eb911b8e2a65a5dfba072492b" title=" " alt="" coords="5,5,138,31"/>
+<area shape="rect" id="node3" href="$serial_8c.html#a2d769aaa2d2ff184e5e70fcf4b9d2354" title="Serial interrupt handler." alt="" coords="17,55,126,80"/>
+</map>

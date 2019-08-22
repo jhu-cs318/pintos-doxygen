@@ -1,0 +1,8 @@
+<map id="mkdir" name="mkdir">
+<area shape="rect" id="node1" title=" " alt="" coords="392,55,446,80"/>
+<area shape="rect" id="node2" href="$mk-tree_8c.html#a4258980184dd5e41d79b4b0dce864dd8" title="Library function for creating a tree of directories." alt="" coords="266,5,342,31"/>
+<area shape="rect" id="node5" href="$mkdir_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="mkdir.c" alt="" coords="279,55,329,80"/>
+<area shape="rect" id="node6" href="$dir-empty-name_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Tries to create a directory named as the empty string, which must return failure." alt="" coords="265,104,344,129"/>
+<area shape="rect" id="node3" href="$mk-tree_8h.html#a8de2005d9fbb29002cae51ce8ed8f1e0" title="tests/filesys/extended/mk&#45;tree.h" alt="" coords="132,5,217,31"/>
+<area shape="rect" id="node4" href="$dir-mk-tree_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Creates directories /0/0/0 through /3/2/2 and creates files in the leaf directories." alt="" coords="5,5,84,31"/>
+</map>

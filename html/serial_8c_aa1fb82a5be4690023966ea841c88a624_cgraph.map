@@ -1,0 +1,9 @@
+<map id="init_poll" name="init_poll">
+<area shape="rect" id="node1" title="Initializes the serial port device for polling mode." alt="" coords="5,56,72,81"/>
+<area shape="rect" id="node2" href="$intq_8c.html#a74912dc0f8bf3b5cfeecab5630ed3f89" title="Initializes interrupt queue Q." alt="" coords="125,5,193,31"/>
+<area shape="rect" id="node6" href="$io_8h.html#a903c588b94e0e8386c8a6f8caa4a5a72" title="Writes byte DATA to PORT." alt="" coords="257,81,305,107"/>
+<area shape="rect" id="node7" href="$serial_8c.html#aedccb1dc6702ff87426404495a2a05ea" title="Configures the serial port for BPS bits per second." alt="" coords="120,107,198,132"/>
+<area shape="rect" id="node3" href="$synch_8c.html#aa760472aa4916bba476b2165ea25b411" title="Initializes LOCK." alt="" coords="246,5,316,31"/>
+<area shape="rect" id="node4" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="364,5,442,31"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="490,5,552,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="write_some_bytes" name="write_some_bytes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,134,105"/>
+<area shape="rect" id="node2" href="$block_8c.html#a66f8a413d9cb3ea11c9cd302f803daea" title="Returns the number of sectors in BLOCK." alt="" coords="194,5,277,31"/>
+<area shape="rect" id="node3" href="$lib_8c.html#a7380daad7085b08d0e037abc3136dccd" title=" " alt="" coords="216,55,255,80"/>
+<area shape="rect" id="node4" href="$random_8c.html#a17f74993b2b5314bf3479f2b47090991" title="Returns a pseudo&#45;random unsigned long." alt="" coords="182,104,289,129"/>
+<area shape="rect" id="node8" href="$lib_2user_2syscall_8c.html#a7d9f2533bbf31e3d1d4c5e1454efd41d" title=" " alt="" coords="211,153,260,179"/>
+<area shape="rect" id="node5" href="$random_8c.html#a9273f69f7fecbc77cca0204baaaf175a" title="Writes SIZE random bytes into BUF." alt="" coords="337,104,443,129"/>
+<area shape="rect" id="node6" href="$random_8c.html#af2a054338d7e0424f8cf6363610cd21b" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="491,79,582,104"/>
+<area shape="rect" id="node7" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="630,104,715,129"/>
+</map>

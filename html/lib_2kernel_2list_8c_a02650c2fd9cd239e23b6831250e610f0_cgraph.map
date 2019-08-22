@@ -1,0 +1,8 @@
+<map id="find_end_of_run" name="find_end_of_run">
+<area shape="rect" id="node1" title="Finds a run, starting at A and ending not after B, of list elements that are in nondecreasing order a..." alt="" coords="5,56,123,81"/>
+<area shape="rect" id="node2" href="$lib_2kernel_2list_8c.html#afb3307f0f8fb717f84cf74110d59196a" title="Returns the element after ELEM in its list." alt="" coords="171,31,242,56"/>
+<area shape="rect" id="node5" href="$lib_2kernel_2list_8c.html#a85f6e9def62332c1073959a9e7e6b4de" title="Returns the element before ELEM in its list." alt="" coords="171,80,242,105"/>
+<area shape="rect" id="node3" href="$lib_2kernel_2list_8c.html#aee78fb1351519ad20686f6eaf9018b4c" title="Returns true if ELEM is a head, false otherwise." alt="" coords="296,5,364,31"/>
+<area shape="rect" id="node4" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="290,55,369,80"/>
+<area shape="rect" id="node6" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="302,104,357,129"/>
+</map>

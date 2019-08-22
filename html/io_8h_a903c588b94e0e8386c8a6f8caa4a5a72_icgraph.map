@@ -1,0 +1,52 @@
+<map id="outb" name="outb">
+<area shape="rect" id="node1" title="Writes byte DATA to PORT." alt="" coords="1187,479,1235,504"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a18994f2e4fbaf81c8457ec32f872092e" title="Reads a byte from the CMOS register with the given INDEX and returns the byte read." alt="" coords="1020,808,1107,833"/>
+<area shape="rect" id="node6" href="$vga_8c.html#a9b860c306805e85629292c4ab39f0b14" title="Reads the current hardware cursor position into (*X,*Y)." alt="" coords="1020,209,1107,235"/>
+<area shape="rect" id="node15" href="$serial_8c.html#aa1fb82a5be4690023966ea841c88a624" title="Initializes the serial port device for polling mode." alt="" coords="835,707,901,732"/>
+<area shape="rect" id="node18" href="$ide_8c.html#acdfc60cf49c8edf42ed8d25b0d2b6314" title="Writes COMMAND to channel C and prepares for receiving a completion interrupt." alt="" coords="796,453,940,479"/>
+<area shape="rect" id="node23" href="$interrupt_8c.html#a63cfe8a21a3d7aca438e577f8ed5c50f" title="Sends an end&#45;of&#45;interrupt signal to the PIC for the given IRQ." alt="" coords="992,157,1135,183"/>
+<area shape="rect" id="node25" href="$interrupt_8c.html#a69ce22b1b1b67b59d13ee72c00570274" title="Programmable Interrupt Controller helpers." alt="" coords="836,355,899,380"/>
+<area shape="rect" id="node27" href="$pit_8h.html#a7dd39bb359cbd638f9134488ab47db4c" title="devices/pit.h" alt="" coords="988,107,1139,132"/>
+<area shape="rect" id="node28" href="$speaker_8h.html#a7ae6bbf92a40862ee9523cd43e69f925" title="Sets the PC speaker to emit a tone at the given FREQUENCY, in Hz." alt="" coords="822,53,913,79"/>
+<area shape="rect" id="node31" href="$serial_8c.html#a15fd75cc421e6379650204e80853a68a" title="Polls the serial port until it&#39;s ready, and then transmits BYTE." alt="" coords="1026,555,1101,580"/>
+<area shape="rect" id="node34" href="$shutdown_8h.html#a5a3f691cafea75080890d3c921840da7" title="devices/shutdown.h" alt="" coords="604,605,748,631"/>
+<area shape="rect" id="node37" href="$ide_8c.html#a03eb0d9954faefcc1634f76a286f78f5" title="Resets an ATA channel and waits for any devices present on it to finish the reset." alt="" coords="815,256,920,281"/>
+<area shape="rect" id="node38" href="$ide_8c.html#a7252ab4c28b6aed431703ba2b124e05e" title="Program D&#39;s channel so that D is now the selected disk." alt="" coords="1013,319,1115,344"/>
+<area shape="rect" id="node41" href="$ide_8c.html#ad7c31783f9f455b20c35d43f46ee03d8" title="Selects device D, waiting for it to become ready, and then writes SEC_NO to the disk&#39;s sector selecti..." alt="" coords="626,504,726,529"/>
+<area shape="rect" id="node42" href="$serial_8c.html#a2d769aaa2d2ff184e5e70fcf4b9d2354" title="Serial interrupt handler." alt="" coords="435,1060,544,1085"/>
+<area shape="rect" id="node43" href="$serial_8c.html#aedccb1dc6702ff87426404495a2a05ea" title="Configures the serial port for BPS bits per second." alt="" coords="1024,707,1103,732"/>
+<area shape="rect" id="node44" href="$shutdown_8h.html#aad6518493e9cbf5e4fefaa28934c22f2" title="Reboots the machine via the keyboard controller." alt="" coords="614,757,738,783"/>
+<area shape="rect" id="node46" href="$speaker_8h.html#a073f7570ba87d9cbf510616817c60b41" title="Turn off the PC speaker, by disconnecting the timer channel&#39;s output from the speaker." alt="" coords="1018,5,1109,31"/>
+<area shape="rect" id="node47" href="$serial_8c.html#ac89212325aed0ffe38beb0b4bde0bf30" title="Update interrupt enable register." alt="" coords="1028,909,1099,935"/>
+<area shape="rect" id="node3" href="$rtc_8h.html#a651ca69a3f0a7511a211e647f75531b3" title="Returns number of seconds since Unix epoch of January 1,." alt="" coords="442,807,537,832"/>
+<area shape="rect" id="node4" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="256,757,361,783"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="102,593,184,619"/>
+<area shape="rect" id="node7" href="$vga_8c.html#a17fb021b480a1f220d2579807fa2e398" title="Initializes the VGA text display." alt="" coords="657,177,695,203"/>
+<area shape="rect" id="node8" href="$vga_8h.html#a70b87bc0cb58a1effa2b2601afd998e3" title="devices/vga.h" alt="" coords="452,53,527,79"/>
+<area shape="rect" id="node9" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="242,107,375,132"/>
+<area shape="rect" id="node10" href="$kernel_2stdio_8h.html#abc310f2a04745562be1a5b1d2a64a5f8" title="lib/kernel/stdio.h" alt="" coords="114,132,172,157"/>
+<area shape="rect" id="node11" href="$stdio_8h.html#a5383753051468b122b02cfab90f262a9" title="Writes C to the vga display and serial port." alt="" coords="110,181,176,207"/>
+<area shape="rect" id="node13" href="$stdio_8h.html#ad6eb8da5b318991f44cdd98e20939b7d" title="Writes string S to the console, followed by a new&#45;line character." alt="" coords="120,33,166,59"/>
+<area shape="rect" id="node14" href="$kernel_2console_8c.html#ada83ac3a119c57c68d54ab7a5c805de3" title="Helper function for vprintf()." alt="" coords="92,83,194,108"/>
+<area shape="rect" id="node12" href="$tests_8c.html#a7380daad7085b08d0e037abc3136dccd" title="Prints failure message FORMAT as if with printf(), prefixing the output by the name of the test and F..." alt="" coords="5,181,44,207"/>
+<area shape="rect" id="node16" href="$serial_8h.html#a54e99a9877b7ed2a6be751fc43905978" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="615,859,737,884"/>
+<area shape="rect" id="node17" href="$serial_8h.html#aaff273496ffaa454bd47b00c1f6803cc" title="Sends BYTE to the serial port." alt="" coords="633,707,719,732"/>
+<area shape="rect" id="node19" href="$ide_8c.html#afc9cbaf0892e023867624dca21f5bfa2" title="Reads sector SEC_NO from disk D into BUFFER, which must have room for BLOCK_SECTOR_SIZE bytes." alt="" coords="453,529,526,555"/>
+<area shape="rect" id="node20" href="$ide_8c.html#a968318bffbdf3ecb701360fc0ed9cf49" title="Write sector SEC_NO to disk D from BUFFER, which must contain BLOCK_SECTOR_SIZE bytes." alt="" coords="452,480,527,505"/>
+<area shape="rect" id="node21" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="608,403,744,428"/>
+<area shape="rect" id="node22" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="458,301,521,327"/>
+<area shape="rect" id="node24" href="$interrupt_8c.html#ad2ddb6c69915597ee636e732afa5795a" title="Interrupt handlers." alt="" coords="822,155,914,180"/>
+<area shape="rect" id="node26" href="$interrupt_8h.html#ab3e596a633d94203771c1a2b10211d90" title="Initializes the interrupt system." alt="" coords="277,480,341,505"/>
+<area shape="rect" id="node30" href="$timer_8h.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="271,209,346,235"/>
+<area shape="rect" id="node29" href="$speaker_8h.html#a1326dce269503d1ba9fac4e40cdf453e" title="devices/speaker.h" alt="" coords="623,53,729,79"/>
+<area shape="rect" id="node32" href="$serial_8h.html#a04858117b8541474fe79c45a044b59cc" title="Flushes anything in the serial buffer out the port in polling mode." alt="" coords="823,555,912,580"/>
+<area shape="rect" id="node33" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="260,656,358,681"/>
+<area shape="rect" id="node35" href="$shutdown_8h.html#a1c9d5e29ad8899afe0c34571ddee18f9" title="Shuts down the machine in the way configured by shutdown_configure()." alt="" coords="450,757,529,783"/>
+<area shape="rect" id="node36" href="$init_8c.html#ad96d407a911fbb914fa8e4cfbf2faf0f" title="Prints a kernel command line help message and powers off the machine." alt="" coords="461,605,518,631"/>
+<area shape="rect" id="node39" href="$ide_8c.html#afb1b543e585d7b5757bf9406b8705349" title="Checks whether device D is an ATA disk and sets D&#39;s is_ata member appropriately." alt="" coords="800,305,935,331"/>
+<area shape="rect" id="node40" href="$ide_8c.html#a5d8393ec752f120abb30d97b14a69600" title="Select disk D in its channel, as select_device(), but wait for the channel to become idle before and ..." alt="" coords="801,404,934,429"/>
+<area shape="rect" id="node45" href="$kbd_8c.html#a342c6a1eb911b8e2a65a5dfba072492b" title=" " alt="" coords="423,959,556,984"/>
+<area shape="rect" id="node48" href="$serial_8h.html#adb6147ac44d14c383cb2a4ded6781d3c" title="devices/serial.h" alt="" coords="822,1011,914,1036"/>
+<area shape="rect" id="node49" href="$input_8h.html#a07e161b7f0ec81e4d4d4990e0b5e6a27" title="Retrieves a key from the input buffer." alt="" coords="635,1011,717,1036"/>
+<area shape="rect" id="node50" href="$input_8h.html#a44192b72f43870829e562e6c088ef08c" title="Adds a key to the input buffer." alt="" coords="635,1060,717,1085"/>
+</map>

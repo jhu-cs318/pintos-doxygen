@@ -1,0 +1,8 @@
+<map id="shuffle" name="shuffle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,66,81"/>
+<area shape="rect" id="node2" href="$random_8c.html#a17f74993b2b5314bf3479f2b47090991" title="Returns a pseudo&#45;random unsigned long." alt="" coords="114,31,221,56"/>
+<area shape="rect" id="node6" href="$lib_8c.html#aad94d3edfa05c32579b1c2d4b8d12aae" title=" " alt="" coords="141,80,193,105"/>
+<area shape="rect" id="node3" href="$random_8c.html#a9273f69f7fecbc77cca0204baaaf175a" title="Writes SIZE random bytes into BUF." alt="" coords="269,31,374,56"/>
+<area shape="rect" id="node4" href="$random_8c.html#af2a054338d7e0424f8cf6363610cd21b" title="Initializes or reinitializes the PRNG with the given SEED." alt="" coords="422,5,513,31"/>
+<area shape="rect" id="node5" href="$random_8c.html#ab02e0f9a7b14140cac015a2e93b45d8b" title="Swaps the bytes pointed to by A and B." alt="" coords="561,31,646,56"/>
+</map>

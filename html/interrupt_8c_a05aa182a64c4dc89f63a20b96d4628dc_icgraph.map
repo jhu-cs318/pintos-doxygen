@@ -1,0 +1,16 @@
+<map id="make_gate" name="make_gate">
+<area shape="rect" id="node1" title="Creates an gate that invokes FUNCTION." alt="" coords="801,104,888,129"/>
+<area shape="rect" id="node2" href="$interrupt_8c.html#a75ac431d18ce7aff146bef22379c1dcd" title="Interrupt Descriptor Table helpers." alt="" coords="638,79,751,104"/>
+<area shape="rect" id="node14" href="$interrupt_8c.html#a79e99b0236c49a7a12d52a2ec74fefa5" title="Creates a trap gate that invokes FUNCTION with the given DPL." alt="" coords="635,128,753,153"/>
+<area shape="rect" id="node3" href="$interrupt_8h.html#ab3e596a633d94203771c1a2b10211d90" title="Initializes the interrupt system." alt="" coords="496,29,561,55"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#a7e7d2edfe1ec7f51b54704080de2f4ca" title="Registers interrupt VEC_NO to invoke HANDLER with descriptor privilege level DPL." alt="" coords="470,128,587,153"/>
+<area shape="rect" id="node4" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,152,87,177"/>
+<area shape="rect" id="node6" href="$interrupt_8h.html#a567ded3251d2fc80b5eeea7fa77598c0" title="Registers external interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="305,128,422,153"/>
+<area shape="rect" id="node11" href="$interrupt_8h.html#af0bcb45d9c71169fc050681d20d91b3e" title="Registers internal interrupt VEC_NO to invoke HANDLER, which is named NAME for debugging purposes." alt="" coords="307,251,420,276"/>
+<area shape="rect" id="node7" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="164,53,228,79"/>
+<area shape="rect" id="node8" href="$kbd_8h.html#a2d4a794658f2ee47f466766d89c6e8e8" title="Initializes the keyboard." alt="" coords="162,103,229,128"/>
+<area shape="rect" id="node9" href="$serial_8h.html#a54e99a9877b7ed2a6be751fc43905978" title="Initializes the serial port device for queued interrupt&#45;driven I/O." alt="" coords="135,152,257,177"/>
+<area shape="rect" id="node10" href="$timer_8h.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Sets up the timer to interrupt TIMER_FREQ times per second, and registers the corresponding interrupt..." alt="" coords="158,201,233,227"/>
+<area shape="rect" id="node12" href="$exception_8h.html#a9dda131d124b9968825742beac31305d" title="Registers handlers for interrupts that can be caused by user programs." alt="" coords="144,251,247,276"/>
+<area shape="rect" id="node13" href="$userprog_2syscall_8h.html#a797876702ac4b3a53fa69839f02642f4" title="userprog/syscall.h" alt="" coords="153,300,239,325"/>
+</map>

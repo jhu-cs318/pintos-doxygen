@@ -1,0 +1,52 @@
+<map id="thread_start" name="thread_start">
+<area shape="rect" id="node1" title="Starts preemptive thread scheduling by enabling interrupts." alt="" coords="5,550,98,575"/>
+<area shape="rect" id="node2" href="$thread_8c.html#a563c47d80a1f39ea3d9b6a76a28b2d5e" title=" " alt="" coords="177,397,219,422"/>
+<area shape="rect" id="node3" href="$interrupt_8c.html#a5a896b58d69d8d5ffa7b738c31b924d1" title="Enables interrupts and returns the previous interrupt status." alt="" coords="1390,498,1477,523"/>
+<area shape="rect" id="node6" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="875,549,968,574"/>
+<area shape="rect" id="node29" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="158,1409,237,1434"/>
+<area shape="rect" id="node31" href="$thread_8c.html#a8f7759a71c1c49fc8761ef92aa90a36d" title="Creates a new kernel thread named NAME with the given initial PRIORITY, which executes FUNCTION passi..." alt="" coords="146,1182,249,1207"/>
+<area shape="rect" id="node4" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1570,549,1661,574"/>
+<area shape="rect" id="node5" href="$interrupt_8c.html#ac657e1386ac8c557ddafbcc732427fbf" title="Returns the current interrupt status." alt="" coords="1565,397,1666,422"/>
+<area shape="rect" id="node7" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="1389,1106,1478,1131"/>
+<area shape="rect" id="node8" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="1209,1157,1308,1182"/>
+<area shape="rect" id="node9" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="1204,1359,1313,1385"/>
+<area shape="rect" id="node14" href="$thread_8c.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="1051,246,1148,271"/>
+<area shape="rect" id="node28" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="1725,397,1833,422"/>
+<area shape="rect" id="node10" href="$lib_2kernel_2list_8c.html#a0769702e25e1739befbbd453d9fc73bf" title="Returns LIST&#39;s tail." alt="" coords="1746,1206,1813,1231"/>
+<area shape="rect" id="node11" href="$lib_2kernel_2list_8c.html#a57866ab170795aa4191fa14fa1c39dd3" title="Inserts ELEM just before BEFORE, which may be either an interior element or a tail." alt="" coords="1395,1409,1472,1434"/>
+<area shape="rect" id="node12" href="$lib_2kernel_2list_8c.html#ae2dec7db343c61370bd42b559ecf80bd" title="Returns true if ELEM is an interior element, false otherwise." alt="" coords="1897,1309,1976,1334"/>
+<area shape="rect" id="node13" href="$lib_2kernel_2list_8c.html#afd128d25023ae454774ad1754af3ee74" title="Returns true if ELEM is a tail, false otherwise." alt="" coords="1588,1409,1643,1434"/>
+<area shape="rect" id="node15" href="$thread_8c.html#a63e3ec45b7bf0028e55f2b9ab1603306" title="Schedules a new process." alt="" coords="1221,346,1296,371"/>
+<area shape="rect" id="node16" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1899,1158,1975,1183"/>
+<area shape="rect" id="node17" href="$intq_8c.html#ac473f50d2829cba1321d34a57c425042" title="Returns the position after POS within an intq." alt="" coords="1410,297,1457,322"/>
+<area shape="rect" id="node18" href="$thread_8c.html#ace7a46dcf0f5c9c4cbb8f47a5b3c76f5" title="Chooses and returns the next thread to be scheduled." alt="" coords="1365,1055,1502,1081"/>
+<area shape="rect" id="node22" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="1881,94,1992,119"/>
+<area shape="rect" id="node24" href="$switch_8h.html#aa804e4fa090f4acb6a73b98f64b81cff" title="Switches from CUR, which must be the running thread, to NEXT, which must also be running switch_threa..." alt="" coords="1378,346,1489,371"/>
+<area shape="rect" id="node25" href="$thread_8c.html#acbbd25908c41e62d44a179cfbc3962e2" title="Completes a thread switch by activating the new thread&#39;s page tables, and, if the previous thread is ..." alt="" coords="1361,145,1506,170"/>
+<area shape="rect" id="node19" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="1575,1055,1656,1081"/>
+<area shape="rect" id="node20" href="$lib_2kernel_2list_8c.html#afb61f0ab134a52505ed89bc2d1024165" title="Removes the front element from LIST and returns it." alt="" coords="1565,1157,1666,1182"/>
+<area shape="rect" id="node21" href="$lib_2kernel_2list_8c.html#a9574755a392b556ddb650b8672f9f4af" title="Removes ELEM from its list and returns the element that followed it." alt="" coords="1735,1157,1824,1182"/>
+<area shape="rect" id="node23" href="$vaddr_8h.html#a5a07aa5a4d70694db19884626f4b0fa3" title="Round down to nearest page boundary." alt="" coords="2040,94,2157,119"/>
+<area shape="rect" id="node26" href="$palloc_8c.html#ad3fe56f7c611216596e7565fb8521409" title="Frees the page at PAGE." alt="" coords="1554,245,1677,270"/>
+<area shape="rect" id="node27" href="$process_8c.html#a23823b283ef2815ecc5ae19e772dac24" title="Sets up the CPU for running user code in the current thread." alt="" coords="1555,195,1676,221"/>
+<area shape="rect" id="node30" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="326,1511,388,1537"/>
+<area shape="rect" id="node32" href="$thread_8c.html#a907260c0438a0be4e75e300396d3e30e" title="Allocates a SIZE&#45;byte frame at the top of thread T&#39;s stack and returns a pointer to the frame&#39;s base." alt="" coords="487,1485,577,1510"/>
+<area shape="rect" id="node33" href="$thread_8c.html#a382e72d5d2fb4cfe2b5034eb62a887c8" title="Returns a tid to use for a new thread." alt="" coords="488,1106,577,1131"/>
+<area shape="rect" id="node38" href="$thread_8c.html#a0cd30c260607aec4597c5b613c5e013f" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="1043,1258,1156,1283"/>
+<area shape="rect" id="node39" href="$thread_8c.html#a34a9d4a5ab1bf577041f4c3f1b8f6c89" title="Does basic initialization of T as a blocked thread named NAME." alt="" coords="1058,1410,1141,1435"/>
+<area shape="rect" id="node44" href="$thread_8c.html#ac40007d0837868671dffa80f581b4723" title="Function used as the basis for a kernel thread." alt="" coords="870,499,973,525"/>
+<area shape="rect" id="node47" href="$palloc_8c.html#aa8cccdccaa05d4023e3e65c15ed486af" title="Obtains a single free page and returns its kernel virtual address." alt="" coords="297,1258,417,1283"/>
+<area shape="rect" id="node50" href="$switch_8h.html#a77fa63aafbf21cce19006cb6bfcd3fa6" title=" " alt="" coords="309,1157,405,1182"/>
+<area shape="rect" id="node34" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="676,954,772,979"/>
+<area shape="rect" id="node36" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="676,1118,772,1143"/>
+<area shape="rect" id="node35" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="847,998,995,1037"/>
+<area shape="rect" id="node37" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="883,1131,959,1157"/>
+<area shape="rect" id="node40" href="$string_8c.html#ab1e7a2e7d71d61a771b43da7c18fdba6" title="Sets the SIZE bytes in DST to VALUE." alt="" coords="1224,1409,1293,1434"/>
+<area shape="rect" id="node41" href="$string_8c.html#a4637af6f79bac4043e1064f0837d0ddc" title="Copies string SRC to DST." alt="" coords="1229,1561,1288,1586"/>
+<area shape="rect" id="node42" href="$string_8c.html#ac81277697db3331c21cac338b661817a" title="Copies SIZE bytes from SRC to DST, which must not overlap." alt="" coords="1398,1610,1469,1635"/>
+<area shape="rect" id="node43" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="1407,1561,1460,1586"/>
+<area shape="rect" id="node45" href="$thread_8c.html#a87c2438941819bb3cc31658aa9eb66fe" title="Deschedules the current thread and destroys it." alt="" coords="1056,701,1143,726"/>
+<area shape="rect" id="node46" href="$process_8c.html#aebdb54e5e3307f27106f43a7c4d3536c" title="Free the current process&#39;s resources." alt="" coords="1210,751,1307,777"/>
+<area shape="rect" id="node48" href="$palloc_8c.html#a135bc426d035b41313b4542adfd2c05f" title="Obtains and returns a group of PAGE_CNT contiguous free pages." alt="" coords="465,1258,600,1283"/>
+<area shape="rect" id="node49" href="$bitmap_8c.html#a9ba55f2ff408378a1127282264353651" title="Finds the first group of CNT consecutive bits in B at or after START that are all set to VALUE,..." alt="" coords="648,1258,799,1283"/>
+</map>

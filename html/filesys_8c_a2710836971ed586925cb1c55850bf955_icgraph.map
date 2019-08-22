@@ -1,0 +1,5 @@
+<map id="do_format" name="do_format">
+<area shape="rect" id="node1" title="Formats the file system." alt="" coords="266,5,347,31"/>
+<area shape="rect" id="node2" href="$filesys_8h.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="135,5,218,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pte_create_user" name="pte_create_user">
+<area shape="rect" id="node1" title="Returns a PTE that points to PAGE." alt="" coords="5,31,123,56"/>
+<area shape="rect" id="node2" href="$pte_8h.html#abf0431b823576ecff35456407f0bd987" title="Returns a PTE that points to PAGE." alt="" coords="171,31,299,56"/>
+<area shape="rect" id="node3" href="$vaddr_8h.html#ac12acb882dfd1a70e6c8f69935dc3747" title="Offset within a page." alt="" coords="347,5,408,31"/>
+<area shape="rect" id="node4" href="$vaddr_8h.html#a0f6ff2f4a18892d83d6e1c1a3c2d9f9b" title="Returns physical address at which kernel virtual address VADDR is mapped." alt="" coords="355,55,401,80"/>
+<area shape="rect" id="node5" href="$vaddr_8h.html#ad3a451f5e710dfb7831cb7be9a1e04f5" title="Returns true if VADDR is a kernel virtual address." alt="" coords="456,55,572,80"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="do_remove" name="do_remove">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,93,107"/>
+<area shape="rect" id="node2" href="$lib_2user_2syscall_8c.html#a7a5f4b007384216b3290a57447198e93" title=" " alt="" coords="144,56,210,81"/>
+<area shape="rect" id="node3" href="$lib_2stdio_8c.html#a1286c6b071007938f54e9b859109f89d" title="Like vprintf(), except that output is stored into BUFFER, which must have space for BUF_SIZE characte..." alt="" coords="141,105,213,131"/>
+<area shape="rect" id="node4" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="283,80,355,105"/>
+<area shape="rect" id="node12" href="$lib_2stdio_8c.html#acdff2b19969329b7777564346ac98c5d" title="Helper function for vsnprintf()." alt="" coords="261,129,377,155"/>
+<area shape="rect" id="node5" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="456,5,521,31"/>
+<area shape="rect" id="node6" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="435,55,542,80"/>
+<area shape="rect" id="node8" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="439,104,538,129"/>
+<area shape="rect" id="node9" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="425,153,552,179"/>
+<area shape="rect" id="node11" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="458,203,519,228"/>
+<area shape="rect" id="node7" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="600,80,688,105"/>
+<area shape="rect" id="node10" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="616,153,672,179"/>
+</map>

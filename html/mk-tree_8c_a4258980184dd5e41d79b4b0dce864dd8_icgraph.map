@@ -1,0 +1,5 @@
+<map id="do_mkdir" name="do_mkdir">
+<area shape="rect" id="node1" title="Library function for creating a tree of directories." alt="" coords="265,5,341,31"/>
+<area shape="rect" id="node2" href="$mk-tree_8h.html#a8de2005d9fbb29002cae51ce8ed8f1e0" title="tests/filesys/extended/mk&#45;tree.h" alt="" coords="132,5,217,31"/>
+<area shape="rect" id="node3" href="$dir-mk-tree_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Creates directories /0/0/0 through /3/2/2 and creates files in the leaf directories." alt="" coords="5,5,84,31"/>
+</map>

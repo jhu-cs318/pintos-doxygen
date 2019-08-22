@@ -1,0 +1,4 @@
+<map id="umod64" name="umod64">
+<area shape="rect" id="node1" title="Divides unsigned 64&#45;bit N by unsigned 64&#45;bit D and returns the remainder." alt="" coords="141,5,210,31"/>
+<area shape="rect" id="node2" href="$arithmetic_8c.html#a94a6f118db82be6d56a9b44918a72757" title="Unsigned 64&#45;bit remainder." alt="" coords="5,5,93,31"/>
+</map>

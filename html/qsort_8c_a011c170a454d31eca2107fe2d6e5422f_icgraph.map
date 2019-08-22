@@ -1,0 +1,6 @@
+<map id="swap" name="swap">
+<area shape="rect" id="node1" title="Swaps the bytes at *A and *B." alt="" coords="359,29,411,55"/>
+<area shape="rect" id="node2" href="$qsort_8c.html#abf02b7ca566ad9ddc56ca25d1ead823f" title="Partitions ARRAY in&#45;place in an initial run of bytes all less than PIVOT, followed by a run of bytes ..." alt="" coords="242,29,311,55"/>
+<area shape="rect" id="node3" href="$qsort_8h.html#a97da28846f67c9c28793f03e490e22fa" title="tests/vm/qsort.h" alt="" coords="104,29,194,55"/>
+<area shape="rect" id="node4" href="$child-qsort-mm_8c.html#a015eacc15e8c9c88484e486e7c48f5ff" title=" " alt="" coords="5,29,56,55"/>
+</map>

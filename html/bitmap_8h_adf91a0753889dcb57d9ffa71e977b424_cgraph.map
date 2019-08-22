@@ -1,0 +1,7 @@
+<map id="bitmap_none" name="bitmap_none">
+<area shape="rect" id="node1" title="Returns true if no bits in B between START and START + CNT, exclusive, are set to true,..." alt="" coords="5,31,104,56"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#a90f5f9e5e7afbd943d0c6c33fc0d8557" title="Returns true if any bits in B between START and START + CNT, exclusive, are set to VALUE,..." alt="" coords="152,31,270,56"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#ab8d6660c5e30dab9cecef1240c7423d9" title="Returns the value of the bit numbered IDX in B." alt="" coords="318,31,408,56"/>
+<area shape="rect" id="node4" href="$bitmap_8c.html#acc12f810fdb7b50a620c3852c3656d63" title="Returns an elem_type where only the bit corresponding to BIT_IDX is turned on." alt="" coords="456,5,531,31"/>
+<area shape="rect" id="node5" href="$bitmap_8c.html#abb94f95006e0ec6ff6b5c88262f28d74" title="Returns the index of the element that contains the bit numbered BIT_IDX." alt="" coords="456,55,531,80"/>
+</map>

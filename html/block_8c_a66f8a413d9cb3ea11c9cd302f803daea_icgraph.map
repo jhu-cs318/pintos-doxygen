@@ -1,0 +1,24 @@
+<map id="block_size" name="block_size">
+<area shape="rect" id="node1" title="Returns the number of sectors in BLOCK." alt="" coords="994,231,1077,256"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#ad812c9d34d0b57984bfd95de5926dda8" title="Creates and returns a bitmap with BIT_CNT bits in the BLOCK_SIZE bytes of storage preallocated at BLO..." alt="" coords="796,29,946,55"/>
+<area shape="rect" id="node6" href="$lib_8h.html#aa0ad2e95360b59ee24361677637ed609" title=" " alt="" coords="807,104,935,129"/>
+<area shape="rect" id="node8" href="$seq-test_8h.html#ad8cec223129971af68dbb2b7671dcf3a" title="tests/filesys/seq&#45;test.h" alt="" coords="473,131,545,156"/>
+<area shape="rect" id="node12" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="816,205,926,231"/>
+<area shape="rect" id="node13" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="609,256,748,281"/>
+<area shape="rect" id="node17" href="$free-map_8h.html#a5fa440f72db2c255d095ecf34aff9a7e" title="Initializes the free map." alt="" coords="458,307,560,332"/>
+<area shape="rect" id="node19" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="290,357,391,383"/>
+<area shape="rect" id="node21" href="$grow-two-files_8c.html#afae26c760b28a632091df7565c0e8224" title=" " alt="" coords="806,408,935,433"/>
+<area shape="rect" id="node3" href="$palloc_8c.html#ae93da2ef876a9e957a6245fa2bd68a1f" title="Initializes pool P as starting at START and ending at END, naming it NAME for debugging purposes." alt="" coords="643,5,714,31"/>
+<area shape="rect" id="node4" href="$palloc_8h.html#acc2c206763e5de4e4414fda821ca6db8" title="Initializes the page allocator." alt="" coords="140,107,220,132"/>
+<area shape="rect" id="node5" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,281,87,307"/>
+<area shape="rect" id="node7" href="$lib_8h.html#a63f613d854aaeef7dbdcf873febdab48" title=" " alt="" coords="638,55,719,80"/>
+<area shape="rect" id="node11" href="$multi-child-fd_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="Opens a file and then runs a subprocess that tries to close the file." alt="" coords="639,104,718,129"/>
+<area shape="rect" id="node10" href="$grow-sparse_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="469,56,548,81"/>
+<area shape="rect" id="node9" href="$grow-file-size_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="301,131,380,156"/>
+<area shape="rect" id="node14" href="$partition_8h.html#a4fdb0ebb310a02d435b287dd185a6daa" title="devices/partition.h" alt="" coords="456,256,561,281"/>
+<area shape="rect" id="node15" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="273,256,408,281"/>
+<area shape="rect" id="node16" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="148,256,212,281"/>
+<area shape="rect" id="node18" href="$filesys_8h.html#af905a48e295d86405ec08c307b6272f5" title="Initializes the file system module." alt="" coords="299,307,382,332"/>
+<area shape="rect" id="node20" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,357,225,383"/>
+<area shape="rect" id="node22" href="$grow-two-files_8c.html#a8a4533f287d99bb2d7c24c0e29c9a449" title="tests/main.h" alt="" coords="639,408,718,433"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="init_pool" name="init_pool">
+<area shape="rect" id="node1" title="Initializes pool P as starting at START and ending at END, naming it NAME for debugging purposes." alt="" coords="5,124,76,149"/>
+<area shape="rect" id="node2" href="$bitmap_8c.html#a8192bb283d7342152e4740c3b528ff84" title="Returns the number of bytes required to accomodate a bitmap with BIT_CNT bits (for use with bitmap_cr..." alt="" coords="322,5,440,31"/>
+<area shape="rect" id="node5" href="$bitmap_8c.html#ad812c9d34d0b57984bfd95de5926dda8" title="Creates and returns a bitmap with BIT_CNT bits in the BLOCK_SIZE bytes of storage preallocated at BLO..." alt="" coords="124,75,274,100"/>
+<area shape="rect" id="node15" href="$synch_8c.html#aa760472aa4916bba476b2165ea25b411" title="Initializes LOCK." alt="" coords="164,148,234,173"/>
+<area shape="rect" id="node18" href="$lib_2stdio_8c.html#a98631211a4a8aee62f572375d5b637be" title="Writes formatted output to the console." alt="" coords="174,272,225,297"/>
+<area shape="rect" id="node3" href="$bitmap_8c.html#a2a7a926eb6f971a33a2ce103b73aff38" title="Returns the number of bytes required for BIT_CNT bits." alt="" coords="522,5,594,31"/>
+<area shape="rect" id="node4" href="$bitmap_8c.html#a12b88bb32eb5563c12b75f09681267df" title="Returns the number of elements required for BIT_CNT bits." alt="" coords="702,5,777,31"/>
+<area shape="rect" id="node6" href="$bitmap_8c.html#ad1c4bbb333372b166e232cf271236c90" title="Setting and testing multiple bits." alt="" coords="327,104,435,129"/>
+<area shape="rect" id="node14" href="$block_8c.html#a66f8a413d9cb3ea11c9cd302f803daea" title="Returns the number of sectors in BLOCK." alt="" coords="339,55,423,80"/>
+<area shape="rect" id="node7" href="$bitmap_8c.html#a7b2eaaf4ee3c0f7794b4e5293f3b9760" title="Sets the CNT bits starting at START in B to VALUE." alt="" coords="488,55,628,80"/>
+<area shape="rect" id="node13" href="$bitmap_8c.html#a576f7d29f091eac024f70ae8d68997a9" title="Bitmap size." alt="" coords="512,104,605,129"/>
+<area shape="rect" id="node8" href="$bitmap_8c.html#a766a7941acc1371fb82ed4f70a1ecf37" title="Setting and testing single bits." alt="" coords="696,55,783,80"/>
+<area shape="rect" id="node9" href="$bitmap_8c.html#adb8912537854d4a2dcb1f35940a7134b" title="Atomically sets the bit numbered BIT_IDX in B to true." alt="" coords="868,29,967,55"/>
+<area shape="rect" id="node12" href="$bitmap_8c.html#a5bb6be898ca442c95e725be80c2369a6" title="Atomically sets the bit numbered BIT_IDX in B to false." alt="" coords="868,79,967,104"/>
+<area shape="rect" id="node10" href="$bitmap_8c.html#acc12f810fdb7b50a620c3852c3656d63" title="Returns an elem_type where only the bit corresponding to BIT_IDX is turned on." alt="" coords="1087,29,1161,55"/>
+<area shape="rect" id="node11" href="$bitmap_8c.html#abb94f95006e0ec6ff6b5c88262f28d74" title="Returns the index of the element that contains the bit numbered BIT_IDX." alt="" coords="1087,79,1161,104"/>
+<area shape="rect" id="node16" href="$synch_8c.html#a1349a31f4880cf4eae026761f0ab3343" title="This file is derived from source code for the Nachos instructional operating system." alt="" coords="342,153,420,179"/>
+<area shape="rect" id="node17" href="$lib_2kernel_2list_8c.html#a8aa862d10f52f7b0348fce990c7c12db" title="Initializes LIST as an empty list." alt="" coords="527,153,589,179"/>
+<area shape="rect" id="node19" href="$kernel_2console_8c.html#aae4ab8b56862ed0a04505cafb8a05112" title="The standard vprintf() function, which is like printf() but uses a va_list." alt="" coords="352,353,410,379"/>
+<area shape="rect" id="node20" href="$lib_2stdio_8c.html#a54580ccfcedfa31b4b384cacc8966519" title="Internal functions." alt="" coords="522,203,595,228"/>
+<area shape="rect" id="node28" href="$kernel_2console_8c.html#a69b6a57a329ae666df343a081a51e7a5" title="Acquires the console lock." alt="" coords="680,353,799,379"/>
+<area shape="rect" id="node40" href="$kernel_2console_8c.html#ace2f2e53045fdaa51273a6e45cc63044" title="Releases the console lock." alt="" coords="499,721,618,747"/>
+<area shape="rect" id="node46" href="$kernel_2console_8c.html#ada83ac3a119c57c68d54ab7a5c805de3" title="Helper function for vprintf()." alt="" coords="507,796,609,821"/>
+<area shape="rect" id="node21" href="$lib_2stdio_8c.html#a1759795abada0ce655326c0754a46c96" title="Wrapper for __vprintf() that converts varargs into a va_list." alt="" coords="707,153,772,179"/>
+<area shape="rect" id="node22" href="$lib_2stdio_8c.html#afe54765b33c418c6ceeaea8cc30eea9a" title="Performs an integer conversion, writing output to OUTPUT with auxiliary data AUX." alt="" coords="686,252,793,277"/>
+<area shape="rect" id="node24" href="$lib_2stdio_8c.html#afb7ef1a1027f82aa276d48354a0b9218" title="Formats the LENGTH characters starting at STRING according to the conversion specified in C." alt="" coords="690,203,789,228"/>
+<area shape="rect" id="node25" href="$lib_2stdio_8c.html#a6b06e855119acdd96dbc1bf3336cd2c7" title="Parses conversion option characters starting at FORMAT and initializes C appropriately." alt="" coords="676,301,803,327"/>
+<area shape="rect" id="node27" href="$string_8c.html#a0862027ba42b443d4ce8ff4a0d9b6459" title="If STRING is less than MAXLEN characters in length, returns its actual length." alt="" coords="709,104,770,129"/>
+<area shape="rect" id="node23" href="$lib_2stdio_8c.html#a9248d4643c7dd4c03f632fb1ce2b9d5f" title="Writes CH to OUTPUT with auxiliary data AUX, CNT times." alt="" coords="873,203,961,228"/>
+<area shape="rect" id="node26" href="$ctype_8h.html#ad7fd5ce3790b81c86de5502ff6853f3a" title=" " alt="" coords="890,252,945,277"/>
+<area shape="rect" id="node29" href="$interrupt_8c.html#ab253c940fea3774ac64e8c53b05a57a2" title="Returns true during processing of an external interrupt and false at all other times." alt="" coords="1469,595,1559,620"/>
+<area shape="rect" id="node30" href="$synch_8c.html#aa9021f4c36b4b177c557e0ed8967d048" title="Acquires LOCK, sleeping until it becomes available if necessary." alt="" coords="869,455,966,480"/>
+<area shape="rect" id="node31" href="$synch_8c.html#a3564cf7ad3b72bee0dd6cdd211ccd666" title="Returns true if the current thread holds LOCK, false otherwise." alt="" coords="1264,404,1412,443"/>
+<area shape="rect" id="node32" href="$thread_8c.html#a13774a29a2abd2f197ceb07815f2a6ff" title="Returns the running thread." alt="" coords="1460,468,1568,493"/>
+<area shape="rect" id="node35" href="$synch_8c.html#ae10ded72d3b93a832b7107566f09286c" title="Down or &quot;P&quot; operation on a semaphore." alt="" coords="1077,671,1171,696"/>
+<area shape="rect" id="node33" href="$thread_8c.html#a85274904406e17925db793a7603f9c49" title="Initializes the threading system by transforming the code that&#39;s currently running into a thread." alt="" coords="1633,695,1709,720"/>
+<area shape="rect" id="node34" href="$thread_8c.html#a42e628208d70ba10d79c26d902b60650" title="Returns the running thread." alt="" coords="1616,468,1727,493"/>
+<area shape="rect" id="node36" href="$interrupt_8c.html#abb2fa56d0ab9adc628c697b6190430c3" title="Disables interrupts and returns the previous interrupt status." alt="" coords="1469,1000,1559,1025"/>
+<area shape="rect" id="node37" href="$interrupt_8c.html#ae3ae93a45d368c3d64fd0b473bd303d0" title="Enables or disables interrupts as specified by LEVEL and returns the previous interrupt status." alt="" coords="1288,975,1388,1000"/>
+<area shape="rect" id="node38" href="$lib_2kernel_2list_8c.html#a997639d9e16bed1f4a450c0bdf7959ba" title="Inserts ELEM at the end of LIST, so that it becomes the back in LIST." alt="" coords="1283,823,1393,848"/>
+<area shape="rect" id="node39" href="$thread_8c.html#ad70c4eeb51cd5b0ce2abb939924c7469" title="Puts the current thread to sleep." alt="" coords="1289,620,1387,645"/>
+<area shape="rect" id="node41" href="$synch_8c.html#a0616a97ad47869923552432c218f068a" title="Releases LOCK, which must be owned by the current thread." alt="" coords="691,772,788,797"/>
+<area shape="rect" id="node42" href="$synch_8c.html#a6da4176e1c419bd4467b181c66b077da" title="Up or &quot;V&quot; operation on a semaphore." alt="" coords="879,899,956,924"/>
+<area shape="rect" id="node43" href="$lib_2kernel_2list_8c.html#a5591fb615fa4861afb657609792b0777" title="Returns true if LIST is empty, false otherwise." alt="" coords="1083,825,1165,851"/>
+<area shape="rect" id="node44" href="$lib_2kernel_2list_8c.html#afb61f0ab134a52505ed89bc2d1024165" title="Removes the front element from LIST and returns it." alt="" coords="1073,875,1175,900"/>
+<area shape="rect" id="node45" href="$thread_8c.html#a0cd30c260607aec4597c5b613c5e013f" title="Transitions a blocked thread T to the ready&#45;to&#45;run state." alt="" coords="1068,924,1180,949"/>
+<area shape="rect" id="node47" href="$kernel_2console_8c.html#a5d98987075545c56db87c51597a04bdd" title="Writes C to the vga display and serial port." alt="" coords="851,1024,984,1049"/>
+<area shape="rect" id="node48" href="$kernel_2console_8c.html#ac9311ca129f215c0c8c07cd095a72f2f" title="Returns true if the current thread has the console lock, false otherwise." alt="" coords="1032,608,1216,647"/>
+<area shape="rect" id="node49" href="$serial_8c.html#a07c75f3160eed07281583bfaf8eddc1b" title="Sends BYTE to the serial port." alt="" coords="1081,1125,1167,1151"/>
+<area shape="rect" id="node50" href="$vga_8c.html#a39f191e69844ad1aca267e74223651bd" title="Writes C to the VGA text display, interpreting control characters in the conventional ways." alt="" coords="1086,1076,1162,1101"/>
+</map>

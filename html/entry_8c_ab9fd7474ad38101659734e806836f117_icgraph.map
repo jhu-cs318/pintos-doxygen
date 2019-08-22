@@ -1,0 +1,5 @@
+<map id="_start" name="_start">
+<area shape="rect" id="node1" title=" " alt="" coords="269,5,323,31"/>
+<area shape="rect" id="node2" href="$init_8c.html#a83a23df197d45e3798aaa46d01d06af7" title="Populates the base page directory and page table with the kernel virtual mapping, and then sets up th..." alt="" coords="135,5,221,31"/>
+<area shape="rect" id="node3" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,5,87,31"/>
+</map>

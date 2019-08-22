@@ -1,0 +1,6 @@
+<map id="partition" name="partition">
+<area shape="rect" id="node1" title="A partition of a block device." alt="" coords="96,193,165,219"/>
+<area shape="rect" id="node2" href="$structblock.html" title="A block device." alt="" coords="104,107,157,132"/>
+<area shape="rect" id="node3" href="$structlist__elem.html" title="Doubly linked list." alt="" coords="5,6,79,31"/>
+<area shape="rect" id="node4" href="$structblock__operations.html" title="Lower&#45;level interface to block device drivers." alt="" coords="157,6,279,31"/>
+</map>

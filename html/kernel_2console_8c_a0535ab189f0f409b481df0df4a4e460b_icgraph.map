@@ -1,0 +1,10 @@
+<map id="console_print_stats" name="console_print_stats">
+<area shape="rect" id="node1" title="Prints console statistics." alt="" coords="737,81,873,107"/>
+<area shape="rect" id="node2" href="$shutdown_8c.html#ab00adda36155b238b8c39dcd96f13cd9" title="Print statistics about Pintos execution." alt="" coords="606,81,689,107"/>
+<area shape="rect" id="node3" href="$shutdown_8h.html#a5a3f691cafea75080890d3c921840da7" title="devices/shutdown.h" alt="" coords="414,81,558,107"/>
+<area shape="rect" id="node4" href="$shutdown_8h.html#a1c9d5e29ad8899afe0c34571ddee18f9" title="Shuts down the machine in the way configured by shutdown_configure()." alt="" coords="288,56,366,81"/>
+<area shape="rect" id="node7" href="$init_8c.html#ad96d407a911fbb914fa8e4cfbf2faf0f" title="Prints a kernel command line help message and powers off the machine." alt="" coords="298,105,356,131"/>
+<area shape="rect" id="node5" href="$kernel_2debug_8c.html#a0dba4a46c338129ae12e314e07e9fbe3" title="Halts the OS, printing the source file name, line number, and function name, plus a user&#45;specific mes..." alt="" coords="138,5,236,31"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,81,87,107"/>
+<area shape="rect" id="node8" href="$init_8c.html#a598c2f3a0a33552aa203aa847dc265b6" title="Parses options in ARGV[] and returns the first non&#45;option argument." alt="" coords="135,107,240,132"/>
+</map>

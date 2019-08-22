@@ -1,0 +1,5 @@
+<map id="strstr" name="strstr">
+<area shape="rect" id="node1" title="Returns a pointer to the first occurrence of NEEDLE within HAYSTACK." alt="" coords="5,31,56,56"/>
+<area shape="rect" id="node2" href="$string_8c.html#a19c6163b9e87b586f4ddb7773faf9172" title="Find the first differing byte in the two blocks of SIZE bytes at A and B." alt="" coords="104,5,180,31"/>
+<area shape="rect" id="node3" href="$string_8c.html#a2869404e70f06f4477271f26ce8c4920" title="Returns the length of STRING." alt="" coords="115,55,169,80"/>
+</map>

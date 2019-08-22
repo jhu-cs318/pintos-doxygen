@@ -1,0 +1,19 @@
+<map id="dir_open" name="dir_open">
+<area shape="rect" id="node1" title="Opens and returns the directory for the given INODE, of which it takes ownership." alt="" coords="1174,159,1247,184"/>
+<area shape="rect" id="node2" href="$directory_8h.html#a360de0f3a61721d83b1d6f3f435779de" title="Opens the root directory and returns a directory for it." alt="" coords="1022,133,1126,159"/>
+<area shape="rect" id="node17" href="$directory_8h.html#a0a9521db17816e1e7b81f30c0e00e980" title="Opens and returns a new directory for the same inode as DIR." alt="" coords="1031,183,1116,208"/>
+<area shape="rect" id="node3" href="$filesys_8h.html#aff15830b489ffbb2619bbb71a79656ee" title="Creates a file named NAME with the given INITIAL_SIZE." alt="" coords="871,32,974,57"/>
+<area shape="rect" id="node7" href="$filesys_8h.html#a6dd9e1e66d780ecd7580dabcf72559b4" title="Opens the file with the given NAME." alt="" coords="875,107,970,132"/>
+<area shape="rect" id="node14" href="$filesys_8h.html#ac536ffc3c10934a7f80e43e98b7c75ae" title="filesys/filesys.h" alt="" coords="713,207,823,232"/>
+<area shape="rect" id="node16" href="$fsutil_8c.html#a50cc451070af8d6fd949d2975b5f588d" title="List files in the root directory." alt="" coords="581,259,647,284"/>
+<area shape="rect" id="node4" href="$fsutil_8c.html#a645c7bbd9ea64199eed695ec3b2bd26b" title="Extracts a ustar&#45;format tar archive from the scratch block device into the Pintos file system." alt="" coords="720,5,816,31"/>
+<area shape="rect" id="node5" href="$init_8c.html#a119afb30b477e7978c504b34450be746" title="Executes all of the actions specified in ARGV[] up to the null pointer sentinel." alt="" coords="135,132,225,157"/>
+<area shape="rect" id="node6" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,132,87,157"/>
+<area shape="rect" id="node8" href="$fsutil_8h.html#a5e71854d868a26c3f243d4d3e4b1ef82" title="filesys/fsutil.h" alt="" coords="564,56,665,81"/>
+<area shape="rect" id="node9" href="$fsutil_8h.html#a45adb8f359bde7b04c52bae5421811e0" title="Prints the contents of file ARGV[1] to the system console as hex and ASCII." alt="" coords="418,107,491,132"/>
+<area shape="rect" id="node10" href="$process_8c.html#af761b81ad417b7194e0132e23abe2cb4" title="Loads an ELF executable from FILE_NAME into the current thread." alt="" coords="745,157,791,183"/>
+<area shape="rect" id="node11" href="$process_8c.html#aff0aeae725745f4c80c93b49e8dc1af0" title="A thread function that loads a user process and starts it running." alt="" coords="564,157,665,183"/>
+<area shape="rect" id="node12" href="$process_8h.html#a1582bcaeb44cd10cde5e05c3385b2f97" title="Starts a new thread running a user program loaded from FILENAME." alt="" coords="393,157,516,183"/>
+<area shape="rect" id="node13" href="$init_8c.html#aff4f7abdb534106a4f1e2c2581713271" title="Runs the task specified in ARGV[1]." alt="" coords="273,157,345,183"/>
+<area shape="rect" id="node15" href="$fsutil_8h.html#abd1a295d2e6c91da47f137c863a26b97" title="Deletes file ARGV[1]." alt="" coords="273,207,345,232"/>
+</map>

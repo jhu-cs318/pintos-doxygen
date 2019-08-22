@@ -1,0 +1,10 @@
+<map id="print_human_readable_size" name="print_human_readable_size">
+<area shape="rect" id="node1" title="Prints SIZE, which represents a number of bytes, in a human&#45;readable format, e.g." alt="" coords="1079,81,1265,107"/>
+<area shape="rect" id="node2" href="$block_8h.html#ab23e50178419646d6627f02eaaf76b4c" title="devices/block.h" alt="" coords="927,56,1031,81"/>
+<area shape="rect" id="node6" href="$ide_8c.html#afcd1cfa04037980c000c94c826517759" title="Sends an IDENTIFY DEVICE command to disk D and reads the response." alt="" coords="246,56,382,81"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a80cdac8263b0ada84abe4ddf0adb8614" title="We have found a primary or logical partition of the given TYPE on BLOCK, starting at sector START and..." alt="" coords="769,5,879,31"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a5723d235ee99ff5ebd79a4db49236237" title="Reads the partition table in the given SECTOR of BLOCK and scans it for partitions of interest to Pin..." alt="" coords="582,5,721,31"/>
+<area shape="rect" id="node5" href="$partition_8h.html#a4fdb0ebb310a02d435b287dd185a6daa" title="devices/partition.h" alt="" coords="430,5,534,31"/>
+<area shape="rect" id="node7" href="$ide_8h.html#a5e8e1409e0675bdd93040403c52dd660" title="devices/ide.h" alt="" coords="135,56,198,81"/>
+<area shape="rect" id="node8" href="$init_8c.html#a597a4e36419870df906ed14699bf47c7" title="Pintos main entry point." alt="" coords="5,56,87,81"/>
+</map>
